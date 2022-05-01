@@ -1,0 +1,59 @@
+{
+   "cannot_run": {
+      "message": "Desactivado"
+   },
+   "css_label_font_size": {
+      "message": "13px"
+   },
+   "css_letter_spacing": {
+      "message": "-0.5px"
+   },
+   "default": {
+      "message": "Defecto"
+   },
+   "disabled": {
+      "message": "Detenido"
+   },
+   "enabled": {
+      "message": "Ejecutando"
+   },
+   "enter_domain": {
+      "message": "Ingrese un dominio aquí ..."
+   },
+   "extDesc": {
+      "message": "Evite que los sitios deshabiliten el clic derecho, las selecciones de texto y la copia."
+   },
+   "extName": {
+      "message": "Ultimate Habilitar Derecho Clic"
+   },
+   "extShortName": {
+      "message": "Ultimate Habilitar Derecho Clic"
+   },
+   "help": {
+      "message": "Ayuda"
+   },
+   "pending_refresh": {
+      "message": "Pendiente\nde actualización"
+   },
+   "per_site_settings": {
+      "message": "Configuración por sitio"
+   },
+   "popup_title_context_menu": {
+      "message": "Habilitar derecho clic"
+   },
+   "popup_title_css_block_selection": {
+      "message": "Habilitar la selección de texto (CSS)"
+   },
+   "rate": {
+      "message": "¡Nos califica!"
+   },
+   "temp_disabled": {
+      "message": "Detenido para esta\nsesión"
+   },
+   "temp_enabled": {
+      "message": "Ejecutando para esta\nsesión "
+   },
+   "version": {
+      "message": "Versión 2.1.3"
+   }
+}

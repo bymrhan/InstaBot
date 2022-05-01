@@ -1,0 +1,308 @@
+{
+   "action_app_website": {
+      "message": "Trang web {app_name}"
+   },
+   "action_browser_settings": {
+      "message": "Cài đặt {browser_name}"
+   },
+   "action_chrome_web_store": {
+      "message": "Cửa hàng Web {browser_name}"
+   },
+   "action_convert_to": {
+      "message": "Chuyển đổi sang {file_type}"
+   },
+   "action_manage_settings": {
+      "message": "Quản lý cài đặt"
+   },
+   "appDesc": {
+      "message": "Công cụ PDF dễ sử dụng để Chỉnh sửa, Chuyển đổi, Trộn, Tách và Nén các tệp PDF."
+   },
+   "appName": {
+      "message": "Smallpdf - Chỉnh sửa, Nén và Chuyển đổi PDF"
+   },
+   "beta_settings_description": {
+      "message": "Là một thành viên của chương trình thử nghiệm beta Smallpdf, bạn sẽ được truy cập độc quyền các tính năng mới nhất của chúng tôi—thậm chí trước khi chúng tôi giới thiệu những tính năng này với công chúng."
+   },
+   "beta_settings_title": {
+      "message": "Chương trình Thử nghiệm Beta Smallpdf"
+   },
+   "compress": {
+      "message": "Nén"
+   },
+   "converter": {
+      "message": "Chuyển đổi"
+   },
+   "delete": {
+      "message": "Xóa Trang"
+   },
+   "download": {
+      "message": "Tải xuống"
+   },
+   "downloadCta": {
+      "message": "Tải về ngay"
+   },
+   "edit": {
+      "message": "Chỉnh sửa"
+   },
+   "excel": {
+      "message": "Excel sang PDF"
+   },
+   "extract": {
+      "message": "PDF sang JPG"
+   },
+   "fileIsReady": {
+      "message": "Tệp tin của bạn đã sẵn sàng"
+   },
+   "file_schema_access_chrome_option": {
+      "message": "Cho phép truy cập vào các URL của tệp"
+   },
+   "file_schema_access_description": {
+      "message": "Để tận dụng hết các công cụ Smallpdf, vui lòng bật cấp quyền trong cài đặt Tiện ích Mở rộng Chrome để cho các công cụ Smallpdf truy cập vào các tệp cục bộ của bạn."
+   },
+   "file_schema_access_select": {
+      "message": "Hoặc chọn lại tệp"
+   },
+   "file_schema_access_select_button": {
+      "message": "chọn tệp"
+   },
+   "file_schema_access_step1": {
+      "message": "Đi đến trang cài đặt Tiện ích Mở rộng Chrome Smallpdf."
+   },
+   "file_schema_access_step2": {
+      "message": "Đặt nút đảo chiều sang ‘{option}’ sang ‘bật’."
+   },
+   "file_schema_access_step3": {
+      "message": "Bạn đã cài đặt xong! Hãy nhớ rằng bạn có thể thay đổi các ưu tiên cài đặt bất cứ lúc nào."
+   },
+   "file_schema_access_title": {
+      "message": "Chỉ với 3 bước đơn giản và bạn đã xong!"
+   },
+   "file_type_excel": {
+      "message": "Excel"
+   },
+   "file_type_generic_image": {
+      "message": "Hình ảnh"
+   },
+   "file_type_generic_image_plural": {
+      "message": "Hình ảnh"
+   },
+   "file_type_generic_office": {
+      "message": "Office"
+   },
+   "file_type_pdf_plural": {
+      "message": "PDF"
+   },
+   "file_type_powerpoint_long": {
+      "message": "PowerPoint"
+   },
+   "file_type_word": {
+      "message": "Word"
+   },
+   "gmail_converter_action_add_attachment_compress": {
+      "message": "Nén và đính kèm {file_type} tệp"
+   },
+   "gmail_converter_action_dismiss": {
+      "message": "Bỏ qua"
+   },
+   "gmail_converter_error_processing_generic": {
+      "message": "Không thể xử lý tài liệu này."
+   },
+   "gmail_converter_error_unsupported_file_type": {
+      "message": "Loại tệp này không được hỗ trợ."
+   },
+   "gmail_converter_intro_action_confirm": {
+      "message": "Hãy thử xem!"
+   },
+   "gmail_converter_intro_description": {
+      "message": "{bang} Giảm kích thước tệp đính kèm {file_type} của bạn bằng {app_name}."
+   },
+   "gmail_converter_status_processing_compress": {
+      "message": "Đang nén..."
+   },
+   "gmail_converter_status_processing_generic": {
+      "message": "Đang xử lý..."
+   },
+   "gmail_converter_status_uploading": {
+      "message": "Đang tải lên..."
+   },
+   "gmail_intro_action_confirm": {
+      "message": "OK, đã hiểu"
+   },
+   "gmail_intro_action_next": {
+      "message": "Tiếp theo"
+   },
+   "gmail_intro_compress": {
+      "message": "Giảm kích thước tệp đính kèm {input_format} của bạn trực tiếp trong Gmail"
+   },
+   "gmail_intro_convert_attachments": {
+      "message": "Chuyển đổi tệp đính kèm {input_format} thành {output_format_word}, {output_format_excel}, {output_format_ppt} và {output_format_jpg}"
+   },
+   "gmail_intro_features_convert_images": {
+      "message": "Chuyển đổi {input_file_types_list} tệp tin sang {output_file_type}."
+   },
+   "gmail_intro_features_convert_pdf": {
+      "message": "Chuyển đổi {input_file_type} đính kèm sang {output_file_types_list} tệp tin."
+   },
+   "gmail_intro_lead": {
+      "message": "{bang} Chuyển đổi các đính kèm Gmail với {app_name}"
+   },
+   "gmail_intro_new": {
+      "message": "MỚI!"
+   },
+   "job_status_uploading": {
+      "message": "Đang tải lên..."
+   },
+   "jpg": {
+      "message": "JPG sang PDF"
+   },
+   "list_conjunction_long_end": {
+      "message": "{0} và {1}"
+   },
+   "list_conjunction_long_middle": {
+      "message": "{0}, {1}"
+   },
+   "list_conjunction_long_pair": {
+      "message": "{0} và {1}"
+   },
+   "list_conjunction_long_start": {
+      "message": "{0}, {1}"
+   },
+   "list_disjunction_long_end": {
+      "message": "{0} hoặc {1}"
+   },
+   "list_disjunction_long_middle": {
+      "message": "{0}, {1}"
+   },
+   "list_disjunction_long_pair": {
+      "message": "{0} hoặc {1}"
+   },
+   "list_disjunction_long_start": {
+      "message": "{0}, {1}"
+   },
+   "merge": {
+      "message": "Gộp"
+   },
+   "noInternetConnection": {
+      "message": "Không có kết nối internet"
+   },
+   "options_extension_version": {
+      "message": "Phần mở rộng {browser_name} / {version}"
+   },
+   "options_setting_gmail_integration_description": {
+      "message": "Tích hợp Gmail cho phép bạn chuyển đổi các đính kèm email từ và sang {file_type}."
+   },
+   "options_setting_gmail_integration_title": {
+      "message": "Tích hợp Gmail"
+   },
+   "options_setting_local_files_description": {
+      "message": "Cho phép {app_name} truy cập URL tệp tin địa phương của bạn để mở {file_types} trong {browser_name}."
+   },
+   "options_setting_local_files_title": {
+      "message": "Bật phần mở rộng {app_name} trong các tệp tin địa phương"
+   },
+   "options_setting_status_disabled": {
+      "message": "Tắt"
+   },
+   "password_modal_description": {
+      "message": "Tài liệu này được bảo vệ bằng mật khẩu. Vui lòng nhập mật khẩu để mở khóa."
+   },
+   "password_modal_incorrect": {
+      "message": "Mật khẩu không chính xác"
+   },
+   "password_modal_placeholder": {
+      "message": "Nhập mật khẩu"
+   },
+   "password_modal_submit": {
+      "message": "GỬI"
+   },
+   "password_modal_title": {
+      "message": "Cần có mật khẩu"
+   },
+   "pdf_to_excel": {
+      "message": "PDF sang Excel"
+   },
+   "pdf_to_ppt": {
+      "message": "PDF sang PPT"
+   },
+   "pdf_to_word": {
+      "message": "PDF sang Word"
+   },
+   "ppt": {
+      "message": "PPT sang PDF"
+   },
+   "print": {
+      "message": "In"
+   },
+   "processingFailedMessage": {
+      "message": "Xin lỗi, đã xảy ra sự cố khi xử lý tệp tin của bạn"
+   },
+   "processingFailedTitle": {
+      "message": "Xử lý không thành công"
+   },
+   "protect": {
+      "message": "Bảo vệ"
+   },
+   "rotate": {
+      "message": "Xoay"
+   },
+   "search": {
+      "message": "Tìm kiếm"
+   },
+   "sign": {
+      "message": "Ký tên"
+   },
+   "split": {
+      "message": "Phân chia"
+   },
+   "tools": {
+      "message": "Công cụ"
+   },
+   "unlock": {
+      "message": "Mở khóa"
+   },
+   "uploadFailed": {
+      "message": "Xin lỗi bạn đã tải lên không thành công"
+   },
+   "viewer_error_action": {
+      "message": "TẢI LÊN TỆP PDF MỚI"
+   },
+   "viewer_error_invalid_description": {
+      "message": "Vui lòng kiểm tra xem tệp của bạn có phải ở định dạng PDF chuẩn không và thử lại."
+   },
+   "viewer_error_invalid_title": {
+      "message": "Ôi trời! Dường như tệp của bạn không ở định dạng PDF hoặc bị hỏng."
+   },
+   "viewer_error_unknown_description": {
+      "message": "Xin lỗi vì sự bất tiện này. 😔 Đội ngũ kỹ thuật của chúng tôi đang xem xét vấn đề này!"
+   },
+   "viewer_error_unknown_title": {
+      "message": "Úi! Đã xảy ra lỗi không xác định!"
+   },
+   "viewer_fit_to_page": {
+      "message": "Vừa với trang"
+   },
+   "viewer_fit_to_width": {
+      "message": "Vừa với chiều rộng"
+   },
+   "viewer_next_page": {
+      "message": "Trang tiếp theo"
+   },
+   "viewer_of_pages": {
+      "message": "/ {total_pages}"
+   },
+   "viewer_previous_page": {
+      "message": "Trang trước"
+   },
+   "viewer_rotate_clockwise": {
+      "message": "Xoay theo chiều kim đồng hồ"
+   },
+   "viewer_zoom_in": {
+      "message": "Phóng to"
+   },
+   "viewer_zoom_out": {
+      "message": "Thu nhỏ"
+   },
+   "word": {
+      "message": "Word sang PDF"
+   }
+}

@@ -1,0 +1,308 @@
+{
+   "action_app_website": {
+      "message": "{app_name} İnternet Sitesi"
+   },
+   "action_browser_settings": {
+      "message": "{browser_name} Ayarları"
+   },
+   "action_chrome_web_store": {
+      "message": "{browser_name} İnternet Mağazası"
+   },
+   "action_convert_to": {
+      "message": "{file_type} dosyasına dönüştür"
+   },
+   "action_manage_settings": {
+      "message": "Ayarları yönet"
+   },
+   "appDesc": {
+      "message": "PDF Dosyalarını Düzenlemek, Dönüştürmek, Birleştirmek, Bölmek ve Sıkıştırmak için Kullanımı Kolay PDF araçları."
+   },
+   "appName": {
+      "message": "Smallpdf - PDF Düzenle, Sıkıştır ve Dönüştür"
+   },
+   "beta_settings_description": {
+      "message": "Smallpdf’in beta test programının bir üyesi olarak, herkese açık hale getirmeden önce en son özelliklerimize özel erişim elde edersiniz."
+   },
+   "beta_settings_title": {
+      "message": "Smallpdf Beta Test Programı"
+   },
+   "compress": {
+      "message": "Sıkıştır"
+   },
+   "converter": {
+      "message": "Dönüştür"
+   },
+   "delete": {
+      "message": "Sayfaları sil"
+   },
+   "download": {
+      "message": "İndir"
+   },
+   "downloadCta": {
+      "message": "Onu şimdi indir"
+   },
+   "edit": {
+      "message": "Düzenle"
+   },
+   "excel": {
+      "message": "Excel'den PDF'e"
+   },
+   "extract": {
+      "message": "PDF'ten JPG'e"
+   },
+   "fileIsReady": {
+      "message": "Dosyan hazır"
+   },
+   "file_schema_access_chrome_option": {
+      "message": "Dosya URL'lerine erişime izin ver"
+   },
+   "file_schema_access_description": {
+      "message": "Smallpdf araçlarından en iyi şekilde yararlanmak için lütfen Smallpdf araçlarına yerel dosyalarınıza erişim izni vermek üzere Chrome Uzantı ayarlarında izinleri etkinleştirin."
+   },
+   "file_schema_access_select": {
+      "message": "Veya dosyayı tekrar seç"
+   },
+   "file_schema_access_select_button": {
+      "message": "dosya seç"
+   },
+   "file_schema_access_step1": {
+      "message": "Smallpdf Chrome Uzantı ayarları sayfasına gidin."
+   },
+   "file_schema_access_step2": {
+      "message": "'{option}' seçeneğini 'açık' olarak ayarlayın."
+   },
+   "file_schema_access_step3": {
+      "message": "Artık hazırsınız! Unutmayın, ayar tercihlerinizi istediğiniz zaman değiştirebilirsiniz."
+   },
+   "file_schema_access_title": {
+      "message": "Sadece 3 kolay adım ve işiniz bitti!"
+   },
+   "file_type_excel": {
+      "message": "Excel"
+   },
+   "file_type_generic_image": {
+      "message": "Görüntü"
+   },
+   "file_type_generic_image_plural": {
+      "message": "Görüntüler"
+   },
+   "file_type_generic_office": {
+      "message": "Büro"
+   },
+   "file_type_pdf_plural": {
+      "message": "PDF'ler"
+   },
+   "file_type_powerpoint_long": {
+      "message": "PowerPoint"
+   },
+   "file_type_word": {
+      "message": "Word"
+   },
+   "gmail_converter_action_add_attachment_compress": {
+      "message": "{file_type} dosyalarını sıkıştır ve ekle"
+   },
+   "gmail_converter_action_dismiss": {
+      "message": "Reddet"
+   },
+   "gmail_converter_error_processing_generic": {
+      "message": "Bu dosya işlenemedi"
+   },
+   "gmail_converter_error_unsupported_file_type": {
+      "message": "Bu dosya türü desteklenmiyor."
+   },
+   "gmail_converter_intro_action_confirm": {
+      "message": "Haydi dene!"
+   },
+   "gmail_converter_intro_description": {
+      "message": "{bang}{file_type} eklerinizin boyutunu {app_name} ile azaltın."
+   },
+   "gmail_converter_status_processing_compress": {
+      "message": "Sıkıştırılıyor..."
+   },
+   "gmail_converter_status_processing_generic": {
+      "message": "İşleniyor..."
+   },
+   "gmail_converter_status_uploading": {
+      "message": "Yükleniyor..."
+   },
+   "gmail_intro_action_confirm": {
+      "message": "Tamam, anladım"
+   },
+   "gmail_intro_action_next": {
+      "message": "Sonraki"
+   },
+   "gmail_intro_compress": {
+      "message": "{input_format} eklerinizin boyutunu doğrudan Gmail'de düşürün"
+   },
+   "gmail_intro_convert_attachments": {
+      "message": "{input_format} ekleri {output_format_word}, {output_format_excel}, {output_format_ppt} ve {output_format_jpg} biçimine dönüştürün"
+   },
+   "gmail_intro_features_convert_images": {
+      "message": "{input_file_types_list} dosyalarını {output_file_type} dosyalarına dönüştür."
+   },
+   "gmail_intro_features_convert_pdf": {
+      "message": "{input_file_type} eklerini {output_file_types_list} dosyalarına dönüştür."
+   },
+   "gmail_intro_lead": {
+      "message": "{bang} Gmail eklerini {app_name} ile dönüştür"
+   },
+   "gmail_intro_new": {
+      "message": "YENİ!"
+   },
+   "job_status_uploading": {
+      "message": "Karşıya yükleniyor..."
+   },
+   "jpg": {
+      "message": "JPG'ten PDF'e"
+   },
+   "list_conjunction_long_end": {
+      "message": "{0} ve {1}"
+   },
+   "list_conjunction_long_middle": {
+      "message": "{0}, {1}"
+   },
+   "list_conjunction_long_pair": {
+      "message": "{0} ve {1}"
+   },
+   "list_conjunction_long_start": {
+      "message": "{0}, {1}"
+   },
+   "list_disjunction_long_end": {
+      "message": "{0}, ya da {1}"
+   },
+   "list_disjunction_long_middle": {
+      "message": "{0}, {1}"
+   },
+   "list_disjunction_long_pair": {
+      "message": "{0} ya da {1}"
+   },
+   "list_disjunction_long_start": {
+      "message": "{0}, {1}"
+   },
+   "merge": {
+      "message": "Birleştir"
+   },
+   "noInternetConnection": {
+      "message": "İnternet bağlantısı yok"
+   },
+   "options_extension_version": {
+      "message": "{browser_name} Eklentisi / {version}"
+   },
+   "options_setting_gmail_integration_description": {
+      "message": "Gmail entegrasyonu e-posta eklerini {file_type} dosyalarına/dosyalarından dönüştürmene imkan tanır."
+   },
+   "options_setting_gmail_integration_title": {
+      "message": "Gmail Entegrasyonu"
+   },
+   "options_setting_local_files_description": {
+      "message": "{file_types} dosyalarının {browser_name} ile açılmasına imkan tanımak için {app_name} uygulamasının yerel dosya URL'lerine erişimine izin ver."
+   },
+   "options_setting_local_files_title": {
+      "message": "Yerel dosyalarda {app_name} eklentisini etkinleştir"
+   },
+   "options_setting_status_disabled": {
+      "message": "Devre dışı bırakıldı"
+   },
+   "password_modal_description": {
+      "message": "Bu belge parola-korumalı. Kilidi açmak için lütfen parolayı girin."
+   },
+   "password_modal_incorrect": {
+      "message": "Yanlış parola"
+   },
+   "password_modal_placeholder": {
+      "message": "Parola girin"
+   },
+   "password_modal_submit": {
+      "message": "GÖNDER"
+   },
+   "password_modal_title": {
+      "message": "Parola gerekli"
+   },
+   "pdf_to_excel": {
+      "message": "PDF'ten Excel'e"
+   },
+   "pdf_to_ppt": {
+      "message": "PDF'ten PPT'ye"
+   },
+   "pdf_to_word": {
+      "message": "PDF'ten Word'a"
+   },
+   "ppt": {
+      "message": "PPT'den PDF'e"
+   },
+   "print": {
+      "message": "Yazdır"
+   },
+   "processingFailedMessage": {
+      "message": "Üzgünüz, dosyanı işlerken bir sorun oluştu"
+   },
+   "processingFailedTitle": {
+      "message": "İşleme başarısız oldu"
+   },
+   "protect": {
+      "message": "Koru"
+   },
+   "rotate": {
+      "message": "Döndür"
+   },
+   "search": {
+      "message": "Arama"
+   },
+   "sign": {
+      "message": "İmzala"
+   },
+   "split": {
+      "message": "Ayır"
+   },
+   "tools": {
+      "message": "Araçlar"
+   },
+   "unlock": {
+      "message": "Kilidini aç"
+   },
+   "uploadFailed": {
+      "message": "Üzgünüz, karşıya yüklemen başarısız oldu"
+   },
+   "viewer_error_action": {
+      "message": "YENİ PDF YÜKLE"
+   },
+   "viewer_error_invalid_description": {
+      "message": "Lütfen dosyanızın geçerli bir PDF olduğunu doğrulayın ve tekrar deneyin."
+   },
+   "viewer_error_invalid_title": {
+      "message": "Eyvah! Görünüşe göre dosyanız PDF değil veya bozulmuş."
+   },
+   "viewer_error_unknown_description": {
+      "message": "Rahatsızlıktan dolayı özür dileriz. 😔 Teknik ekibimiz üzerinde çalışıyor!"
+   },
+   "viewer_error_unknown_title": {
+      "message": "Hay aksi! Bilinmeyen bir hata oluştu!"
+   },
+   "viewer_fit_to_page": {
+      "message": "Sayfaya sığdır"
+   },
+   "viewer_fit_to_width": {
+      "message": "Genişliğe sığdır"
+   },
+   "viewer_next_page": {
+      "message": "Sonraki sayfa"
+   },
+   "viewer_of_pages": {
+      "message": "/ {total_pages}"
+   },
+   "viewer_previous_page": {
+      "message": "Önceki sayfa"
+   },
+   "viewer_rotate_clockwise": {
+      "message": "Saat yönünde döndür"
+   },
+   "viewer_zoom_in": {
+      "message": "Yakınlaştır"
+   },
+   "viewer_zoom_out": {
+      "message": "Uzaklaştır"
+   },
+   "word": {
+      "message": "Word'ten PDF'e"
+   }
+}

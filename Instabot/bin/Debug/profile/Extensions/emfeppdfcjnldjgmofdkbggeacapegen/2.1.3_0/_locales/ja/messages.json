@@ -1,0 +1,59 @@
+{
+   "cannot_run": {
+      "message": "無効"
+   },
+   "css_label_font_size": {
+      "message": "13px"
+   },
+   "css_letter_spacing": {
+      "message": "0px"
+   },
+   "default": {
+      "message": "デフォルト"
+   },
+   "disabled": {
+      "message": "解除中"
+   },
+   "enabled": {
+      "message": "動作中"
+   },
+   "enter_domain": {
+      "message": "ここにドメインを入力してください.."
+   },
+   "extDesc": {
+      "message": "サイトが右クリック、テキスト選択、およびコピーを無効にするのをシームレスに防ぎます。"
+   },
+   "extName": {
+      "message": "究極の右クリックを有効にする"
+   },
+   "extShortName": {
+      "message": "究極の右クリックを有効にする"
+   },
+   "help": {
+      "message": "ヘルプ"
+   },
+   "pending_refresh": {
+      "message": "リフレッシュ\nの保留中"
+   },
+   "per_site_settings": {
+      "message": "サイトごとの設定"
+   },
+   "popup_title_context_menu": {
+      "message": "右クリックブロッキング防止"
+   },
+   "popup_title_css_block_selection": {
+      "message": "ブロックの選択を有効にする (CSS)"
+   },
+   "rate": {
+      "message": "私たちを評価してください！"
+   },
+   "temp_disabled": {
+      "message": "今回のセッションで\n解除中"
+   },
+   "temp_enabled": {
+      "message": "今回のセッションで\n動作中"
+   },
+   "version": {
+      "message": "バージョン 2.1.3"
+   }
+}

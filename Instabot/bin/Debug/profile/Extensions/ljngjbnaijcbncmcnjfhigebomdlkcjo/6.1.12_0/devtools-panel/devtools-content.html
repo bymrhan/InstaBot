@@ -1,0 +1,293 @@
+<!-- Created by sanjay kumar on 5/12/16.-->
+
+<html>
+<head>
+    <title>ChroPath</title>
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script> -->
+    <link rel="stylesheet" id="cssFile" type="text/css" href="devtoolsForDefaultTheme.css" />
+    <meta http-equiv="content-type" content="text/plain; charset=UTF-8"/>
+</head>
+<body>
+	<div class="header">
+		<div class="header1">
+			<select class="boxTitle">
+				<option value="selectors">Selectors</option>
+				<option value="relXpath">Rel XPath</option>
+				<option value="absXpath">Abs XPath</option>
+				<option value="css">CSS Sel..</option>
+			</select>
+			<div class="selector-edit-box">
+				<span class="iframeIcon" title="Inside iframe. Inspect any element outside this iframe to work with element which our outside this iframe.">inside iframe</span>
+				<input type="search" class="xpath-input jsXpath" placeholder=" type selectors and press enter" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" value=""/>
+			</div>
+	    </div>
+	    <div class="settingContainer">
+	    	<button class="header-copy-btn" title="click to copy rel XPath">
+	    	</button>
+
+	    	<div class="toggle-btn active" data-placeholder="6.0">
+    			<div class="toggle-circle"></div>
+    			<span class="toggle toolTip">click to disable ChroPath</span>
+  			</div>
+			<div class="total-count jsTotalCount hideCountMsg"></div>
+			<button class="helpIcon">
+				<span class="questionMark toolTip">"xpathValue" keyword should be there in the command.</span>
+			</button>
+		    <input type="search" class="pre-command" placeholder="keep xpathvalue as keyword in command." autocomplete="off" autocorrect="off" title='You can change this command, just keep xpathvalue as keyword where you want to have xpath value in command. For ex- FindBy(xpath="xpathvalue") or if xpath is not inside double quotes then FindBy(xpath=xpathValue)' spellcheck="false" value='driver.findElement(By.xpath("xpathvalue"))'/>
+		    <button class="addPrefix inactive">
+		    	<span class="prefix toolTip">set driver command to append on selectors.</span>
+		    </button>
+		    <button class="captureButton grey">
+		    	<span class="capture toolTip">click to generate automation code/multiple xpaths.</span>
+		    </button>
+		    <button id='record' class="recorderButton">
+		    	<span class="cpStudio toolTip">click to open ChroPath Studio.</span>
+			</button>			
+		    <button id='smartMaintenance' class="smartMaintenance">
+		    	<span class="resetSmart toolTip">click for smart maintenance.</span>
+			</button>												
+		    <button class="reset-btn">
+		    	<span class="reset toolTip">click to reset all the config to default.</span>
+		    </button>
+	    </div>
+	</div>
+
+	<div class="attributeOption">
+		<label><input class="attributeChoice id" type="checkbox" name="id" checked />id</label>
+		<label><input class="attributeChoice class" type="checkbox" name="class" checked />class</label>
+		<label><input class="attributeChoice name" type="checkbox" name="name" checked />name</label>
+		<label><input class="attributeChoice placeholder" type="checkbox" name="placeholder" checked />placeholder</label>
+		<label><input class="attributeChoice textXpath" type="checkbox" title="xpath with text or without text." checked>text</label>		
+		<input class="attributeChoice user" type="search" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" name="unique" placeholder="attribute name">
+	</div>
+	<span class="popuptext" id="myPopup">copied</span>
+	<ul class='selectorsBlock'>
+		<li class="selectorsContainer iframeXpath">
+			<button class="copy-btn box iframeCopyButton" title="click to copy iframe XPath"></button>
+			<button class="edit-btn box iframeEditButton" title="click to edit iframe XPath"></button>
+			<span class="matchingNodesContainer"><mark class="numberOfMatchingNodes iframeXpath"></mark></span>
+		    <span  class="selector-type box" title="xpath of iframe inside which inspected element exist.">iframeXPath</span>
+		    <span type="text" class="box jsSelector iframeXpath" data-command="xpath" placeholder="get the iframe XPath here"></span>
+	    </li>
+		<li class="selectorsContainer suggestedXpath">
+			<button class="copy-btn box suggestedCopyButton" title="click to copy suggested XPath"></button>
+			<button class="edit-btn box suggestedEditButton" title="click to edit suggested XPath"></button>
+			<span class="matchingNodesContainer"><mark class="numberOfMatchingNodes suggestedXpath"></mark></span>
+		    <span  class="selector-type box" title="CP suggested XPath for the 1st matching node of your selector">CP XPath for 1st node</span>
+		    <span type="text" class="box jsSelector suggestedXpath" data-command="xpath" placeholder="get the suggested XPath here"></span>
+	    </li>
+		<li class="selectorsContainer relXpath" id="relXpathSelector">
+			<button class="copy-btn box relCopyButton" title="Click to copy relative XPath"></button>
+			<button class="edit-btn box relEditButton" title="Click to edit relative XPath"></button>
+			<button class="alertIcon" title="">
+				<span class="alert toolTip"></span>
+			</button>
+			<span class="matchingNodesContainer"><mark class="numberOfMatchingNodes relXpath"></mark></span>
+			
+			<span  class="selector-type box" title="Relative XPath for inspected element in DOM">Rel XPath</span>
+		    <span type="text" class="box jsSelector rel" data-command="xpath" placeholder="get the relative xpath here"></span>
+		    
+	    </li>
+		<li class="selectorsContainer id">
+			<button class="copy-btn box idCopyButton" title="Click to copy id"></button>
+		    <button class="edit-btn box idEditButton" title="Click to edit id"></button>
+		    <span class="matchingNodesContainer"><mark class="numberOfMatchingNodes id"></mark></span>
+		    <span  class="selector-type box" title="id for inspected element in DOM">id</span>
+		    <span type="text" class="box jsSelector id" data-command="id" placeholder="get the id here"></span>
+    	</li>
+    	<li class="selectorsContainer name">
+			<button class="copy-btn box nameCopyButton" title="Click to copy name"></button>
+		    <button class="edit-btn box nameEditButton" title="Click to edit name"></button>
+		    <span class="matchingNodesContainer"><mark class="numberOfMatchingNodes name"></mark></span>
+		    <span  class="selector-type box" title="name for inspected element in DOM">name</span>
+		    <span type="text" class="box jsSelector name" data-command="name" placeholder="get the name here"></span>
+    	</li>
+    	<li class="selectorsContainer className">
+			<button class="copy-btn box classNameCopyButton" title="Click to copy className"></button>
+		    <button class="edit-btn box classNameEditButton" title="Click to edit className"></button>
+		    <span class="matchingNodesContainer"><mark class="numberOfMatchingNodes className"></mark></span>
+		    <span  class="selector-type box" title="className for inspected element in DOM">className</span>
+		    <span type="text" class="box jsSelector className" data-command="className" placeholder="get the className here"></span>
+    	</li>
+	    <li class="selectorsContainer cssSelector">
+			<button class="copy-btn box cssCopyButton" title="Click to copy CSS selector"></button>
+		    <button class="edit-btn box cssEditButton" title="Click to edit CSS selector"></button>
+		    <span class="matchingNodesContainer"><mark class="numberOfMatchingNodes cssSelector"></mark></span>
+		    <span  class="selector-type box" title="cssSelector for inspected element in DOM">cssSelector</span>
+		    <span type="text" class="box jsSelector css" data-command="cssSelector" placeholder="get the css selector here"></span>
+	    </li>
+    	<li class="selectorsContainer linkText">
+			<button class="copy-btn box linkTextCopyButton" title="Click to copy linkText"></button>
+		    <button class="edit-btn box linkTextEditButton" title="Click to edit linkText"></button>
+		    <span class="matchingNodesContainer"><mark class="numberOfMatchingNodes linkText"></mark></span>
+		    <span  class="selector-type box" title="linkText for inspected element in DOM">LinkText</span>
+		    <span type="text" class="box jsSelector linkText" data-command="linkText" placeholder="get the linkText here"></span>
+    	</li>
+    	<li class="selectorsContainer partialLinkText">
+			<button class="copy-btn box partialLinkTextCopyButton" title="Click to copy partialLinkText"></button>
+		    <button class="edit-btn box partialLinkTextEditButton" title="Click to edit partialLinkText"></button>
+		    <span class="matchingNodesContainer"><mark class="numberOfMatchingNodes partialLinkText"></mark></span>
+		    <span  class="selector-type box" title="partialLinkText for inspected element in DOM">PLinkText</span>
+		    <span type="text" class="box jsSelector partialLinkText" data-command="partialLinkText" placeholder="get the partialLinkText here"></span>
+    	</li>
+    	<li class="selectorsContainer absXpath">
+			<button class="copy-btn box absCopyButton" title="Click to copy absolute XPath"></button>
+		    <button class="edit-btn box absEditButton" title="Click to edit absolute XPath"></button>
+		    <span class="matchingNodesContainer"><mark class="numberOfMatchingNodes absXpath"></mark></span>
+		    <span  class="selector-type box" title="absXpath for inspected element in DOM" >Abs XPath</span>
+		    <span type="text" class="box jsSelector abs" data-command="xpath" placeholder="get the absolute xpath here"></span>
+	    </li>
+    	<li class="selectorsContainer tagName">
+			<button class="copy-btn box tagNameCopyButton" title="Click to copy tagName"></button>
+		    <button class="edit-btn box tagNameEditButton" title="Click to edit tagName"></button>
+		    <span class="matchingNodesContainer"><mark class="numberOfMatchingNodes tagName"></mark></span>
+		    <span  class="selector-type box" title="tagName for inspected element in DOM">tagName</span>
+		    <span type="text" class="box jsSelector tagName" data-command="tagName" placeholder="get the tagName here"></span>
+    	</li>  	
+    </ul>
+    
+	<ul id="chroPathEleContainer">
+	</ul>
+
+
+	<!-- Snackbar -->
+	<div id="snackbar"></div>
+
+	<div id="multiSelectorDiv">
+	  <table id="multiSelectorTable" border="1">
+	  	<thead>
+		    <tr id="tableRow">
+		      <th class="s-no-header">#</th>
+		      <th class="label-header">Label</th>
+		      <th class="selector-header"><span id="selectorHeader">Command</span><span class="selectorsCount">(0)</span>
+			      <button class="copyAllButton">
+			      	<span class="copyAll toolTip">Click to copy all the XPaths.</span>
+			      </button>
+			      <button class="deleteAllButton">
+			      	<span class="deleteAll toolTip">Click to delete all the rows.</span>
+			      </button>
+			      <a class="tutorialLink" target="_blank" href="https://youtu.be/EuLtm7OVLDE">
+				      <button class="tutorialIcon">
+				      	<span class="tutorial toolTip">How to generate Automation code.</span>
+				      </button>
+			  	  </a>
+		  	  </th>
+		      <th class="export-button-header">
+					<button id="changeIconButton" class="openModal">
+						<span class="pasteModal toolTip">Click to paste all the XPaths</span>
+					</button>
+					<button class="importButton">
+						<span class="uploadModalIcon toolTip">Click to upload downloaded XPath xls file</span>
+					</button>
+					<button class="exportButton">
+						<span class="export toolTip">Click to export data in xls.</span>
+					</button>
+					<!-- <input type="file" id="imgupload" style="display:none" accept=".xls, .xlsx" />  -->
+				</th>
+		    </tr>
+		</thead>
+		<tbody id="tableBody">
+		    <tr style="display: none;">
+		      <td id="s-no" ></td>
+		      <td autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" id="labelData" class="label editableContent" contenteditable="true"></td>
+		      <td autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" id="selectorData" class="selectorValue editableContent" contenteditable="true"></td>
+		      <td autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" id="actionBtn">
+		      	<!-- <span class="popuptext" id="myPopup">copied</span> -->
+		      	<button id="row-copy-btn" title="click to copy relative XPath"></button>
+		      	<button id="row-edit-btn" title="click to edit relative XPath"></button>
+		      	<button id="delButton"></button>
+		      </td>
+	    	</tr>
+    	</tbody>
+	  </table>
+	  <!-- <div class="tablePlaceholder">No selector recorded yet.<br>Please inspect elements or click on DOM nodes to record selectors.</div> -->
+	  <div class="tablePlaceholder">
+	  	1. Inspect elements or click on DOM nodes one by one to record xpaths for many.<br>
+	  	2. Turn on the driver command to generate xpath with command.<br>
+	  	3. You can also set the attribute to generate xpath.<br>
+	  	4. Click on Copy All button in header to copy all xpaths.<br>
+	  	5. You can also export the recorded in xls by click on export icon.
+	  </div>
+
+	  <!-- Add XPATH modal -->
+	  <div id="addNewModal" class="modal addNewModal">
+			<div class="vertical-alignment-helper">
+				<div class="modal-dialog vertical-align-center">
+					<div class="close">
+						<span id="modalClose">&times;</span>
+					</div>
+					<div class="modal-contents">
+						<div class="modal-header">
+							<p class="modal-title" id="addNewTitle"></p>
+						</div>
+						<div class="modal-body">
+							<div style="margin-top: 10px; display: flex; align-items: center;">
+								<p class="new-title-label" id="addNewTitleLabel"></p>
+								<div style="height: 40px; display: flex; align-items: center;">
+									<span style="font-size: 12px; font-family: sans-serif;">Add command input</span>
+									<div id='inputToggle' class="toggle-btn active" title="click to add labels" >
+										<div class="toggle-circle"></div>
+									</div>
+								</div>
+							</div>
+							<input type="text" placeholder="replace xpath by xpathvalue as keyword in the command." autocomplete="off" autocorrect="off" title='You can change this command, just replace xpath by xpathvalue keyword in the command. For ex- FindBy(xpath="//div") then enter command as FindBy(xpath="xpathvalue") or if xpath is not inside double quotes like FindBy(xpath=//div) then FindBy(xpath=xpathvalue)' spellcheck="false" value='driver.findElement(By.xpath("xpathvalue"))' class="enterLabels" id="customCommand">
+							<p id="commandValidation" style="display: none;">Replace xpath by xpathvalue keyword in the command. For ex- FindBy(xpath="//div") then enter command as FindBy(xpath="xpathvalue") or if xpath is not inside double quotes like FindBy(xpath=//div) then FindBy(xpath=xpathvalue)</p>
+							<!-- <textarea  placeholder="Enter Labels" rows="4" class="enterLabels" id="enterLabels" cols="20"></textarea> -->
+							<textarea placeholder="Paste selectors page or complete script here" rows="4" class="enterNewTitle" id="enterNewTitle" cols="20"></textarea>
+							<input style="display: none;" type="file" name="imgupload" accept=".xls, .xlsx, .csv" id="imgupload">
+						</div>
+						<div class="modal-footer">
+							<button type="button" id="modal-cancel" class="btn-cancel" data-dismiss="modal">Cancel</button>
+							<button type="button" id="btn-submit" class="btn-submit">Ok</button>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	  
+	</div>
+	<div class="footer">
+		<a class="chropathDetailsPage" target="_blank" class="bold-link" title="Click to know more about ChroPath." href="https://autonomiq.io/chropath/">
+				<button class="chropathLogo"></button>
+		</a>
+		<span class="separator">|</span>
+		<a href="https://autonomiq.io/chropath" target="_blank">Download for other browsers</a>
+		<span class="separator">|</span>
+
+		<a href="https://chrome.google.com/webstore/detail/chropath/ljngjbnaijcbncmcnjfhigebomdlkcjo/reviews" target="_blank" class="chromeReviewLink">Pls add review</a>
+		<span class="separator">|</span>
+
+		<a href="https://autonomiq.io/community-design-program/" target="_blank" class="communityForm">Join CP Community</a>
+		<span class="separator">| Follow us </span>
+
+		<a href="https://twitter.com/ChroPath" target="_blank">
+			<button class="twitter"></button>
+		</a>
+		
+		<a href="https://www.linkedin.com/company/14505574/" target="_blank">
+			<button class="linkedin"></button>
+		</a>
+
+		<!-- <a href="https://www.facebook.com/ChroPath/" target="_blank">
+			<button class="facebook"></button>
+		</a> -->
+		
+		<a href="https://www.instagram.com/chropathtool/" target="_blank">
+			<button class="instagram"></button>
+		</a>
+		<span class="separator4">|</span>
+
+		<a href="https://join.slack.com/t/chropath/shared_invite/enQtNTk2NzQwMDE2Nzc1LWZjZGZiODc2NTNhYTVlMGQxNGNlMWM3MzRjNDNkODc2YjcxZWU2NTAxOGIwYzdmYzY2MDExZjdjMWEwMTcxZTI" target="_blank" title="Join Slack for live chat">Slack</a>
+		<span class="separator">|</span>
+		<a href="https://github.com/Autonomiq/ChroPathFeedback/issues/" target="_blank" title="Raise issue/feature request here.">Git</a>
+
+		<span class="separator">|</span>
+		<!-- update version number here in every release -->
+		<span class="version" title="ChroPath version installed.">v 6.1.11</span>
+	</div>
+	
+	<script src="devtools-script.js"></script>
+	<script src="xlsx.full.min.js"></script>
+
+</body>
+</html>

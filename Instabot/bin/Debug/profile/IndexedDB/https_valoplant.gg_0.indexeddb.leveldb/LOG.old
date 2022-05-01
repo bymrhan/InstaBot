@@ -1,0 +1,18 @@
+2022/02/22-03:14:54.915 42e0 Creating DB C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Profile 1\IndexedDB\https_valoplant.gg_0.indexeddb.leveldb since it was missing.
+2022/02/22-03:14:54.926 42e0 Reusing MANIFEST C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Profile 1\IndexedDB\https_valoplant.gg_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/22-03:14:54.981 5004 Level-0 table #5: started
+2022/02/22-03:14:54.994 5004 Level-0 table #5: 600 bytes OK
+2022/02/22-03:14:54.999 5004 Delete type=0 #3
+2022/02/22-03:14:54.999 5004 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/02/22-03:52:17.481 4ecc Level-0 table #7: started
+2022/02/22-03:52:17.486 4ecc Level-0 table #7: 6843 bytes OK
+2022/02/22-03:52:17.492 4ecc Delete type=0 #4
+2022/02/22-03:52:17.492 4ecc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/02/22-03:52:17.492 4ecc Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x01C\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00C\x003\x008\x00R\x00K\x00C\x00g\x00x\x00K\x00w\x00A\x00x\x00b\x00w\x00C\x00Q\x00j\x005\x002\x00L\x00a\x00P\x00N\x007\x005\x004\x00j\x00U\x00v\x00h\x00T\x00P\x00o\x00:\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]' @ 146 : 1
+2022/02/22-03:52:17.492 4ecc Compacting 1@1 + 1@2 files
+2022/02/22-03:52:17.496 4ecc Generated table #8@1: 36 keys, 3130 bytes
+2022/02/22-03:52:17.496 4ecc Compacted 1@1 + 1@2 files => 3130 bytes
+2022/02/22-03:52:17.501 4ecc compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/02/22-03:52:17.502 4ecc Delete type=2 #5
+2022/02/22-03:52:17.502 4ecc Delete type=2 #7
+2022/02/22-03:52:17.503 4ecc Manual compaction at level-1 from '\x00\x03\x01\x02\x01C\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00C\x003\x008\x00R\x00K\x00C\x00g\x00x\x00K\x00w\x00A\x00x\x00b\x00w\x00C\x00Q\x00j\x005\x002\x00L\x00a\x00P\x00N\x007\x005\x004\x00j\x00U\x00v\x00h\x00T\x00P\x00o\x00:\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]' @ 146 : 1 .. (end); will stop at (end)

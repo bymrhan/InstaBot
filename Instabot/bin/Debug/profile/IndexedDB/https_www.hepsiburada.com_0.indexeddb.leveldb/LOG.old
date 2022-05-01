@@ -1,0 +1,6 @@
+2022/02/11-23:20:17.965 2038 Creating DB C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Profile 1\IndexedDB\https_www.hepsiburada.com_0.indexeddb.leveldb since it was missing.
+2022/02/11-23:20:17.970 2038 Reusing MANIFEST C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Profile 1\IndexedDB\https_www.hepsiburada.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/11-23:43:30.389 1e64 Level-0 table #5: started
+2022/02/11-23:43:30.391 1e64 Level-0 table #5: 4489 bytes OK
+2022/02/11-23:43:30.393 1e64 Delete type=0 #3
+2022/02/11-23:43:30.393 1e64 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

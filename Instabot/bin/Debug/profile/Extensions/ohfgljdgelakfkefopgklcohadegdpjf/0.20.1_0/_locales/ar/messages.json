@@ -1,0 +1,308 @@
+{
+   "action_app_website": {
+      "message": "موقع {app_name}"
+   },
+   "action_browser_settings": {
+      "message": "إعدادات {browser_name}"
+   },
+   "action_chrome_web_store": {
+      "message": "مخزن الموقع {browser_name}"
+   },
+   "action_convert_to": {
+      "message": "التحويل إلى {file_type}"
+   },
+   "action_manage_settings": {
+      "message": "إدارة الإعدادات"
+   },
+   "appDesc": {
+      "message": "أدوات PDF سهلة الاستخدام لتعديل وتحويل ودمج ملفات PDF وتقسيمها وضغطها."
+   },
+   "appName": {
+      "message": "Smallpdf- قم بتعديل وضغط ملفات PDF وتحويلها"
+   },
+   "beta_settings_description": {
+      "message": "بصفتك عضوًا في برنامج اختبار إصدار بيتا الخاص بأداة Smallpdf، فسوف تحظى بالوصول الحصري إلى أحدث ميزاتنا - حتى قبل إتاحتها للجمهور."
+   },
+   "beta_settings_title": {
+      "message": "برنامج اختبار إصدار بيتا الخاص بأداة Smallpdf"
+   },
+   "compress": {
+      "message": "ضغط"
+   },
+   "converter": {
+      "message": "تحويل"
+   },
+   "delete": {
+      "message": "حذف الصفحات"
+   },
+   "download": {
+      "message": "تنزيل"
+   },
+   "downloadCta": {
+      "message": "تنزيل تطبيق الآن"
+   },
+   "edit": {
+      "message": "تعديل"
+   },
+   "excel": {
+      "message": "Excel إلىPDF"
+   },
+   "extract": {
+      "message": "PDF إلى JPG"
+   },
+   "fileIsReady": {
+      "message": "ملفك جاهز"
+   },
+   "file_schema_access_chrome_option": {
+      "message": "السماح بالدخول إلى عناوين URL للملفات"
+   },
+   "file_schema_access_description": {
+      "message": "لتحقيق أقصى استفادة من أدوات Smallpdf، يُرجى تمكين الأذونات في إعدادات امتداد Chrome لمنح أدوات Smallpdf حق الوصول إلى ملفاتك المحلية."
+   },
+   "file_schema_access_select": {
+      "message": "أو حدد الملف مرة أخرى"
+   },
+   "file_schema_access_select_button": {
+      "message": "اختر ملف"
+   },
+   "file_schema_access_step1": {
+      "message": "انتقل إلى صفحة إعدادات امتداد Chrome لأداة Smallpdf."
+   },
+   "file_schema_access_step2": {
+      "message": "اضبط زر التبديل '{option}' على الوضع 'تشغيل'."
+   },
+   "file_schema_access_step3": {
+      "message": "بذلك تكون قد انتهيت تمامًا! تذكر أنه يمكنك تغيير تفضيلات إعداداتك في أي وقت."
+   },
+   "file_schema_access_title": {
+      "message": "هناك فقط 3 خطوات سهلة للقيام بذلك!"
+   },
+   "file_type_excel": {
+      "message": "إكسل"
+   },
+   "file_type_generic_image": {
+      "message": "صورة"
+   },
+   "file_type_generic_image_plural": {
+      "message": "صور"
+   },
+   "file_type_generic_office": {
+      "message": "مكتب"
+   },
+   "file_type_pdf_plural": {
+      "message": "ملفات PDF"
+   },
+   "file_type_powerpoint_long": {
+      "message": "باوربوينت"
+   },
+   "file_type_word": {
+      "message": "ملف وورد"
+   },
+   "gmail_converter_action_add_attachment_compress": {
+      "message": "اضغط وارفق ملفات {file_type}"
+   },
+   "gmail_converter_action_dismiss": {
+      "message": "رفض"
+   },
+   "gmail_converter_error_processing_generic": {
+      "message": "تعذر معالجة هذا المستند."
+   },
+   "gmail_converter_error_unsupported_file_type": {
+      "message": "نوع هذا الملف غير مدعوم."
+   },
+   "gmail_converter_intro_action_confirm": {
+      "message": "دعونا نحاول!"
+   },
+   "gmail_converter_intro_description": {
+      "message": "{bang} قلل حجم مرفقات {file_type} مع {app_name}."
+   },
+   "gmail_converter_status_processing_compress": {
+      "message": "جارٍ الضغط..."
+   },
+   "gmail_converter_status_processing_generic": {
+      "message": "جارٍ المعالجة..."
+   },
+   "gmail_converter_status_uploading": {
+      "message": "جارٍ الرفع..."
+   },
+   "gmail_intro_action_confirm": {
+      "message": "حسنًا، فهمت"
+   },
+   "gmail_intro_action_next": {
+      "message": "التالي"
+   },
+   "gmail_intro_compress": {
+      "message": "قلل حجم مرفقات {input_format} مباشرةً في الجيميل"
+   },
+   "gmail_intro_convert_attachments": {
+      "message": "تحويل مرفقات {input_format} إلى {output_format_word}، {output_format_excel}، {output_format_ppt} و{output_format_jpg}"
+   },
+   "gmail_intro_features_convert_images": {
+      "message": "تحويل ملفات {input_file_types_list} إلى {output_file_type}"
+   },
+   "gmail_intro_features_convert_pdf": {
+      "message": "تحويل مرفقات {input_file_type} إلى ملفات {output_file_types_list}."
+   },
+   "gmail_intro_lead": {
+      "message": "{bang} تحويل مرفقات Gmail مع {app_name}"
+   },
+   "gmail_intro_new": {
+      "message": "جديد!"
+   },
+   "job_status_uploading": {
+      "message": "جارٍ الرفع..."
+   },
+   "jpg": {
+      "message": "JPG إلىPDF"
+   },
+   "list_conjunction_long_end": {
+      "message": "{0}, و{1}"
+   },
+   "list_conjunction_long_middle": {
+      "message": "{0}, {1}"
+   },
+   "list_conjunction_long_pair": {
+      "message": "{0} و{1}"
+   },
+   "list_conjunction_long_start": {
+      "message": "{0}, {1}"
+   },
+   "list_disjunction_long_end": {
+      "message": "{0}, أو {1}"
+   },
+   "list_disjunction_long_middle": {
+      "message": "{0}, {1}"
+   },
+   "list_disjunction_long_pair": {
+      "message": "{0} أو {1}"
+   },
+   "list_disjunction_long_start": {
+      "message": "{0}, {1}"
+   },
+   "merge": {
+      "message": "دمج"
+   },
+   "noInternetConnection": {
+      "message": "لا يوجد اتصال بالإنترنت"
+   },
+   "options_extension_version": {
+      "message": "امتداد {browser_name}/ {version}"
+   },
+   "options_setting_gmail_integration_description": {
+      "message": "يتيح لك دمج Gmail تحويل مرفقات البريد الإلكتروني من وإلى {file_type}."
+   },
+   "options_setting_gmail_integration_title": {
+      "message": "دمج Gmail"
+   },
+   "options_setting_local_files_description": {
+      "message": "منح {app_name} حق الوصول إلى عناوين رابط URL لملفك المحلي لتمكين {file_types} من فتحه في {browser_name}."
+   },
+   "options_setting_local_files_title": {
+      "message": "تمكين امتداد {app_name} على الملفات المحلية"
+   },
+   "options_setting_status_disabled": {
+      "message": "مُعطل"
+   },
+   "password_modal_description": {
+      "message": "هذه الوثيقة محمية بكلمة مرور. يُرجى إدخال كلمة المرور لفتحها."
+   },
+   "password_modal_incorrect": {
+      "message": "كلمة المرور غير صحيحة "
+   },
+   "password_modal_placeholder": {
+      "message": "أدخل كلمة المرور"
+   },
+   "password_modal_submit": {
+      "message": "إرسال"
+   },
+   "password_modal_title": {
+      "message": "كلمة المرور مطلوبة"
+   },
+   "pdf_to_excel": {
+      "message": "PDF إلى Excel"
+   },
+   "pdf_to_ppt": {
+      "message": "PDF إلى PPT"
+   },
+   "pdf_to_word": {
+      "message": "PDF إلى Word"
+   },
+   "ppt": {
+      "message": "PPT إلى PDF"
+   },
+   "print": {
+      "message": "طباعة"
+   },
+   "processingFailedMessage": {
+      "message": "عذرًا، حدث خطأ في معالجة ملفك"
+   },
+   "processingFailedTitle": {
+      "message": "فشلت المعالجة"
+   },
+   "protect": {
+      "message": "حماية"
+   },
+   "rotate": {
+      "message": "استدارة"
+   },
+   "search": {
+      "message": "بحث"
+   },
+   "sign": {
+      "message": "توقيع"
+   },
+   "split": {
+      "message": "انفصال"
+   },
+   "tools": {
+      "message": "أدوات"
+   },
+   "unlock": {
+      "message": "فتح القفل"
+   },
+   "uploadFailed": {
+      "message": "عذرًا، فشل التحميل"
+   },
+   "viewer_error_action": {
+      "message": "تحميل ملف PDF جديد"
+   },
+   "viewer_error_invalid_description": {
+      "message": "يُرجى التحقق من أن ملفك هو ملف PDF صالح وأعد المحاولة."
+   },
+   "viewer_error_invalid_title": {
+      "message": "عفوًا! يبدو أن ملفك ليس ملف PDF أو أنه ملف تالف."
+   },
+   "viewer_error_unknown_description": {
+      "message": "نأسف على الإزعاج. 😔 سيتولى الفنيون لدينا معالجة الأمر!"
+   },
+   "viewer_error_unknown_title": {
+      "message": "عذرًا! حدث خطأ غير معروف!"
+   },
+   "viewer_fit_to_page": {
+      "message": "التناسب مع الصفحة"
+   },
+   "viewer_fit_to_width": {
+      "message": "التناسب مع العرض"
+   },
+   "viewer_next_page": {
+      "message": "الصفحة التالية"
+   },
+   "viewer_of_pages": {
+      "message": "من {total_pages}"
+   },
+   "viewer_previous_page": {
+      "message": "الصفحة السابقة"
+   },
+   "viewer_rotate_clockwise": {
+      "message": "تدوير مع عقارب الساعة"
+   },
+   "viewer_zoom_in": {
+      "message": "تكبير"
+   },
+   "viewer_zoom_out": {
+      "message": "تصغير"
+   },
+   "word": {
+      "message": "Word إلىPDF"
+   }
+}

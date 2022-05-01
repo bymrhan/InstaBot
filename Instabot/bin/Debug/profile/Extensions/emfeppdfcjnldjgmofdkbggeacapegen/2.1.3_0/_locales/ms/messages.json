@@ -1,0 +1,59 @@
+{
+   "cannot_run": {
+      "message": "Disabled in this page"
+   },
+   "css_label_font_size": {
+      "message": "13px"
+   },
+   "css_letter_spacing": {
+      "message": "-0.5px"
+   },
+   "default": {
+      "message": "Default"
+   },
+   "disabled": {
+      "message": "Stopped"
+   },
+   "enabled": {
+      "message": "Running"
+   },
+   "enter_domain": {
+      "message": "Enter a domain here.."
+   },
+   "extDesc": {
+      "message": "Enable Right Click, Enable Copy, Enable Text Highlight Everywhere. Unblock Text Selection, Allow Drag."
+   },
+   "extName": {
+      "message": "Absolute Enable Right Click & Copy"
+   },
+   "extShortName": {
+      "message": "Ultimate Enable Right Click"
+   },
+   "help": {
+      "message": "Help"
+   },
+   "pending_refresh": {
+      "message": "Pending refresh"
+   },
+   "per_site_settings": {
+      "message": "Per-site settings"
+   },
+   "popup_title_context_menu": {
+      "message": "Enable right click"
+   },
+   "popup_title_css_block_selection": {
+      "message": "Enable block selection (CSS)"
+   },
+   "rate": {
+      "message": "Rate us!"
+   },
+   "temp_disabled": {
+      "message": "Paused for this session"
+   },
+   "temp_enabled": {
+      "message": "Running for this session"
+   },
+   "version": {
+      "message": "Version 2.1.3"
+   }
+}

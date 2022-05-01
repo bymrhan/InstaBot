@@ -1,0 +1,308 @@
+{
+   "action_app_website": {
+      "message": "{app_name}ウェブサイト"
+   },
+   "action_browser_settings": {
+      "message": "{browser_name}設定"
+   },
+   "action_chrome_web_store": {
+      "message": "{browser_name}ウェブストア"
+   },
+   "action_convert_to": {
+      "message": "{file_type}に変換"
+   },
+   "action_manage_settings": {
+      "message": "設定を管理"
+   },
+   "appDesc": {
+      "message": "PDFファイルを編集、変換、マージ、分割、および圧縮するための使いやすいPDFツール。"
+   },
+   "appName": {
+      "message": "Smallpdf - PDFファイルの編集/圧縮/変換"
+   },
+   "beta_settings_description": {
+      "message": "Smallpdfベータテストプログラムのメンバーは、一般公開される前から、最新機能に独占的にアクセスすることができます。"
+   },
+   "beta_settings_title": {
+      "message": "Smallpdfベータテストプログラム"
+   },
+   "compress": {
+      "message": "圧縮"
+   },
+   "converter": {
+      "message": "変換"
+   },
+   "delete": {
+      "message": "ページを削除"
+   },
+   "download": {
+      "message": "ダウンロード"
+   },
+   "downloadCta": {
+      "message": "今すぐダウンロード"
+   },
+   "edit": {
+      "message": "編集"
+   },
+   "excel": {
+      "message": "ExcelからPDF"
+   },
+   "extract": {
+      "message": "PDFからJPG"
+   },
+   "fileIsReady": {
+      "message": "ファイルの準備ができました"
+   },
+   "file_schema_access_chrome_option": {
+      "message": "ファイルの URL へのアクセスを許可する"
+   },
+   "file_schema_access_description": {
+      "message": "Chromeの拡張設定内で、Smallpdfツールにローカルファイルへのアクセス権を付与することで、Smallpdfツールを最大限に活用できます。"
+   },
+   "file_schema_access_select": {
+      "message": "またはファイルを再度選択します"
+   },
+   "file_schema_access_select_button": {
+      "message": "ファイルを選択"
+   },
+   "file_schema_access_step1": {
+      "message": "Smallpdf Chromeの拡張機能設定ページへアクセスしてください。"
+   },
+   "file_schema_access_step2": {
+      "message": "トグルボタン「{option}」を「オン」にセットします。"
+   },
+   "file_schema_access_step3": {
+      "message": "完了です！設定の変更はいつでも可能です。"
+   },
+   "file_schema_access_title": {
+      "message": "３ステップの簡単な操作で完了できます！"
+   },
+   "file_type_excel": {
+      "message": "Excel"
+   },
+   "file_type_generic_image": {
+      "message": "画像"
+   },
+   "file_type_generic_image_plural": {
+      "message": "画像"
+   },
+   "file_type_generic_office": {
+      "message": "Office"
+   },
+   "file_type_pdf_plural": {
+      "message": "PDF"
+   },
+   "file_type_powerpoint_long": {
+      "message": "PowerPoint"
+   },
+   "file_type_word": {
+      "message": "Word"
+   },
+   "gmail_converter_action_add_attachment_compress": {
+      "message": "{file_type}ファイルを圧縮して添付"
+   },
+   "gmail_converter_action_dismiss": {
+      "message": "無視する"
+   },
+   "gmail_converter_error_processing_generic": {
+      "message": "このドキュメントを処理できませんでした。"
+   },
+   "gmail_converter_error_unsupported_file_type": {
+      "message": "この種類のファイルには対応していません。"
+   },
+   "gmail_converter_intro_action_confirm": {
+      "message": "試しましょう！"
+   },
+   "gmail_converter_intro_description": {
+      "message": "{bang} {app_name}を使えば{file_type}の添付ファイルのサイズを小さくすることができます。"
+   },
+   "gmail_converter_status_processing_compress": {
+      "message": "圧縮中…"
+   },
+   "gmail_converter_status_processing_generic": {
+      "message": "処理中…"
+   },
+   "gmail_converter_status_uploading": {
+      "message": "アップロード中…"
+   },
+   "gmail_intro_action_confirm": {
+      "message": "了解"
+   },
+   "gmail_intro_action_next": {
+      "message": "次へ"
+   },
+   "gmail_intro_compress": {
+      "message": "Gmailで直接{input_format}の添付ファイルのサイズを縮小することができます"
+   },
+   "gmail_intro_convert_attachments": {
+      "message": "{input_format}の添付ファイルを{output_format_word}、 {output_format_excel}、{output_format_ppt}、{output_format_jpg}に変換します"
+   },
+   "gmail_intro_features_convert_images": {
+      "message": "{input_file_types_list}ファイルを{output_file_type}に変換する。"
+   },
+   "gmail_intro_features_convert_pdf": {
+      "message": "{input_file_type}の添付ファイルを{output_file_types_list}ファイルに変換する。"
+   },
+   "gmail_intro_lead": {
+      "message": "{bang} {app_name}でGmailの添付ファイルを変換"
+   },
+   "gmail_intro_new": {
+      "message": "NEW!"
+   },
+   "job_status_uploading": {
+      "message": "アップロード中..."
+   },
+   "jpg": {
+      "message": "JPGからPDF"
+   },
+   "list_conjunction_long_end": {
+      "message": "{0}、{1}"
+   },
+   "list_conjunction_long_middle": {
+      "message": "{0}、{1}"
+   },
+   "list_conjunction_long_pair": {
+      "message": "{0}および{1}"
+   },
+   "list_conjunction_long_start": {
+      "message": "{0}、{1}"
+   },
+   "list_disjunction_long_end": {
+      "message": "{0}、または {1}"
+   },
+   "list_disjunction_long_middle": {
+      "message": "{0}、{1}"
+   },
+   "list_disjunction_long_pair": {
+      "message": "{0}または{1}"
+   },
+   "list_disjunction_long_start": {
+      "message": "{0}、{1}"
+   },
+   "merge": {
+      "message": "結合"
+   },
+   "noInternetConnection": {
+      "message": "インターネット接続なし"
+   },
+   "options_extension_version": {
+      "message": "{browser_name}拡張機能 / {version}"
+   },
+   "options_setting_gmail_integration_description": {
+      "message": "Gmail統合はメールの添付ファイルを{file_type}からの変換と同ファイルタイプへの変換を可能とします。"
+   },
+   "options_setting_gmail_integration_title": {
+      "message": "Gmail統合"
+   },
+   "options_setting_local_files_description": {
+      "message": "{app_name}にローカルファイルURLへのアクセスを許可して、{file_types}を{browser_name}で開けるようにしてくだしあ。"
+   },
+   "options_setting_local_files_title": {
+      "message": "{app_name}拡張機能をローカルファイルに有効にする"
+   },
+   "options_setting_status_disabled": {
+      "message": "無効"
+   },
+   "password_modal_description": {
+      "message": "この文書はパスワード保護されています。パスワードを入力してロックを解除してください。"
+   },
+   "password_modal_incorrect": {
+      "message": "パスワードが無効"
+   },
+   "password_modal_placeholder": {
+      "message": "パスワードを入力"
+   },
+   "password_modal_submit": {
+      "message": "送信"
+   },
+   "password_modal_title": {
+      "message": "パスワードが必要です"
+   },
+   "pdf_to_excel": {
+      "message": "PDFからExcel"
+   },
+   "pdf_to_ppt": {
+      "message": "PDFからPPT"
+   },
+   "pdf_to_word": {
+      "message": "PDFからWord"
+   },
+   "ppt": {
+      "message": "PPTからPDF"
+   },
+   "print": {
+      "message": "印刷"
+   },
+   "processingFailedMessage": {
+      "message": "申し訳ありません。ファイルの処理に問題が発生しました"
+   },
+   "processingFailedTitle": {
+      "message": "処理失敗"
+   },
+   "protect": {
+      "message": "保護"
+   },
+   "rotate": {
+      "message": "回転"
+   },
+   "search": {
+      "message": "検索"
+   },
+   "sign": {
+      "message": "署名"
+   },
+   "split": {
+      "message": "分割"
+   },
+   "tools": {
+      "message": "ツール"
+   },
+   "unlock": {
+      "message": "ロック解除"
+   },
+   "uploadFailed": {
+      "message": "アップロードに失敗しました"
+   },
+   "viewer_error_action": {
+      "message": "新しいPDFをアップロード"
+   },
+   "viewer_error_invalid_description": {
+      "message": "PDFの有効性を確認してから再度お試しください。"
+   },
+   "viewer_error_invalid_title": {
+      "message": "残念！ファイルがPDFでないか、破損している可能性があります。"
+   },
+   "viewer_error_unknown_description": {
+      "message": "ご不便をおかけして申し訳ございません。😔  技術者が調査を行っています！"
+   },
+   "viewer_error_unknown_title": {
+      "message": "失敗！不明なエラーです！"
+   },
+   "viewer_fit_to_page": {
+      "message": "ページに合わせる"
+   },
+   "viewer_fit_to_width": {
+      "message": "幅に合わせる"
+   },
+   "viewer_next_page": {
+      "message": "次のページ"
+   },
+   "viewer_of_pages": {
+      "message": "/{total_pages}"
+   },
+   "viewer_previous_page": {
+      "message": "前のページ"
+   },
+   "viewer_rotate_clockwise": {
+      "message": "時計回りに回転"
+   },
+   "viewer_zoom_in": {
+      "message": "拡大"
+   },
+   "viewer_zoom_out": {
+      "message": "縮小"
+   },
+   "word": {
+      "message": "WordからPDF"
+   }
+}

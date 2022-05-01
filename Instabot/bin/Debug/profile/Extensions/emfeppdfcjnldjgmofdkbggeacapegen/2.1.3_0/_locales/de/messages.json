@@ -1,0 +1,59 @@
+{
+   "cannot_run": {
+      "message": "Auf dieser Seite\ndeaktiviert"
+   },
+   "css_label_font_size": {
+      "message": "13px"
+   },
+   "css_letter_spacing": {
+      "message": "-0.5px"
+   },
+   "default": {
+      "message": "Voreinstellung"
+   },
+   "disabled": {
+      "message": "Gestoppt"
+   },
+   "enabled": {
+      "message": "Läuft"
+   },
+   "enter_domain": {
+      "message": "Geben Sie hier eine Domain ein.."
+   },
+   "extDesc": {
+      "message": "Verhindern Sie, dass Websites Rechtsklick, Textauswahl und Kopieren deaktivieren."
+   },
+   "extName": {
+      "message": "Ultimative aktivieren Rechtsklick"
+   },
+   "extShortName": {
+      "message": "Ultimative aktivieren Rechtsklick"
+   },
+   "help": {
+      "message": "Hilfe"
+   },
+   "pending_refresh": {
+      "message": "Ausstehende\nAktualisierung"
+   },
+   "per_site_settings": {
+      "message": "Einstellungen pro Site"
+   },
+   "popup_title_context_menu": {
+      "message": "Rechtsklick aktivieren"
+   },
+   "popup_title_css_block_selection": {
+      "message": "Aktivieren Sie Textblock Auswahl (CSS)"
+   },
+   "rate": {
+      "message": "Bewerten Sie uns!"
+   },
+   "temp_disabled": {
+      "message": "Für diese Sitzung\nangehalten"
+   },
+   "temp_enabled": {
+      "message": "Läuft für diese Sitzung\nausgeführt"
+   },
+   "version": {
+      "message": "Version 2.1.3"
+   }
+}

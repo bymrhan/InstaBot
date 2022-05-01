@@ -1,0 +1,308 @@
+{
+   "action_app_website": {
+      "message": "เว็บไซต์ {app_name}"
+   },
+   "action_browser_settings": {
+      "message": "ตั้งค่า {browser_name}"
+   },
+   "action_chrome_web_store": {
+      "message": "{browser_name} เว็บสโตร์"
+   },
+   "action_convert_to": {
+      "message": "แปลงเป็น {file_type}"
+   },
+   "action_manage_settings": {
+      "message": "จัดการการตั้งค่า"
+   },
+   "appDesc": {
+      "message": "เครื่องมือ PDF ที่ใช้งานง่ายเพื่อแก้ไข แปลง รวม แยก และบีบอัดไฟล์ PDF"
+   },
+   "appName": {
+      "message": "Smallpdf - แก้ไข บีบอัด และแปลงไฟล์ PDF"
+   },
+   "beta_settings_description": {
+      "message": "ในฐานะที่คุณเป็นสมาชิกของโปรแกรมทดสอบเบต้าของ Smallpdf คุณจะได้รับสิทธิพิเศษในการเข้าถึงคุณลักษณะใหม่ล่าสุดของเรา - ก่อนที่เราจะเปิดให้ทุกคนสามารถใช้งานได้"
+   },
+   "beta_settings_title": {
+      "message": "โปรแกรมทดสอบเบต้าของ Smallpdf"
+   },
+   "compress": {
+      "message": "บีบอัด"
+   },
+   "converter": {
+      "message": "แปลง"
+   },
+   "delete": {
+      "message": "ลบหน้า"
+   },
+   "download": {
+      "message": "ดาวน์โหลด"
+   },
+   "downloadCta": {
+      "message": "ดาวน์โหลดทันที"
+   },
+   "edit": {
+      "message": "แก้ไข"
+   },
+   "excel": {
+      "message": "Excel เป็น PDF"
+   },
+   "extract": {
+      "message": "PDF เป็น JPG"
+   },
+   "fileIsReady": {
+      "message": "ไฟล์ของคุณพร้อมแล้ว"
+   },
+   "file_schema_access_chrome_option": {
+      "message": "อนุญาตให้เข้าถึงไฟล์ URL"
+   },
+   "file_schema_access_description": {
+      "message": "เพื่อประโยชน์สูงสุดในการใช้เครื่องมือของ Smallpdf โปรดเปิดใช้งานการอนุญาตในการตั้งค่า Chrome Extension เพื่อให้เครื่องมือ Smallpdf เข้าถึงไฟล์ในเครื่องของคุณได้"
+   },
+   "file_schema_access_select": {
+      "message": "หรือเลือกไฟล์อีกครั้ง"
+   },
+   "file_schema_access_select_button": {
+      "message": "เลือกไฟล์"
+   },
+   "file_schema_access_step1": {
+      "message": "ไปที่ หน้าการตั้งค่า Smallpdf Chrome Extension"
+   },
+   "file_schema_access_step2": {
+      "message": "เลื่อนปุ่ม “{option}” ไปที่ “เปิด”"
+   },
+   "file_schema_access_step3": {
+      "message": "พร้อมแล้ว! จำไว้ว่าคุณสามารถเปลี่ยนการตั้งค่าได้ทุกเมื่อตามที่ต้องการ"
+   },
+   "file_schema_access_title": {
+      "message": "เพียง 3 ขั้นตอนง่าย ๆ ก็เสร็จแล้ว!"
+   },
+   "file_type_excel": {
+      "message": "Excel"
+   },
+   "file_type_generic_image": {
+      "message": "รูปภาพ"
+   },
+   "file_type_generic_image_plural": {
+      "message": "รูปภาพ"
+   },
+   "file_type_generic_office": {
+      "message": "Office"
+   },
+   "file_type_pdf_plural": {
+      "message": "PDF"
+   },
+   "file_type_powerpoint_long": {
+      "message": "PowerPoint"
+   },
+   "file_type_word": {
+      "message": "Word"
+   },
+   "gmail_converter_action_add_attachment_compress": {
+      "message": "บีบอัด และแนบไฟล์ {file_type}"
+   },
+   "gmail_converter_action_dismiss": {
+      "message": "ยกเลิก"
+   },
+   "gmail_converter_error_processing_generic": {
+      "message": "ไม่สามารถประมวลผลเอกสารนี้"
+   },
+   "gmail_converter_error_unsupported_file_type": {
+      "message": "ไม่รองรับไฟล์ประเภทนี้"
+   },
+   "gmail_converter_intro_action_confirm": {
+      "message": "มาลองกัน!"
+   },
+   "gmail_converter_intro_description": {
+      "message": "{bang} ลดขนาดของไฟล์แนบ {file_type} ของคุณด้วย {app_name}"
+   },
+   "gmail_converter_status_processing_compress": {
+      "message": "กำลังบีบอัด..."
+   },
+   "gmail_converter_status_processing_generic": {
+      "message": "กำลังประมวลผล..."
+   },
+   "gmail_converter_status_uploading": {
+      "message": "กำลังอัปโหลด..."
+   },
+   "gmail_intro_action_confirm": {
+      "message": "ตกลง เข้าใจแล้ว"
+   },
+   "gmail_intro_action_next": {
+      "message": "ถัดไป"
+   },
+   "gmail_intro_compress": {
+      "message": "ลดขนาดเอกสารแนบ {input_format} ของคุณใน Gmail โดยตรง"
+   },
+   "gmail_intro_convert_attachments": {
+      "message": "แปลงเอกสารแนบ {input_format} เป็น {output_format_word}, {output_format_excel}, {output_format_ppt} และ {output_format_jpg}"
+   },
+   "gmail_intro_features_convert_images": {
+      "message": "แปลงไฟล์ {input_file_types_list} เป็น {output_file_type}"
+   },
+   "gmail_intro_features_convert_pdf": {
+      "message": "แปลงเอกสารแนบ {input_file_type} เป็นไฟล์ {output_file_types_list}"
+   },
+   "gmail_intro_lead": {
+      "message": "{bang} แปลงเอกสารแนบ Gmail ด้วย {app_name}"
+   },
+   "gmail_intro_new": {
+      "message": "ใหม่!"
+   },
+   "job_status_uploading": {
+      "message": "กำลังอัปโหลด…"
+   },
+   "jpg": {
+      "message": "JPG เป็น PDF"
+   },
+   "list_conjunction_long_end": {
+      "message": "{0} และ {1}"
+   },
+   "list_conjunction_long_middle": {
+      "message": "{0}, {1}"
+   },
+   "list_conjunction_long_pair": {
+      "message": "{0} และ {1}"
+   },
+   "list_conjunction_long_start": {
+      "message": "{0}, {1}"
+   },
+   "list_disjunction_long_end": {
+      "message": "{0} หรือ {1}"
+   },
+   "list_disjunction_long_middle": {
+      "message": "{0}, {1}"
+   },
+   "list_disjunction_long_pair": {
+      "message": "{0} หรือ {1}"
+   },
+   "list_disjunction_long_start": {
+      "message": "{0}, {1}"
+   },
+   "merge": {
+      "message": "รวมไฟล์"
+   },
+   "noInternetConnection": {
+      "message": "ไม่มีการเชื่อมต่ออินเทอร์เน็ต"
+   },
+   "options_extension_version": {
+      "message": "ส่วนขยาย {browser_name} / {version}"
+   },
+   "options_setting_gmail_integration_description": {
+      "message": "การทำงานร่วมกับ Gmail ช่วยให้คุณสามารถแปลงเอกสารแนบอีเมลไปมาจาก {file_type}"
+   },
+   "options_setting_gmail_integration_title": {
+      "message": "การทำงานร่วมกับ Gmail"
+   },
+   "options_setting_local_files_description": {
+      "message": "อนุญาตให้ {app_name} เข้าถึง URL ไฟล์ในเครื่องเพื่อให้ {file_types} เปิดใน {browser_name} ได้"
+   },
+   "options_setting_local_files_title": {
+      "message": "เปิดใช้งานส่วนขยาย {app_name} กับไฟล์ในเครื่อง"
+   },
+   "options_setting_status_disabled": {
+      "message": "ปิดใช้งาน"
+   },
+   "password_modal_description": {
+      "message": "เอกสารนี้มีการป้องกันด้วยรหัสผ่าน กรุณาป้อนรหัสผ่านเพื่อปลดล็อก"
+   },
+   "password_modal_incorrect": {
+      "message": "รหัสผ่านไม่ถูกต้อง"
+   },
+   "password_modal_placeholder": {
+      "message": "ป้อนรหัสผ่าน"
+   },
+   "password_modal_submit": {
+      "message": "ยืนยัน"
+   },
+   "password_modal_title": {
+      "message": "กรุณาป้อนรหัสผ่าน"
+   },
+   "pdf_to_excel": {
+      "message": "PDF เป็น Excel"
+   },
+   "pdf_to_ppt": {
+      "message": "PDF เป็น PPT"
+   },
+   "pdf_to_word": {
+      "message": "PDF เป็น Word"
+   },
+   "ppt": {
+      "message": "PPT เป็น PDF"
+   },
+   "print": {
+      "message": "พิมพ์"
+   },
+   "processingFailedMessage": {
+      "message": "ขออภัย มีปัญหาในการประมวลผลไฟล์ของคุณ"
+   },
+   "processingFailedTitle": {
+      "message": "ประมวลผลไม่สำเร็จ"
+   },
+   "protect": {
+      "message": "ปกป้อง"
+   },
+   "rotate": {
+      "message": "หมุน"
+   },
+   "search": {
+      "message": "ค้นหา"
+   },
+   "sign": {
+      "message": "เซ็นชื่อ"
+   },
+   "split": {
+      "message": "แยกไฟล์"
+   },
+   "tools": {
+      "message": "เครื่องมือ"
+   },
+   "unlock": {
+      "message": "ปลดล็อก"
+   },
+   "uploadFailed": {
+      "message": "ขออภัย อัปโหลดไม่สำเร็จ"
+   },
+   "viewer_error_action": {
+      "message": "อัปโหลดไฟล์ PDF ใหม่"
+   },
+   "viewer_error_invalid_description": {
+      "message": "โปรดตรวจสอบว่าไฟล์ของคุณเป็นไฟล์ PDF ที่ถูกต้องและลองอีกครั้ง"
+   },
+   "viewer_error_invalid_title": {
+      "message": "ว้า! เหมือนไฟล์ของคุณไม่ใช่ไฟล์ PDF หรือไฟล์อาจใช้ไม่ได้"
+   },
+   "viewer_error_unknown_description": {
+      "message": "ขออภัยในความไม่สะดวก 😔  เจ้าหน้าที่ด้านเทคนิคของเราจะช่วยคุณ!"
+   },
+   "viewer_error_unknown_title": {
+      "message": "เอ๊ะ! เกิดข้อผิดพลาดที่ไม่ทราบสาเหตุ!"
+   },
+   "viewer_fit_to_page": {
+      "message": "พอดีหน้า"
+   },
+   "viewer_fit_to_width": {
+      "message": "พอดีความกว้าง"
+   },
+   "viewer_next_page": {
+      "message": "หน้าถัดไป"
+   },
+   "viewer_of_pages": {
+      "message": "จาก {total_pages}"
+   },
+   "viewer_previous_page": {
+      "message": "หน้าที่แล้ว"
+   },
+   "viewer_rotate_clockwise": {
+      "message": "หมุนตามเข็ม"
+   },
+   "viewer_zoom_in": {
+      "message": "ซูมเข้า"
+   },
+   "viewer_zoom_out": {
+      "message": "ซูมออก"
+   },
+   "word": {
+      "message": "Word เป็น PDF"
+   }
+}

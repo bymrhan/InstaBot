@@ -1,0 +1,308 @@
+{
+   "action_app_website": {
+      "message": "{app_name}-websted"
+   },
+   "action_browser_settings": {
+      "message": "{browser_name}-indstillinger"
+   },
+   "action_chrome_web_store": {
+      "message": "{browser_name}-webbutik"
+   },
+   "action_convert_to": {
+      "message": "Konverter til {file_type}"
+   },
+   "action_manage_settings": {
+      "message": "Administrer indstillinger"
+   },
+   "appDesc": {
+      "message": "Brugervenlige PDF-værktøjer til at redigere, konvertere, sammenflette, opdele og komprimere PDF-filer."
+   },
+   "appName": {
+      "message": "Smallpdf - Rediger, komprimer, konverter PDF"
+   },
+   "beta_settings_description": {
+      "message": "Som medlem af Smallpdfs betatestprogram får du eksklusiv adgang til vores nyeste funktioner—før de er offentligt tilgængelige."
+   },
+   "beta_settings_title": {
+      "message": "Smallpdf Betatest Program"
+   },
+   "compress": {
+      "message": "Komprimer"
+   },
+   "converter": {
+      "message": "Konverter"
+   },
+   "delete": {
+      "message": "Slet sider"
+   },
+   "download": {
+      "message": "Download"
+   },
+   "downloadCta": {
+      "message": "Download nu"
+   },
+   "edit": {
+      "message": "Rediger"
+   },
+   "excel": {
+      "message": "Excel til PDF"
+   },
+   "extract": {
+      "message": "PDF til JPG"
+   },
+   "fileIsReady": {
+      "message": "Din fil er klar"
+   },
+   "file_schema_access_chrome_option": {
+      "message": "Tillad adgang til webadresser på filer"
+   },
+   "file_schema_access_description": {
+      "message": "For at få mest muligt ud af Smallpdf-værktøjerne skal du aktivere tilladelser i indstillingsmenuen for Chrome-udvidelser, og give Smallpdf adgang til dine lokale filer."
+   },
+   "file_schema_access_select": {
+      "message": "Eller vælg filen igen"
+   },
+   "file_schema_access_select_button": {
+      "message": "vælg fil"
+   },
+   "file_schema_access_step1": {
+      "message": "Gå til indstillingssiden for Smallpdf Chrome-udvidelsen."
+   },
+   "file_schema_access_step2": {
+      "message": "Sæt til/fra-knappen ”{option}” på ”til”."
+   },
+   "file_schema_access_step3": {
+      "message": "Så er du klar! Husk at du til enhver tid kan ændre dine indstillinger."
+   },
+   "file_schema_access_title": {
+      "message": "Efter 3 nemme trin er du færdig!"
+   },
+   "file_type_excel": {
+      "message": "Excel"
+   },
+   "file_type_generic_image": {
+      "message": "Billede"
+   },
+   "file_type_generic_image_plural": {
+      "message": "Billeder"
+   },
+   "file_type_generic_office": {
+      "message": "Office"
+   },
+   "file_type_pdf_plural": {
+      "message": "PDF'er"
+   },
+   "file_type_powerpoint_long": {
+      "message": "PowerPoint"
+   },
+   "file_type_word": {
+      "message": "Word"
+   },
+   "gmail_converter_action_add_attachment_compress": {
+      "message": "Komprimer og vedhæft {file_type}-filer"
+   },
+   "gmail_converter_action_dismiss": {
+      "message": "Afvis"
+   },
+   "gmail_converter_error_processing_generic": {
+      "message": "Kunne ikke behandle dette dokument."
+   },
+   "gmail_converter_error_unsupported_file_type": {
+      "message": "Denne filtype understøttes ikke."
+   },
+   "gmail_converter_intro_action_confirm": {
+      "message": "Lad os prøve!"
+   },
+   "gmail_converter_intro_description": {
+      "message": "{bang} Reducer størrelsen på dine vedhæftede {file_type}-filer med {app_name}."
+   },
+   "gmail_converter_status_processing_compress": {
+      "message": "Komprimerer..."
+   },
+   "gmail_converter_status_processing_generic": {
+      "message": "Behandler..."
+   },
+   "gmail_converter_status_uploading": {
+      "message": "Uploader..."
+   },
+   "gmail_intro_action_confirm": {
+      "message": "OK, forstået"
+   },
+   "gmail_intro_action_next": {
+      "message": "Næste"
+   },
+   "gmail_intro_compress": {
+      "message": "Reducer størrelsen af dine {input_format}-vedhæftninger direkte i Gmail"
+   },
+   "gmail_intro_convert_attachments": {
+      "message": "Konverter {input_format}-veedhæftninger til {output_format_word}, {output_format_excel}, {output_format_ppt} og {output_format_jpg}"
+   },
+   "gmail_intro_features_convert_images": {
+      "message": "Konverter {input_file_types_list}-filer til {output_file_type}."
+   },
+   "gmail_intro_features_convert_pdf": {
+      "message": "Konverter vedhæftet {input_file_type} til {output_file_types_list}-filer."
+   },
+   "gmail_intro_lead": {
+      "message": "{bang} Konverter Gmail-vedhæftninger med {app_name}"
+   },
+   "gmail_intro_new": {
+      "message": "NYHED!"
+   },
+   "job_status_uploading": {
+      "message": "Overfører..."
+   },
+   "jpg": {
+      "message": "JPG til PDF"
+   },
+   "list_conjunction_long_end": {
+      "message": "{0}, og {1}"
+   },
+   "list_conjunction_long_middle": {
+      "message": "{0}, {1}"
+   },
+   "list_conjunction_long_pair": {
+      "message": "{0} og {1}"
+   },
+   "list_conjunction_long_start": {
+      "message": "{0}, {1}"
+   },
+   "list_disjunction_long_end": {
+      "message": "{0}, eller {1}"
+   },
+   "list_disjunction_long_middle": {
+      "message": "{0}, {1}"
+   },
+   "list_disjunction_long_pair": {
+      "message": "{0} eller {1}"
+   },
+   "list_disjunction_long_start": {
+      "message": "{0}, {1}"
+   },
+   "merge": {
+      "message": "Sammenflet"
+   },
+   "noInternetConnection": {
+      "message": "Ingen internetforbindelse"
+   },
+   "options_extension_version": {
+      "message": "{browser_name}-udvidelse/{version}"
+   },
+   "options_setting_gmail_integration_description": {
+      "message": "Med Gmail-integration kan du konvertere vedhæftede filer i e-mails til og fra {file_type}."
+   },
+   "options_setting_gmail_integration_title": {
+      "message": "Gmail-integration"
+   },
+   "options_setting_local_files_description": {
+      "message": "Giv {app_name} adgang til url'er til dine lokale filer for at gøre det muligt, at {file_types} åbnes i {browser_name}."
+   },
+   "options_setting_local_files_title": {
+      "message": "Aktiver {app_name}-udvidelse til lokale filer"
+   },
+   "options_setting_status_disabled": {
+      "message": "Deaktiveret"
+   },
+   "password_modal_description": {
+      "message": "Dette dokument er beskyttet af en adgangskode. Du skal indtaste en adgangskode for at låse det op."
+   },
+   "password_modal_incorrect": {
+      "message": "Forkert adgangskode"
+   },
+   "password_modal_placeholder": {
+      "message": "Indtast adgangskode"
+   },
+   "password_modal_submit": {
+      "message": "SEND"
+   },
+   "password_modal_title": {
+      "message": "Adgangskode påkrævet"
+   },
+   "pdf_to_excel": {
+      "message": "PDF til Excel"
+   },
+   "pdf_to_ppt": {
+      "message": "PDF til PPT"
+   },
+   "pdf_to_word": {
+      "message": "PDT til Word"
+   },
+   "ppt": {
+      "message": "PPT til PDF"
+   },
+   "print": {
+      "message": "Udskriv"
+   },
+   "processingFailedMessage": {
+      "message": "Beklager, men der opstod et problem under behandlingen af din fil"
+   },
+   "processingFailedTitle": {
+      "message": "Behandlingen mislykkedes"
+   },
+   "protect": {
+      "message": "Beskyt"
+   },
+   "rotate": {
+      "message": "Roter"
+   },
+   "search": {
+      "message": "Søg"
+   },
+   "sign": {
+      "message": "Underskriv"
+   },
+   "split": {
+      "message": "Opdel"
+   },
+   "tools": {
+      "message": "Værktøjer"
+   },
+   "unlock": {
+      "message": "Lås op"
+   },
+   "uploadFailed": {
+      "message": "Beklager, men din overførsel mislykkedes"
+   },
+   "viewer_error_action": {
+      "message": "UPLOAD NY PDF"
+   },
+   "viewer_error_invalid_description": {
+      "message": "Kontrollér, at din fil er en gyldig PDF, og prøv igen."
+   },
+   "viewer_error_invalid_title": {
+      "message": "Hovsa! Din fil synes ikke at være en PDF eller at være ødelagt."
+   },
+   "viewer_error_unknown_description": {
+      "message": "Undskyld ulejligheden. 😔 Vores teknikere ser på det!"
+   },
+   "viewer_error_unknown_title": {
+      "message": "Ups! Der er opstået en ukendt fejl!"
+   },
+   "viewer_fit_to_page": {
+      "message": "Tilpas til side"
+   },
+   "viewer_fit_to_width": {
+      "message": "Tilpas til bredde"
+   },
+   "viewer_next_page": {
+      "message": "Næste side"
+   },
+   "viewer_of_pages": {
+      "message": "af {total_pages}"
+   },
+   "viewer_previous_page": {
+      "message": "Forrige side"
+   },
+   "viewer_rotate_clockwise": {
+      "message": "Roter med uret"
+   },
+   "viewer_zoom_in": {
+      "message": "Zoom ind"
+   },
+   "viewer_zoom_out": {
+      "message": "Zoom ud"
+   },
+   "word": {
+      "message": "Word til PDF"
+   }
+}

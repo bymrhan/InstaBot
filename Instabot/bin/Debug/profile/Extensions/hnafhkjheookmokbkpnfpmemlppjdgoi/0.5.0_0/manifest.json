@@ -1,0 +1,31 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+
+   },
+   "description": "Re-enable the possibility to use the context menu, copy, paste, and text selection on sites that prevent them",
+   "homepage_url": "https://add0n.com/allow-right-click.html",
+   "icons": {
+      "128": "data/icons/128.png",
+      "16": "data/icons/16.png",
+      "256": "data/icons/256.png",
+      "32": "data/icons/32.png",
+      "48": "data/icons/48.png",
+      "512": "data/icons/512.png",
+      "64": "data/icons/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqJqeGbpVi852Iygj+qrtQnmhUWyvwNRqVDT7Dm9IFxx9WktwZEddEmitt620dUM1IxSBrsayB0nCUcWVrUfYvXhVL7TUyXmIyfVRe6E+nYX1FVPxe23aI6v5KJcEMQGO9RWo/I/xD75blyfkhYlOBQ06C+Tpj0kG2Ffe6/uIRTtTIkGJKDUTs2lB64BskS8rIca1+NpP5MSzPlQ+Zc7cFjGvXWWKm9jPTgZRCGF8gwGCHXdCu3gDESIT/h7d7ybTfHe9Df8DDZTVGhc1P91TNYrIk2rUWKfiLkgf5gMrVZLeyjaRJBRkoy0Je3uO9udydAiLIB5SveY84s3iYqD9ZQIDAQAB",
+   "manifest_version": 2,
+   "name": "Allow Right-Click",
+   "optional_permissions": [ "webNavigation", "*://*/*" ],
+   "options_ui": {
+      "open_in_tab": false,
+      "page": "data/options/index.html"
+   },
+   "permissions": [ "storage", "activeTab", "contextMenus", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.5.0"
+}

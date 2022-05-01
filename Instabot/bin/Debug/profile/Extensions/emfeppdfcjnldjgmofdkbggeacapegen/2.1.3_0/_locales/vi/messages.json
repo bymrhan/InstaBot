@@ -1,0 +1,59 @@
+{
+   "cannot_run": {
+      "message": "Đã tắt trong trang này"
+   },
+   "css_label_font_size": {
+      "message": "13px"
+   },
+   "css_letter_spacing": {
+      "message": "-0.5px"
+   },
+   "default": {
+      "message": "Mặc định"
+   },
+   "disabled": {
+      "message": "Đã dừng"
+   },
+   "enabled": {
+      "message": "Đang chạy"
+   },
+   "enter_domain": {
+      "message": "Nhập miền tại đây.. "
+   },
+   "extDesc": {
+      "message": "Ngăn các trang web vô hiệu hóa nhấp chuột phải, chọn văn bản và sao chép."
+   },
+   "extName": {
+      "message": "Tối Thượng Kích Hoạt Nhấp Chuột Phải"
+   },
+   "extShortName": {
+      "message": "Tối Thượng Kích Hoạt Nhấp Chuột Phải"
+   },
+   "help": {
+      "message": "Cứu giúp"
+   },
+   "pending_refresh": {
+      "message": "Đang chờ làm mới"
+   },
+   "per_site_settings": {
+      "message": "Cài đặt Trang web"
+   },
+   "popup_title_context_menu": {
+      "message": "Kích hoạt nhấp chuột phải"
+   },
+   "popup_title_css_block_selection": {
+      "message": "Kích hoạt lựa chọn khối văn bản (CSS)"
+   },
+   "rate": {
+      "message": "Đánh giá ứng dụng!"
+   },
+   "temp_disabled": {
+      "message": "Đã dừng cho phiên\nnày"
+   },
+   "temp_enabled": {
+      "message": "Đang chạy cho phiên\nnày"
+   },
+   "version": {
+      "message": "Phiên bản 2.1.3"
+   }
+}

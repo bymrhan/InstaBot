@@ -1,0 +1,308 @@
+{
+   "action_app_website": {
+      "message": "{app_name}网站"
+   },
+   "action_browser_settings": {
+      "message": "{browser_name}设置"
+   },
+   "action_chrome_web_store": {
+      "message": "{browser_name}网络应用商店"
+   },
+   "action_convert_to": {
+      "message": "转换至{file_type}"
+   },
+   "action_manage_settings": {
+      "message": "管理设置"
+   },
+   "appDesc": {
+      "message": "轻松易用的PDF工具，可用于编辑、转换、合并、拆分和压缩PDF文件。"
+   },
+   "appName": {
+      "message": "Smallpdf - 编辑、压缩与转换PDF文件"
+   },
+   "beta_settings_description": {
+      "message": "您已经加入Smallpdf Beta测试计划，享有独家特权，可以在我们的最新功能正式公开之前抢先试用。"
+   },
+   "beta_settings_title": {
+      "message": "Smallpdf Beta测试计划"
+   },
+   "compress": {
+      "message": "压缩"
+   },
+   "converter": {
+      "message": "转换"
+   },
+   "delete": {
+      "message": "删除页面"
+   },
+   "download": {
+      "message": "下载"
+   },
+   "downloadCta": {
+      "message": "立即下载"
+   },
+   "edit": {
+      "message": "编辑"
+   },
+   "excel": {
+      "message": "Excel 至 PDF"
+   },
+   "extract": {
+      "message": "PDF 至 JPG"
+   },
+   "fileIsReady": {
+      "message": "您的文件已就绪"
+   },
+   "file_schema_access_chrome_option": {
+      "message": "允许访问文件网址"
+   },
+   "file_schema_access_description": {
+      "message": "要充分利用 Smallpdf 工具，请在 Chrome 扩展程序设置中启用权限，以授予 Smallpdf 工具访问本地文件的权限。"
+   },
+   "file_schema_access_select": {
+      "message": "或重新选择文件"
+   },
+   "file_schema_access_select_button": {
+      "message": "选择文件"
+   },
+   "file_schema_access_step1": {
+      "message": "转到 Smallpdf Chrome 扩展程序设置页面。"
+   },
+   "file_schema_access_step2": {
+      "message": "将“{option}”设置为“打开”。"
+   },
+   "file_schema_access_step3": {
+      "message": "全部搞定！别担心，您可以随时更改设置首选项。"
+   },
+   "file_schema_access_title": {
+      "message": "只需 3 个简单的步骤，即可完成设置！"
+   },
+   "file_type_excel": {
+      "message": "Excel"
+   },
+   "file_type_generic_image": {
+      "message": "图像"
+   },
+   "file_type_generic_image_plural": {
+      "message": "图像"
+   },
+   "file_type_generic_office": {
+      "message": "Office"
+   },
+   "file_type_pdf_plural": {
+      "message": "PDF"
+   },
+   "file_type_powerpoint_long": {
+      "message": "PowerPoint"
+   },
+   "file_type_word": {
+      "message": "Word"
+   },
+   "gmail_converter_action_add_attachment_compress": {
+      "message": "压缩与贴附{file_type}文件"
+   },
+   "gmail_converter_action_dismiss": {
+      "message": "关闭"
+   },
+   "gmail_converter_error_processing_generic": {
+      "message": "无法处理此文档。"
+   },
+   "gmail_converter_error_unsupported_file_type": {
+      "message": "不支持此文件类型。"
+   },
+   "gmail_converter_intro_action_confirm": {
+      "message": "试试吧！"
+   },
+   "gmail_converter_intro_description": {
+      "message": "{bang} 借助{app_name}缩小{file_type}附件的尺寸。"
+   },
+   "gmail_converter_status_processing_compress": {
+      "message": "正在压缩…"
+   },
+   "gmail_converter_status_processing_generic": {
+      "message": "正在处理…"
+   },
+   "gmail_converter_status_uploading": {
+      "message": "正在上传…"
+   },
+   "gmail_intro_action_confirm": {
+      "message": "好的，明白了"
+   },
+   "gmail_intro_action_next": {
+      "message": "下一步"
+   },
+   "gmail_intro_compress": {
+      "message": "直接在Gmail中减小{input_format}附件的大小"
+   },
+   "gmail_intro_convert_attachments": {
+      "message": "把{input_format}附件转换为{output_format_word}、{output_format_excel}、{output_format_ppt}和{output_format_jpg}"
+   },
+   "gmail_intro_features_convert_images": {
+      "message": "将{input_file_types_list}文件转换为{output_file_type}。"
+   },
+   "gmail_intro_features_convert_pdf": {
+      "message": "将{input_file_type}附件转换为{output_file_types_list}文件。"
+   },
+   "gmail_intro_lead": {
+      "message": "{bang}使用{app_name}转换Gmail附件"
+   },
+   "gmail_intro_new": {
+      "message": "全新！"
+   },
+   "job_status_uploading": {
+      "message": "正在上传…"
+   },
+   "jpg": {
+      "message": "JPG 至 PDF"
+   },
+   "list_conjunction_long_end": {
+      "message": "{0}和{1}"
+   },
+   "list_conjunction_long_middle": {
+      "message": "{0}、{1}"
+   },
+   "list_conjunction_long_pair": {
+      "message": "{0}和{1}"
+   },
+   "list_conjunction_long_start": {
+      "message": "{0}、{1}"
+   },
+   "list_disjunction_long_end": {
+      "message": "{0}或{1}"
+   },
+   "list_disjunction_long_middle": {
+      "message": "{0}、{1}"
+   },
+   "list_disjunction_long_pair": {
+      "message": "{0}或{1}"
+   },
+   "list_disjunction_long_start": {
+      "message": "{0}、{1}"
+   },
+   "merge": {
+      "message": "合并"
+   },
+   "noInternetConnection": {
+      "message": "无网络连接"
+   },
+   "options_extension_version": {
+      "message": "{browser_name}扩展程序/ {version}"
+   },
+   "options_setting_gmail_integration_description": {
+      "message": "Gmail整合功能让您可以将邮件附件转换为{file_type}或进行反向操作。"
+   },
+   "options_setting_gmail_integration_title": {
+      "message": "Gmail整合功能"
+   },
+   "options_setting_local_files_description": {
+      "message": "给予{app_name}本地文件URL的访问权限，使{file_types}可在{browser_name}中打开。"
+   },
+   "options_setting_local_files_title": {
+      "message": "对本地文件启用{app_name}扩展程序"
+   },
+   "options_setting_status_disabled": {
+      "message": "禁用"
+   },
+   "password_modal_description": {
+      "message": "本文件有加密。请输入密码解锁。"
+   },
+   "password_modal_incorrect": {
+      "message": "密码错误"
+   },
+   "password_modal_placeholder": {
+      "message": "输入密码"
+   },
+   "password_modal_submit": {
+      "message": "提交"
+   },
+   "password_modal_title": {
+      "message": "密码不可为空"
+   },
+   "pdf_to_excel": {
+      "message": "PDF 至 Excel"
+   },
+   "pdf_to_ppt": {
+      "message": "PDF 至 PPT"
+   },
+   "pdf_to_word": {
+      "message": "PDF 至 Word"
+   },
+   "ppt": {
+      "message": "PPT 至 PDF"
+   },
+   "print": {
+      "message": "打印"
+   },
+   "processingFailedMessage": {
+      "message": "抱歉，处理您的文件时遇到了问题"
+   },
+   "processingFailedTitle": {
+      "message": "处理失败"
+   },
+   "protect": {
+      "message": "加密"
+   },
+   "rotate": {
+      "message": "旋转"
+   },
+   "search": {
+      "message": "搜索"
+   },
+   "sign": {
+      "message": "签名"
+   },
+   "split": {
+      "message": "切分"
+   },
+   "tools": {
+      "message": "工具"
+   },
+   "unlock": {
+      "message": "解锁"
+   },
+   "uploadFailed": {
+      "message": "抱歉，上传失败"
+   },
+   "viewer_error_action": {
+      "message": "上传新的PDF"
+   },
+   "viewer_error_invalid_description": {
+      "message": "请检查您的文件是否为有效的PDF格式，然后重试。"
+   },
+   "viewer_error_invalid_title": {
+      "message": "哎呀！您的文件似乎不是PDF格式，或已损坏。"
+   },
+   "viewer_error_unknown_description": {
+      "message": "抱歉给您带来不便。😔 我们的技术人员正在努力解决！"
+   },
+   "viewer_error_unknown_title": {
+      "message": "糟糕！出现未知错误！"
+   },
+   "viewer_fit_to_page": {
+      "message": "适合页面"
+   },
+   "viewer_fit_to_width": {
+      "message": "适合宽度"
+   },
+   "viewer_next_page": {
+      "message": "下一页"
+   },
+   "viewer_of_pages": {
+      "message": "of {total_pages}"
+   },
+   "viewer_previous_page": {
+      "message": "上一页"
+   },
+   "viewer_rotate_clockwise": {
+      "message": "顺时针旋转"
+   },
+   "viewer_zoom_in": {
+      "message": "放大"
+   },
+   "viewer_zoom_out": {
+      "message": "缩小"
+   },
+   "word": {
+      "message": "Word 至 PDF"
+   }
+}

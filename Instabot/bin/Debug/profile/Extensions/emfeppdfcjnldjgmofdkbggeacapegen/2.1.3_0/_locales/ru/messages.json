@@ -1,0 +1,59 @@
+{
+   "cannot_run": {
+      "message": "Отключено\nна этой странице"
+   },
+   "css_label_font_size": {
+      "message": "13px"
+   },
+   "css_letter_spacing": {
+      "message": "-0.5px"
+   },
+   "default": {
+      "message": "Настройки по умолчанию"
+   },
+   "disabled": {
+      "message": "Приостановлен"
+   },
+   "enabled": {
+      "message": "Работающий"
+   },
+   "enter_domain": {
+      "message": "Введите здесь домен.."
+   },
+   "extDesc": {
+      "message": "Это расширение не позволяет веб-сайтам блокировать функции контекстного меню и настройки текстового блока.+"
+   },
+   "extName": {
+      "message": "Коне́чный Включить Правый Щелчок"
+   },
+   "extShortName": {
+      "message": "Коне́чный Включить Правый Щелчок"
+   },
+   "help": {
+      "message": "Помощь"
+   },
+   "pending_refresh": {
+      "message": "Ожидает\nобновления"
+   },
+   "per_site_settings": {
+      "message": "Настройки для каждого сайта"
+   },
+   "popup_title_context_menu": {
+      "message": "Включить правый щелчок"
+   },
+   "popup_title_css_block_selection": {
+      "message": "Включить выбор блока (CSS)"
+   },
+   "rate": {
+      "message": "Оцените нас!"
+   },
+   "temp_disabled": {
+      "message": "Приостановлено\nна этот сеанс"
+   },
+   "temp_enabled": {
+      "message": "Работающий\nна эту сессию"
+   },
+   "version": {
+      "message": "Версия 2.1.3"
+   }
+}

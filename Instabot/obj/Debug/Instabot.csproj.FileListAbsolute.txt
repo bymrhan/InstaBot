@@ -1,0 +1,52 @@
+C:\Users\Administrator\Desktop\repos\Instabot\Instabot\bin\Debug\Instabot.exe.config
+C:\Users\Administrator\Desktop\repos\Instabot\Instabot\bin\Debug\Instabot.exe
+C:\Users\Administrator\Desktop\repos\Instabot\Instabot\bin\Debug\Instabot.pdb
+C:\Users\Administrator\Desktop\repos\Instabot\Instabot\bin\Debug\WebDriver.dll
+C:\Users\Administrator\Desktop\repos\Instabot\Instabot\obj\Debug\Instabot.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\repos\Instabot\Instabot\obj\Debug\Instabot.Form1.resources
+C:\Users\Administrator\Desktop\repos\Instabot\Instabot\obj\Debug\Instabot.Properties.Resources.resources
+C:\Users\Administrator\Desktop\repos\Instabot\Instabot\obj\Debug\Instabot.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\repos\Instabot\Instabot\obj\Debug\Instabot.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\repos\Instabot\Instabot\obj\Debug\Instabot.csproj.CopyComplete
+C:\Users\Administrator\Desktop\repos\Instabot\Instabot\obj\Debug\Instabot.exe
+C:\Users\Administrator\Desktop\repos\Instabot\Instabot\obj\Debug\Instabot.pdb
+C:\Users\Alperen\Desktop\Instabot\Instabot\bin\Debug\Instabot.exe.config
+C:\Users\Alperen\Desktop\Instabot\Instabot\bin\Debug\Instabot.exe
+C:\Users\Alperen\Desktop\Instabot\Instabot\bin\Debug\Instabot.pdb
+C:\Users\Alperen\Desktop\Instabot\Instabot\bin\Debug\WebDriver.dll
+C:\Users\Alperen\Desktop\Instabot\Instabot\obj\Debug\Instabot.csprojAssemblyReference.cache
+C:\Users\Alperen\Desktop\Instabot\Instabot\obj\Debug\Instabot.Form1.resources
+C:\Users\Alperen\Desktop\Instabot\Instabot\obj\Debug\Instabot.Properties.Resources.resources
+C:\Users\Alperen\Desktop\Instabot\Instabot\obj\Debug\Instabot.csproj.GenerateResource.cache
+C:\Users\Alperen\Desktop\Instabot\Instabot\obj\Debug\Instabot.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\Desktop\Instabot\Instabot\obj\Debug\Instabot.csproj.CopyComplete
+C:\Users\Alperen\Desktop\Instabot\Instabot\obj\Debug\Instabot.exe
+C:\Users\Alperen\Desktop\Instabot\Instabot\obj\Debug\Instabot.pdb
+C:\Users\Administrator\Desktop\Instabot\Instabot\bin\Debug\Instabot.exe.config
+C:\Users\Administrator\Desktop\Instabot\Instabot\bin\Debug\Instabot.exe
+C:\Users\Administrator\Desktop\Instabot\Instabot\bin\Debug\Instabot.pdb
+C:\Users\Administrator\Desktop\Instabot\Instabot\bin\Debug\WebDriver.dll
+C:\Users\Administrator\Desktop\Instabot\Instabot\obj\Debug\Instabot.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Instabot\Instabot\obj\Debug\Instabot.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Instabot\Instabot\obj\Debug\Instabot.Form1.resources
+C:\Users\Administrator\Desktop\Instabot\Instabot\obj\Debug\Instabot.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Instabot\Instabot\obj\Debug\Instabot.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Instabot\Instabot\obj\Debug\Instabot.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Instabot\Instabot\obj\Debug\Instabot.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Instabot\Instabot\obj\Debug\Instabot.exe
+C:\Users\Administrator\Desktop\Instabot\Instabot\obj\Debug\Instabot.pdb
+C:\Users\Administrator\Desktop\repos\Instabot\Instabot\obj\Debug\Instabot.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\repos\Yeni klasör (2)\Instabot\Instabot\bin\Debug\Instabot.exe.config
+C:\Users\Administrator\Desktop\repos\Yeni klasör (2)\Instabot\Instabot\bin\Debug\Instabot.exe
+C:\Users\Administrator\Desktop\repos\Yeni klasör (2)\Instabot\Instabot\bin\Debug\Instabot.pdb
+C:\Users\Administrator\Desktop\repos\Yeni klasör (2)\Instabot\Instabot\bin\Debug\WebDriver.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör (2)\Instabot\Instabot\obj\Debug\Instabot.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\repos\Yeni klasör (2)\Instabot\Instabot\obj\Debug\Instabot.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\repos\Yeni klasör (2)\Instabot\Instabot\obj\Debug\Instabot.Form1.resources
+C:\Users\Administrator\Desktop\repos\Yeni klasör (2)\Instabot\Instabot\obj\Debug\Instabot.Properties.Resources.resources
+C:\Users\Administrator\Desktop\repos\Yeni klasör (2)\Instabot\Instabot\obj\Debug\Instabot.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\repos\Yeni klasör (2)\Instabot\Instabot\obj\Debug\Instabot.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\repos\Yeni klasör (2)\Instabot\Instabot\obj\Debug\Instabot.csproj.CopyComplete
+C:\Users\Administrator\Desktop\repos\Yeni klasör (2)\Instabot\Instabot\obj\Debug\Instabot.exe
+C:\Users\Administrator\Desktop\repos\Yeni klasör (2)\Instabot\Instabot\obj\Debug\Instabot.pdb
+C:\Users\Administrator\Desktop\repos\Yeni klasör (2)\Instabot\Instabot\obj\Debug\Instabot.csproj.ResolveComReference.cache

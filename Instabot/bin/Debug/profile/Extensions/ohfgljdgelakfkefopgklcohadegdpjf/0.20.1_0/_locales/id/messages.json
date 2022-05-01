@@ -1,0 +1,308 @@
+{
+   "action_app_website": {
+      "message": "Situs Web {app_name}"
+   },
+   "action_browser_settings": {
+      "message": "Pengaturan {browser_name}"
+   },
+   "action_chrome_web_store": {
+      "message": "Toko Web {browser_name}"
+   },
+   "action_convert_to": {
+      "message": "Konversi ke {file_type}"
+   },
+   "action_manage_settings": {
+      "message": "Kelola pengaturan"
+   },
+   "appDesc": {
+      "message": "Alat PDF yang mudah digunakan untuk Mengedit, Mengonversi, Menggabungkan, Memisahkan, dan Mengompres file PDF."
+   },
+   "appName": {
+      "message": "Smallpdf - Edit, Kompres, dan Konversi PDF"
+   },
+   "beta_settings_description": {
+      "message": "Sebagai anggota program tes beta Smallpdf, Anda akan mendapatkan akses eksklusif ke fitur-fitur terbaru kami—bahkan sebelum kami menyediakannya untuk publik."
+   },
+   "beta_settings_title": {
+      "message": "Program Tes Beta Smallpdf"
+   },
+   "compress": {
+      "message": "Kompres"
+   },
+   "converter": {
+      "message": "Konversi"
+   },
+   "delete": {
+      "message": "Hapus Halaman"
+   },
+   "download": {
+      "message": "Unduh"
+   },
+   "downloadCta": {
+      "message": "Unduh sekarang"
+   },
+   "edit": {
+      "message": "Edit"
+   },
+   "excel": {
+      "message": "Excel ke PDF"
+   },
+   "extract": {
+      "message": "PDF ke JPG"
+   },
+   "fileIsReady": {
+      "message": "File Anda siap"
+   },
+   "file_schema_access_chrome_option": {
+      "message": "Izinkan akses ke URL file"
+   },
+   "file_schema_access_description": {
+      "message": "Untuk memaksimalkan manfaat Smallpdf, jangan lupa aktifkan izin di setelan Chrome Extension untuk memberi alat Smallpdf akses ke file lokalmu."
+   },
+   "file_schema_access_select": {
+      "message": "Atau pilih file itu lagi"
+   },
+   "file_schema_access_select_button": {
+      "message": "pilih file"
+   },
+   "file_schema_access_step1": {
+      "message": "Buka Halaman setelan Smallpdf Chrome Extension."
+   },
+   "file_schema_access_step2": {
+      "message": "Setel toggle ‘{option}’ menjadi ‘on’."
+   },
+   "file_schema_access_step3": {
+      "message": "Kamu siap! Ingat, kamu dapat mengubah preferensi setelan kapan saja."
+   },
+   "file_schema_access_title": {
+      "message": "Hanya dibutuhkan 3 langkah mudah dan kamu siap!"
+   },
+   "file_type_excel": {
+      "message": "Excel"
+   },
+   "file_type_generic_image": {
+      "message": "Gambar"
+   },
+   "file_type_generic_image_plural": {
+      "message": "Gambar"
+   },
+   "file_type_generic_office": {
+      "message": "Kantor"
+   },
+   "file_type_pdf_plural": {
+      "message": "PDF"
+   },
+   "file_type_powerpoint_long": {
+      "message": "PowerPoint"
+   },
+   "file_type_word": {
+      "message": "Word"
+   },
+   "gmail_converter_action_add_attachment_compress": {
+      "message": "Kompres dan lampirkan file {file_type}"
+   },
+   "gmail_converter_action_dismiss": {
+      "message": "Tutup"
+   },
+   "gmail_converter_error_processing_generic": {
+      "message": "Gagal memroses dokumen ini."
+   },
+   "gmail_converter_error_unsupported_file_type": {
+      "message": "Jenis file ini tidak didukung."
+   },
+   "gmail_converter_intro_action_confirm": {
+      "message": "Ayo kita coba!"
+   },
+   "gmail_converter_intro_description": {
+      "message": "{bang} Kurangi ukuran lampiran {file_type} Anda dengan {app_name}."
+   },
+   "gmail_converter_status_processing_compress": {
+      "message": "Mengompres..."
+   },
+   "gmail_converter_status_processing_generic": {
+      "message": "Memroses..."
+   },
+   "gmail_converter_status_uploading": {
+      "message": "Mengunggah..."
+   },
+   "gmail_intro_action_confirm": {
+      "message": "OK, saya paham"
+   },
+   "gmail_intro_action_next": {
+      "message": "Berikutnya"
+   },
+   "gmail_intro_compress": {
+      "message": "Kurangi ukuran lampiran {input_format} Anda langsung dalam Gmail"
+   },
+   "gmail_intro_convert_attachments": {
+      "message": "Ubah lampiran {input_format} menjadi {output_format_word}, {output_format_excel}, {output_format_ppt}, dan {output_format_jpg}"
+   },
+   "gmail_intro_features_convert_images": {
+      "message": "Konversi file {input_file_types_list} ke {output_file_type}."
+   },
+   "gmail_intro_features_convert_pdf": {
+      "message": "Konversi lampiran {input_file_type} ke file {output_file_types_list}."
+   },
+   "gmail_intro_lead": {
+      "message": "{bang} Konversi lampiran Gmail dengan {app_name}"
+   },
+   "gmail_intro_new": {
+      "message": "BARU!"
+   },
+   "job_status_uploading": {
+      "message": "Mengunggah..."
+   },
+   "jpg": {
+      "message": "JPG ke PDF"
+   },
+   "list_conjunction_long_end": {
+      "message": "{0}, dan {1}"
+   },
+   "list_conjunction_long_middle": {
+      "message": "{0}, {1}"
+   },
+   "list_conjunction_long_pair": {
+      "message": "{0} dan {1}"
+   },
+   "list_conjunction_long_start": {
+      "message": "{0}, {1}"
+   },
+   "list_disjunction_long_end": {
+      "message": "{0}, atau {1}"
+   },
+   "list_disjunction_long_middle": {
+      "message": "{0}, {1}"
+   },
+   "list_disjunction_long_pair": {
+      "message": "{0} atau {1}"
+   },
+   "list_disjunction_long_start": {
+      "message": "{0}, {1}"
+   },
+   "merge": {
+      "message": "Gabungkan"
+   },
+   "noInternetConnection": {
+      "message": "Tidak ada koneksi internet"
+   },
+   "options_extension_version": {
+      "message": "Sambungan {browser_name} / {version}"
+   },
+   "options_setting_gmail_integration_description": {
+      "message": "Integrasi Gmail memungkinkan Anda mengonversi lampiran email ke dan dari {file_type}."
+   },
+   "options_setting_gmail_integration_title": {
+      "message": "Integrasi Gmail"
+   },
+   "options_setting_local_files_description": {
+      "message": "Berikan {app_name} akses ke URL file lokal Anda untuk mengaktifkan {file_types} agar terbuka di {browser_name}."
+   },
+   "options_setting_local_files_title": {
+      "message": "Aktifkan sambungan {app_name} di file lokal"
+   },
+   "options_setting_status_disabled": {
+      "message": "Dinonaktifkan"
+   },
+   "password_modal_description": {
+      "message": "Dokumen ini dilindungi sandi. Masukkan sandi untuk membukanya."
+   },
+   "password_modal_incorrect": {
+      "message": "Sandi salah"
+   },
+   "password_modal_placeholder": {
+      "message": "Masukkan sandi"
+   },
+   "password_modal_submit": {
+      "message": "KIRIM"
+   },
+   "password_modal_title": {
+      "message": "Dibutuhkan sandi"
+   },
+   "pdf_to_excel": {
+      "message": "PDF ke Excel"
+   },
+   "pdf_to_ppt": {
+      "message": "PDF ke PPT"
+   },
+   "pdf_to_word": {
+      "message": "PDF ke Word"
+   },
+   "ppt": {
+      "message": "PPT ke PDF"
+   },
+   "print": {
+      "message": "Cetak"
+   },
+   "processingFailedMessage": {
+      "message": "Maaf, terjadi kesalahan saat memproses file Anda"
+   },
+   "processingFailedTitle": {
+      "message": "Pemrosesan gagal"
+   },
+   "protect": {
+      "message": "Lindungi"
+   },
+   "rotate": {
+      "message": "Putar"
+   },
+   "search": {
+      "message": "Cari"
+   },
+   "sign": {
+      "message": "Tanda tangani"
+   },
+   "split": {
+      "message": "Bagi"
+   },
+   "tools": {
+      "message": "Alat"
+   },
+   "unlock": {
+      "message": "Buka"
+   },
+   "uploadFailed": {
+      "message": "Maaf, unggahan Anda gagal"
+   },
+   "viewer_error_action": {
+      "message": "UNGGAH PDF BARU"
+   },
+   "viewer_error_invalid_description": {
+      "message": "Harap periksa apakah file Anda PDF yang valid dan coba lagi."
+   },
+   "viewer_error_invalid_title": {
+      "message": "Uh oh! Tampaknya file Anda bukan PDF atau rusak."
+   },
+   "viewer_error_unknown_description": {
+      "message": "Maaf atas ketidaknyamanan ini. 😔 Staf teknis kami sedang memperbaikinya!"
+   },
+   "viewer_error_unknown_title": {
+      "message": "Ups! Terjadi kesalahan yang tidak dikenal!"
+   },
+   "viewer_fit_to_page": {
+      "message": "Muatkan ke halaman"
+   },
+   "viewer_fit_to_width": {
+      "message": "Muatkan ke lebar"
+   },
+   "viewer_next_page": {
+      "message": "Halaman berikutnya"
+   },
+   "viewer_of_pages": {
+      "message": "dari {total_pages}"
+   },
+   "viewer_previous_page": {
+      "message": "Halaman sebelumnya"
+   },
+   "viewer_rotate_clockwise": {
+      "message": "Putar searah jarum jam"
+   },
+   "viewer_zoom_in": {
+      "message": "Zoom masuk"
+   },
+   "viewer_zoom_out": {
+      "message": "Zoom keluar"
+   },
+   "word": {
+      "message": "Word ke PDF"
+   }
+}

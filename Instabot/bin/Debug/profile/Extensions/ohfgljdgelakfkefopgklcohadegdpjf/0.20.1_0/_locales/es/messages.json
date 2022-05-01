@@ -1,0 +1,308 @@
+{
+   "action_app_website": {
+      "message": "Sitio web de {app_name}"
+   },
+   "action_browser_settings": {
+      "message": "Ajustes de {browser_name}"
+   },
+   "action_chrome_web_store": {
+      "message": "Tienda web de {browser_name}"
+   },
+   "action_convert_to": {
+      "message": "Convertir a {file_type}"
+   },
+   "action_manage_settings": {
+      "message": "Gestionar ajustes"
+   },
+   "appDesc": {
+      "message": "Smallpdf - Herramientas sencillas para editar, convertir, mezclar, dividir y comprimir archivos PDF."
+   },
+   "appName": {
+      "message": "Smallpdf - Edita, comprime y convierte PDF"
+   },
+   "beta_settings_description": {
+      "message": "Como participante del programa de prueba beta de Smallpdf, tendrás acceso exclusivo a nuestras funciones más recientes, incluso antes de que estén disponibles para todo el mundo."
+   },
+   "beta_settings_title": {
+      "message": "Programa de prueba beta de Smallpdf"
+   },
+   "compress": {
+      "message": "Comprimir"
+   },
+   "converter": {
+      "message": "Convertir"
+   },
+   "delete": {
+      "message": "Eliminar páginas"
+   },
+   "download": {
+      "message": "Descargar"
+   },
+   "downloadCta": {
+      "message": "Descárgala ya"
+   },
+   "edit": {
+      "message": "Editar"
+   },
+   "excel": {
+      "message": "Excel a PDF"
+   },
+   "extract": {
+      "message": "PDF a JPG"
+   },
+   "fileIsReady": {
+      "message": "Tu archivo está listo"
+   },
+   "file_schema_access_chrome_option": {
+      "message": "Permitir acceso a URL de archivo"
+   },
+   "file_schema_access_description": {
+      "message": "Para aprovechar al máximo las herramientas de Smallpdf, habilita los permisos en la configuración de las extensiones de Chrome para que Smallpdf pueda acceder a tus archivos locales."
+   },
+   "file_schema_access_select": {
+      "message": "O seleccionar el archivo de nuevo"
+   },
+   "file_schema_access_select_button": {
+      "message": "elegir archivo"
+   },
+   "file_schema_access_step1": {
+      "message": "Ve a la página de configuraciones de la extensión de Smallpdf para Chrome."
+   },
+   "file_schema_access_step2": {
+      "message": "Activa la opción '{option}'."
+   },
+   "file_schema_access_step3": {
+      "message": "¡Listo! Recuerda que puedes cambiar tus preferencias de configuración en cualquier momento."
+   },
+   "file_schema_access_title": {
+      "message": "Solo tienes que seguir 3 simples pasos."
+   },
+   "file_type_excel": {
+      "message": "Excel"
+   },
+   "file_type_generic_image": {
+      "message": "Imagen"
+   },
+   "file_type_generic_image_plural": {
+      "message": "Imágenes"
+   },
+   "file_type_generic_office": {
+      "message": "Office"
+   },
+   "file_type_pdf_plural": {
+      "message": "PDF"
+   },
+   "file_type_powerpoint_long": {
+      "message": "PowerPoint"
+   },
+   "file_type_word": {
+      "message": "Word"
+   },
+   "gmail_converter_action_add_attachment_compress": {
+      "message": "Comprime y adjunta archivos {file_type}"
+   },
+   "gmail_converter_action_dismiss": {
+      "message": "Cerrar"
+   },
+   "gmail_converter_error_processing_generic": {
+      "message": "No se puede procesar este documento."
+   },
+   "gmail_converter_error_unsupported_file_type": {
+      "message": "Este tipo de archivo no es compatible."
+   },
+   "gmail_converter_intro_action_confirm": {
+      "message": "¡Vamos a probarlo!"
+   },
+   "gmail_converter_intro_description": {
+      "message": "{bang} Reduce el tamaño de tus adjuntos {file_type} con {app_name}."
+   },
+   "gmail_converter_status_processing_compress": {
+      "message": "Comprimiendo..."
+   },
+   "gmail_converter_status_processing_generic": {
+      "message": "Procesando..."
+   },
+   "gmail_converter_status_uploading": {
+      "message": "Subiendo..."
+   },
+   "gmail_intro_action_confirm": {
+      "message": "Vale, entendido"
+   },
+   "gmail_intro_action_next": {
+      "message": "Siguiente"
+   },
+   "gmail_intro_compress": {
+      "message": "Reduce el tamaño de tus archivos adjuntos {input_format} directamente en Gmail"
+   },
+   "gmail_intro_convert_attachments": {
+      "message": "Convierte los archivos adjuntos {input_format} a {output_format_word}, {output_format_excel}, {output_format_ppt} y {output_format_jpg}"
+   },
+   "gmail_intro_features_convert_images": {
+      "message": "Convertir archivos {input_file_types_list} a {output_file_type}."
+   },
+   "gmail_intro_features_convert_pdf": {
+      "message": "Convertir archivos adjuntos {input_file_type} a archivos {output_file_types_list}."
+   },
+   "gmail_intro_lead": {
+      "message": "{bang} Convierte adjuntos de Gmail con {app_name}"
+   },
+   "gmail_intro_new": {
+      "message": "¡NUEVO!"
+   },
+   "job_status_uploading": {
+      "message": "Subiendo..."
+   },
+   "jpg": {
+      "message": "JPG a PDF"
+   },
+   "list_conjunction_long_end": {
+      "message": "{0} y {1}"
+   },
+   "list_conjunction_long_middle": {
+      "message": "{0}, {1}"
+   },
+   "list_conjunction_long_pair": {
+      "message": "{0} y {1}"
+   },
+   "list_conjunction_long_start": {
+      "message": "{0}, {1}"
+   },
+   "list_disjunction_long_end": {
+      "message": "{0} o {1}"
+   },
+   "list_disjunction_long_middle": {
+      "message": "{0}, {1}"
+   },
+   "list_disjunction_long_pair": {
+      "message": "{0} o {1}"
+   },
+   "list_disjunction_long_start": {
+      "message": "{0}, {1}"
+   },
+   "merge": {
+      "message": "Fusionar"
+   },
+   "noInternetConnection": {
+      "message": "No hay conexión a internet"
+   },
+   "options_extension_version": {
+      "message": "{browser_name} Extensión / {version}"
+   },
+   "options_setting_gmail_integration_description": {
+      "message": "La integración con Gmail te permite convertir archivos adjuntos de correo electrónico a y desde {file_type}."
+   },
+   "options_setting_gmail_integration_title": {
+      "message": "Integración con Gmail"
+   },
+   "options_setting_local_files_description": {
+      "message": "Concede a {app_name} acceso a las URL de tus archivos locales para poder abrir {file_types} en {browser_name}."
+   },
+   "options_setting_local_files_title": {
+      "message": "Habilita la extensión {app_name} en archivos locales"
+   },
+   "options_setting_status_disabled": {
+      "message": "Deshabilitado"
+   },
+   "password_modal_description": {
+      "message": "Este documento está protegido por contraseña. Ingresa la contraseña para desbloquearlo."
+   },
+   "password_modal_incorrect": {
+      "message": "Contraseña incorrecta"
+   },
+   "password_modal_placeholder": {
+      "message": "Ingresar contraseña"
+   },
+   "password_modal_submit": {
+      "message": "ENVIAR"
+   },
+   "password_modal_title": {
+      "message": "Se necesita contraseña"
+   },
+   "pdf_to_excel": {
+      "message": "PDF a Excel"
+   },
+   "pdf_to_ppt": {
+      "message": "PDF a PPT"
+   },
+   "pdf_to_word": {
+      "message": "PDF a Word"
+   },
+   "ppt": {
+      "message": "PPT a PDF"
+   },
+   "print": {
+      "message": "Imprimir"
+   },
+   "processingFailedMessage": {
+      "message": "Vaya. Se ha producido un problema al procesar tu archivo."
+   },
+   "processingFailedTitle": {
+      "message": "Error al procesar"
+   },
+   "protect": {
+      "message": "Proteger"
+   },
+   "rotate": {
+      "message": "Rotar"
+   },
+   "search": {
+      "message": "Buscar"
+   },
+   "sign": {
+      "message": "Firmar"
+   },
+   "split": {
+      "message": "Dividir"
+   },
+   "tools": {
+      "message": "Herramientas"
+   },
+   "unlock": {
+      "message": "Desbloquear"
+   },
+   "uploadFailed": {
+      "message": "Lo sentimos, la subida ha fallado."
+   },
+   "viewer_error_action": {
+      "message": "CARGAR OTRO PDF"
+   },
+   "viewer_error_invalid_description": {
+      "message": "Verifica que tu archivo sea un PDF válido e intenta de nuevo."
+   },
+   "viewer_error_invalid_title": {
+      "message": "¡Vaya! Parece que tu archivo no es un PDF o está dañado."
+   },
+   "viewer_error_unknown_description": {
+      "message": "Perdón por el inconveniente. 😔 Nuestros técnicos se están encargando."
+   },
+   "viewer_error_unknown_title": {
+      "message": "¡Uy! Ocurrió un error desconocido."
+   },
+   "viewer_fit_to_page": {
+      "message": "Ajustar a la página"
+   },
+   "viewer_fit_to_width": {
+      "message": "Ajustar al ancho"
+   },
+   "viewer_next_page": {
+      "message": "Página siguiente"
+   },
+   "viewer_of_pages": {
+      "message": "de {total_pages}"
+   },
+   "viewer_previous_page": {
+      "message": "Página anterior"
+   },
+   "viewer_rotate_clockwise": {
+      "message": "Girar en el sentido de las agujas del reloj"
+   },
+   "viewer_zoom_in": {
+      "message": "Acercar"
+   },
+   "viewer_zoom_out": {
+      "message": "Alejar"
+   },
+   "word": {
+      "message": "Word a PDF"
+   }
+}

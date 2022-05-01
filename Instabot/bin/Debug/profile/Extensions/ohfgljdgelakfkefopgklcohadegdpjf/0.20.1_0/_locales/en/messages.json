@@ -1,0 +1,371 @@
+{
+   "action_app_website": {
+      "message": "{app_name} Website"
+   },
+   "action_browser_settings": {
+      "message": "{browser_name} Settings"
+   },
+   "action_chrome_web_store": {
+      "message": "{browser_name} Web Store"
+   },
+   "action_convert_to": {
+      "message": "Convert to {file_type}"
+   },
+   "action_manage_settings": {
+      "message": "Manage settings"
+   },
+   "appDesc": {
+      "message": "Easy-to-use PDF tools to Edit, Convert, Merge, Split and Compress PDF files."
+   },
+   "appName": {
+      "message": "Smallpdf - Edit, Compress and Convert PDF"
+   },
+   "beta_settings_description": {
+      "message": "As a member of Smallpdf’s beta test program, you’ll get exclusive access to our latest features—even before we make them publicly available."
+   },
+   "beta_settings_title": {
+      "message": "The Smallpdf Beta Test Program"
+   },
+   "compress": {
+      "message": "Compress"
+   },
+   "converter": {
+      "message": "Convert"
+   },
+   "delete": {
+      "message": "Delete Pages"
+   },
+   "download": {
+      "message": "Download"
+   },
+   "downloadCta": {
+      "message": "Download it now"
+   },
+   "edit": {
+      "message": "Edit"
+   },
+   "excel": {
+      "message": "Excel to PDF"
+   },
+   "extract": {
+      "message": "PDF to JPG"
+   },
+   "fileIsReady": {
+      "message": "Your file is ready"
+   },
+   "file_schema_access_chrome_option": {
+      "message": "Allow access to file URLs"
+   },
+   "file_schema_access_description": {
+      "message": "To get the most out of Smallpdf tools, please enable permissions in Chrome Extension settings to grant Smallpdf tools access to your local files."
+   },
+   "file_schema_access_select": {
+      "message": "Or select the file again"
+   },
+   "file_schema_access_select_button": {
+      "message": "choose file"
+   },
+   "file_schema_access_step1": {
+      "message": "Go to the Smallpdf Chrome Extension settings page."
+   },
+   "file_schema_access_step2": {
+      "message": "Set the toggle ‘{option}’ to ‘on.’"
+   },
+   "file_schema_access_step3": {
+      "message": "You’re all set! Remember, you can change your settings preferences anytime."
+   },
+   "file_schema_access_title": {
+      "message": "Just 3 easy steps and you’re done!"
+   },
+   "file_type_excel": {
+      "message": "Excel"
+   },
+   "file_type_generic_image": {
+      "message": "Image"
+   },
+   "file_type_generic_image_plural": {
+      "message": "Images"
+   },
+   "file_type_generic_office": {
+      "message": "Office"
+   },
+   "file_type_pdf_plural": {
+      "message": "PDFs"
+   },
+   "file_type_powerpoint_long": {
+      "message": "PowerPoint"
+   },
+   "file_type_word": {
+      "message": "Word"
+   },
+   "gmail_converter_action_add_attachment_compress": {
+      "message": "Compress and attach {file_type} files"
+   },
+   "gmail_converter_action_dismiss": {
+      "message": "Dismiss"
+   },
+   "gmail_converter_error_processing_generic": {
+      "message": "Failed to process this document."
+   },
+   "gmail_converter_error_unsupported_file_type": {
+      "message": "This file type is not supported."
+   },
+   "gmail_converter_intro_action_confirm": {
+      "message": "Let's try!"
+   },
+   "gmail_converter_intro_description": {
+      "message": "{bang} Reduce the size of your {file_type} attachments with {app_name}."
+   },
+   "gmail_converter_status_processing_compress": {
+      "message": "Compressing..."
+   },
+   "gmail_converter_status_processing_generic": {
+      "message": "Processing..."
+   },
+   "gmail_converter_status_uploading": {
+      "message": "Uploading..."
+   },
+   "gmail_intro_action_confirm": {
+      "message": "OK, got it"
+   },
+   "gmail_intro_action_next": {
+      "message": "Next"
+   },
+   "gmail_intro_compress": {
+      "message": "Reduce the size of your {input_format} attachments directly in Gmail"
+   },
+   "gmail_intro_convert_attachments": {
+      "message": "Convert {input_format} attachments to {output_format_word}, {output_format_excel}, {output_format_ppt}, and {output_format_jpg}"
+   },
+   "gmail_intro_features_convert_images": {
+      "message": "Convert {input_file_types_list} files to {output_file_type}."
+   },
+   "gmail_intro_features_convert_pdf": {
+      "message": "Convert {input_file_type} attachments to {output_file_types_list} files."
+   },
+   "gmail_intro_lead": {
+      "message": "{bang} Convert Gmail attachments with {app_name}"
+   },
+   "gmail_intro_new": {
+      "message": "NEW!"
+   },
+   "job_status_uploading": {
+      "message": "Uploading..."
+   },
+   "jpg": {
+      "message": "JPG to PDF"
+   },
+   "list_conjunction_long_end": {
+      "message": "{0}, and {1}"
+   },
+   "list_conjunction_long_middle": {
+      "message": "{0}, {1}"
+   },
+   "list_conjunction_long_pair": {
+      "message": "{0} and {1}"
+   },
+   "list_conjunction_long_start": {
+      "message": "{0}, {1}"
+   },
+   "list_disjunction_long_end": {
+      "message": "{0}, or {1}"
+   },
+   "list_disjunction_long_middle": {
+      "message": "{0}, {1}"
+   },
+   "list_disjunction_long_pair": {
+      "message": "{0} or {1}"
+   },
+   "list_disjunction_long_start": {
+      "message": "{0}, {1}"
+   },
+   "merge": {
+      "message": "Merge"
+   },
+   "noInternetConnection": {
+      "message": "No internet connection"
+   },
+   "notifications_onboarding_cta": {
+      "message": "Read more"
+   },
+   "notifications_onboarding_generic_teaser": {
+      "message": "Work faster with the hidden features of our extension"
+   },
+   "notifications_onboarding_gmail_attachment": {
+      "message": "How to convert attachments to and from PDF in Gmail"
+   },
+   "notifications_onboarding_gmail_compress": {
+      "message": "How to compress and attach PDFs directly in Gmail"
+   },
+   "options_extension_version": {
+      "message": "{browser_name} Extension / {version}"
+   },
+   "options_setting_gmail_integration_description": {
+      "message": "The Gmail integration allows you to convert email attachments to and from {file_type}."
+   },
+   "options_setting_gmail_integration_title": {
+      "message": "Gmail Integration"
+   },
+   "options_setting_local_files_description": {
+      "message": "Grant {app_name} access to your local file URLs to enable {file_types} to be opened in {browser_name}."
+   },
+   "options_setting_local_files_title": {
+      "message": "Enable the {app_name} extension on local files"
+   },
+   "options_setting_status_disabled": {
+      "message": "Disabled"
+   },
+   "password_modal_description": {
+      "message": "This document is password-protected. Please enter the password to unlock it."
+   },
+   "password_modal_incorrect": {
+      "message": "Incorrect password"
+   },
+   "password_modal_placeholder": {
+      "message": "Enter password"
+   },
+   "password_modal_submit": {
+      "message": "SUBMIT"
+   },
+   "password_modal_title": {
+      "message": "Password required"
+   },
+   "pdf_to_excel": {
+      "message": "PDF to Excel"
+   },
+   "pdf_to_ppt": {
+      "message": "PDF to PPT"
+   },
+   "pdf_to_word": {
+      "message": "PDF to Word"
+   },
+   "ppt": {
+      "message": "PPT to PDF"
+   },
+   "print": {
+      "message": "Print"
+   },
+   "processingFailedMessage": {
+      "message": "Sorry, there was a problem processing your file"
+   },
+   "processingFailedTitle": {
+      "message": "Processing failed"
+   },
+   "protect": {
+      "message": "Protect"
+   },
+   "rotate": {
+      "message": "Rotate"
+   },
+   "search": {
+      "message": "Search"
+   },
+   "serp_choose_file": {
+      "message": "Choose file"
+   },
+   "serp_drag_release": {
+      "message": "Drop here!"
+   },
+   "serp_drop_excel": {
+      "message": "Drop Excel File here"
+   },
+   "serp_drop_file": {
+      "message": "Drop File here"
+   },
+   "serp_drop_image": {
+      "message": "Drop Image here"
+   },
+   "serp_drop_pdf": {
+      "message": "Drop PDF here"
+   },
+   "serp_drop_ppt": {
+      "message": "Drop PPT File here"
+   },
+   "serp_drop_word": {
+      "message": "Drop Word File here"
+   },
+   "serp_drop_zip": {
+      "message": "Drop ZIP File here"
+   },
+   "serp_hide_button": {
+      "message": "Don't show this again"
+   },
+   "serp_hide_description": {
+      "message": "You won't see the Smallpdf drop area in your Google search results any more."
+   },
+   "serp_hide_description_restore": {
+      "message": "You can turn it back on any time in the extension settings page."
+   },
+   "serp_hide_title": {
+      "message": "Hidden!"
+   },
+   "serp_powered_by": {
+      "message": "Powered by Smallpdf"
+   },
+   "serp_settings_description": {
+      "message": "Search Google for one of our tools to process files directly in your search results."
+   },
+   "serp_settings_title": {
+      "message": "Google Search Integration"
+   },
+   "serp_uploading": {
+      "message": "Uploading..."
+   },
+   "sign": {
+      "message": "Sign"
+   },
+   "split": {
+      "message": "Split"
+   },
+   "tools": {
+      "message": "Tools"
+   },
+   "unlock": {
+      "message": "Unlock"
+   },
+   "uploadFailed": {
+      "message": "Sorry your upload failed"
+   },
+   "viewer_error_action": {
+      "message": "UPLOAD NEW PDF"
+   },
+   "viewer_error_invalid_description": {
+      "message": "Please check that your file is a valid PDF and try again."
+   },
+   "viewer_error_invalid_title": {
+      "message": "Uh oh! Seems like your file is not a PDF or is corrupted."
+   },
+   "viewer_error_unknown_description": {
+      "message": "Sorry for the inconvenience. 😔 Our technical people are on it!"
+   },
+   "viewer_error_unknown_title": {
+      "message": "Oops! An unknown error occurred!"
+   },
+   "viewer_fit_to_page": {
+      "message": "Fit to page"
+   },
+   "viewer_fit_to_width": {
+      "message": "Fit to width"
+   },
+   "viewer_next_page": {
+      "message": "Next page"
+   },
+   "viewer_of_pages": {
+      "message": "of {total_pages}"
+   },
+   "viewer_previous_page": {
+      "message": "Previous page"
+   },
+   "viewer_rotate_clockwise": {
+      "message": "Rotate clockwise"
+   },
+   "viewer_zoom_in": {
+      "message": "Zoom in"
+   },
+   "viewer_zoom_out": {
+      "message": "Zoom out"
+   },
+   "word": {
+      "message": "Word to PDF"
+   }
+}

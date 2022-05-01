@@ -1,0 +1,308 @@
+{
+   "action_app_website": {
+      "message": "{app_name} 웹사이트"
+   },
+   "action_browser_settings": {
+      "message": "{browser_name} 설정"
+   },
+   "action_chrome_web_store": {
+      "message": "{browser_name} 웹 스토어"
+   },
+   "action_convert_to": {
+      "message": "{file_type}(으)로 변환"
+   },
+   "action_manage_settings": {
+      "message": "설정 관리"
+   },
+   "appDesc": {
+      "message": "편집, 변환, 병합, 나누기 및 PDF 파일 압축을 위한 사용하기 쉬운 PDF 도구."
+   },
+   "appName": {
+      "message": "Smallpdf - PDF 파일 편집, 압축 및 변환"
+   },
+   "beta_settings_description": {
+      "message": "Smallpdf 베타 테스트 프로그램에 참여한 사용자 여러분께만 최신 기능을 공개 출시하기 전에 먼저 이용해보실 수 있도록 지원해드립니다."
+   },
+   "beta_settings_title": {
+      "message": "Smallpdf 베타 테스트 프로그램"
+   },
+   "compress": {
+      "message": "압축"
+   },
+   "converter": {
+      "message": "변환"
+   },
+   "delete": {
+      "message": "페이지 삭제"
+   },
+   "download": {
+      "message": "다운로드"
+   },
+   "downloadCta": {
+      "message": "지금 다운로드"
+   },
+   "edit": {
+      "message": "편집"
+   },
+   "excel": {
+      "message": "Excel을 PDF로"
+   },
+   "extract": {
+      "message": "PDF를 JPG로"
+   },
+   "fileIsReady": {
+      "message": "파일이 준비되었습니다"
+   },
+   "file_schema_access_chrome_option": {
+      "message": "파일 URL에 대한 액세스 허용"
+   },
+   "file_schema_access_description": {
+      "message": "Smallpdf 도구의 기능을 최대한 활용하려면 Chrome 확장 프로그램 설정에서 Smallpdf 도구에 로컬 파일 액세스를 허용해 주세요."
+   },
+   "file_schema_access_select": {
+      "message": "또는 파일을 다시 선택하세요"
+   },
+   "file_schema_access_select_button": {
+      "message": "파일 선택"
+   },
+   "file_schema_access_step1": {
+      "message": "Smallpdf Chrome 확장 프로그램 설정 페이지로 이동합니다."
+   },
+   "file_schema_access_step2": {
+      "message": "‘{option}’을 체크합니다."
+   },
+   "file_schema_access_step3": {
+      "message": "끝났습니다! 언제든 사용자 설정은 변경할 수 있다는 점도 기억해 주세요."
+   },
+   "file_schema_access_title": {
+      "message": "간단한 3단계 절차만 거치면 된답니다!"
+   },
+   "file_type_excel": {
+      "message": "Excel"
+   },
+   "file_type_generic_image": {
+      "message": "이미지"
+   },
+   "file_type_generic_image_plural": {
+      "message": "이미지"
+   },
+   "file_type_generic_office": {
+      "message": "Office"
+   },
+   "file_type_pdf_plural": {
+      "message": "PDF"
+   },
+   "file_type_powerpoint_long": {
+      "message": "PowerPoint"
+   },
+   "file_type_word": {
+      "message": "Word"
+   },
+   "gmail_converter_action_add_attachment_compress": {
+      "message": "{file_type} 파일 압축 및 첨부"
+   },
+   "gmail_converter_action_dismiss": {
+      "message": "취소"
+   },
+   "gmail_converter_error_processing_generic": {
+      "message": "이 문서 처리 실패"
+   },
+   "gmail_converter_error_unsupported_file_type": {
+      "message": "이 파일 유형은 지원되지 않습니다."
+   },
+   "gmail_converter_intro_action_confirm": {
+      "message": "해보세요!"
+   },
+   "gmail_converter_intro_description": {
+      "message": "{bang} {app_name}(으)로 {file_type} 첨부 파일의 크기를 줄이세요."
+   },
+   "gmail_converter_status_processing_compress": {
+      "message": "압축 중..."
+   },
+   "gmail_converter_status_processing_generic": {
+      "message": "처리 중..."
+   },
+   "gmail_converter_status_uploading": {
+      "message": "업로드 중..."
+   },
+   "gmail_intro_action_confirm": {
+      "message": "예, 알겠습니다"
+   },
+   "gmail_intro_action_next": {
+      "message": "다음"
+   },
+   "gmail_intro_compress": {
+      "message": "Gmail에서 바로 {input_format} 첨부 파일의 크기를 줄입니다"
+   },
+   "gmail_intro_convert_attachments": {
+      "message": "{input_format} 첨부 파일을 {output_format_word}, {output_format_excel}, {output_format_ppt} 및 {output_format_jpg}로 변환합니다"
+   },
+   "gmail_intro_features_convert_images": {
+      "message": "{input_file_types_list} 파일을 {output_file_type}(으)로 변환합니다."
+   },
+   "gmail_intro_features_convert_pdf": {
+      "message": "{input_file_type} 첨부 파일을 {output_file_types_list} 파일로 변환합니다."
+   },
+   "gmail_intro_lead": {
+      "message": "{bang} {app_name}로 Gmail 첨부 파일 변환"
+   },
+   "gmail_intro_new": {
+      "message": "신규!"
+   },
+   "job_status_uploading": {
+      "message": "업로드 중..."
+   },
+   "jpg": {
+      "message": "JPG를 PDF로"
+   },
+   "list_conjunction_long_end": {
+      "message": "{0} 및 {1}"
+   },
+   "list_conjunction_long_middle": {
+      "message": "{0}, {1}"
+   },
+   "list_conjunction_long_pair": {
+      "message": "{0} 및 {1}"
+   },
+   "list_conjunction_long_start": {
+      "message": "{0}, {1}"
+   },
+   "list_disjunction_long_end": {
+      "message": "{0} 또는 {1}"
+   },
+   "list_disjunction_long_middle": {
+      "message": "{0}, {1}"
+   },
+   "list_disjunction_long_pair": {
+      "message": "{0} 또는 {1}"
+   },
+   "list_disjunction_long_start": {
+      "message": "{0}, {1}"
+   },
+   "merge": {
+      "message": "병합"
+   },
+   "noInternetConnection": {
+      "message": "인터넷 연결 없음"
+   },
+   "options_extension_version": {
+      "message": "{browser_name} 확장 / {version}"
+   },
+   "options_setting_gmail_integration_description": {
+      "message": "Gmail 통합으로 이메일 첨부 파일을 {file_type}(으)로 변환할 수 있습니다."
+   },
+   "options_setting_gmail_integration_title": {
+      "message": "Gmail 통합"
+   },
+   "options_setting_local_files_description": {
+      "message": "로컬 파일 URL에 {app_name} 권한을 부여하여 {browser_name}에서 {file_types}이(가) 열리도록 활성화하세요."
+   },
+   "options_setting_local_files_title": {
+      "message": "로컬 파일에 {app_name} 확장 활성화"
+   },
+   "options_setting_status_disabled": {
+      "message": "비활성화됨"
+   },
+   "password_modal_description": {
+      "message": "이 문서는 암호로 보호됩니다. 문서를 열려면 암호를 입력해 주세요."
+   },
+   "password_modal_incorrect": {
+      "message": "잘못된 암호입니다"
+   },
+   "password_modal_placeholder": {
+      "message": "암호 입력"
+   },
+   "password_modal_submit": {
+      "message": "확인"
+   },
+   "password_modal_title": {
+      "message": "암호 필요"
+   },
+   "pdf_to_excel": {
+      "message": "PDF를 Excel로"
+   },
+   "pdf_to_ppt": {
+      "message": "PDF를 PPT로"
+   },
+   "pdf_to_word": {
+      "message": "PDF를 Word로"
+   },
+   "ppt": {
+      "message": "PPT를 PDF로"
+   },
+   "print": {
+      "message": "인쇄"
+   },
+   "processingFailedMessage": {
+      "message": "죄송합니다, 파일 처리 중에 문제가 발생했습니다"
+   },
+   "processingFailedTitle": {
+      "message": "처리 실패"
+   },
+   "protect": {
+      "message": "보호"
+   },
+   "rotate": {
+      "message": "회전"
+   },
+   "search": {
+      "message": "검색"
+   },
+   "sign": {
+      "message": "서명"
+   },
+   "split": {
+      "message": "분할"
+   },
+   "tools": {
+      "message": "도구"
+   },
+   "unlock": {
+      "message": "잠금 해제"
+   },
+   "uploadFailed": {
+      "message": "업로드에 실패했습니다"
+   },
+   "viewer_error_action": {
+      "message": "새 PDF 업로드"
+   },
+   "viewer_error_invalid_description": {
+      "message": "유효한 PDF 파일인지 확인하고 다시 시도해 주세요."
+   },
+   "viewer_error_invalid_title": {
+      "message": "이런! 파일이 PDF 형식이 아니거나 손상된 것 같네요."
+   },
+   "viewer_error_unknown_description": {
+      "message": "불편을 끼쳐드려 정말 죄송합니다. 😔 기술팀에서 문제를 해결하고 있습니다!"
+   },
+   "viewer_error_unknown_title": {
+      "message": "죄송합니다! 알 수 없는 오류가 발생했습니다!"
+   },
+   "viewer_fit_to_page": {
+      "message": "페이지에 맞추기"
+   },
+   "viewer_fit_to_width": {
+      "message": "너비에 맞추기"
+   },
+   "viewer_next_page": {
+      "message": "다음 페이지"
+   },
+   "viewer_of_pages": {
+      "message": "/ {total_pages}"
+   },
+   "viewer_previous_page": {
+      "message": "이전 페이지"
+   },
+   "viewer_rotate_clockwise": {
+      "message": "시계 방향으로 회전"
+   },
+   "viewer_zoom_in": {
+      "message": "확대"
+   },
+   "viewer_zoom_out": {
+      "message": "축소"
+   },
+   "word": {
+      "message": "Word를 PDF로"
+   }
+}

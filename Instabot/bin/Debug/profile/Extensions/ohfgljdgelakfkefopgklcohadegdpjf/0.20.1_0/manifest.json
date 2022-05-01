@@ -1,0 +1,42 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "static/js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "images/smallpdf_128.png",
+         "16": "images/smallpdf_16.png",
+         "32": "images/smallpdf_32.png",
+         "48": "images/smallpdf_48.png"
+      },
+      "default_popup": "browserAction.html",
+      "default_title": "Smallpdf"
+   },
+   "content_scripts": [ {
+      "js": [ "static/js/content.js" ],
+      "matches": [ "http://*/*", "https://*/*", "ftp://*/*", "file://*/*" ],
+      "run_at": "document_idle"
+   } ],
+   "content_security_policy": "script-src 'self' 'sha256-8VWEfV1MHXcCbi/lcOneF2oDbPdYwskZilS/Xih/+zc=' 'sha256-iHzLbQ/l3ApSsGFHa7HlcL6ClmFFDjQsgRixIF260Ac=' blob:; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "externally_connectable": {
+      "matches": [ "https://*.smallpdf.com/*", "https://smallpdf.com/*", "https://smallpdf-staging.com/*", "https://*.smallpdf-staging.com/*" ]
+   },
+   "icons": {
+      "128": "images/smallpdf_128.png",
+      "16": "images/smallpdf_16.png",
+      "32": "images/smallpdf_32.png",
+      "48": "images/smallpdf_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr/5Z9e9MM17u/f14no6Axnl2XMkTJ0WA45fpCNmC7F4VyasQaiWrFOi/2CrxU1o8LYO040MvZxLHdKJWLWkvKIeykQa5uzJyfuqeip5XKkO9qSu6OC+/Foz9eYuhvgSunZQoy5yhc7Oug4DTtII+tJApXFFYFOrr51fWHA1yBevDpPi5G4C4x6lnNsVpeiRCbIZ6zFLEyjd6hlGmyt/k3KngGE/hq/eJsC3Te1KLP4pj4DAjWBT5+Jq6s84vQdJva7mAZMSPIIfjmc7vqFmIVP4st74VS1nomxJMRDpxVexG7fqJUzOyEGSRzaremOy7NnnI38H0QbiYoB4Uog6owIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "options_page": "options.html",
+   "permissions": [ "storage", "notifications", "alarms", "webRequest", "webRequestBlocking", "webNavigation", "\u003Call_urls>" ],
+   "short_name": "Smallpdf",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.20.1",
+   "web_accessible_resources": [ "static/media/*", "images/*", "options.html", "thanks.html", "viewer.html", "pdftron/*" ]
+}

@@ -1,0 +1,40 @@
+{
+    "JS2.": {
+        "1.0.0": {
+            "www.youtube.com": false,
+            "discord.com": false,
+            "drive.google.com": false,
+            "docs.google.com": false,
+            "onedrive.live.com": false
+        },
+        "1.1.0": {
+            "tv.naver.com": false
+        },
+        "1.1.2": {
+            "map.naver.com": false,
+            "map.kakao.com": false,
+            "www.google.com": false
+        },
+        "1.1.4": {
+            "mega.nz": false,
+            "mybox.naver.com": false
+        },
+        "1.2.6": {
+            "github.com": false
+        },
+        "1.2.7": {
+            "www.notion.so": false,
+            "app.slack.com": false,
+            "teams.microsoft.com": false
+        },
+        "2.0.0": {
+            "": true
+        }
+    },
+    "CSS.": {
+        "2.0.0": {
+            "": false,
+            "tistory.com": true
+        }
+    }
+}

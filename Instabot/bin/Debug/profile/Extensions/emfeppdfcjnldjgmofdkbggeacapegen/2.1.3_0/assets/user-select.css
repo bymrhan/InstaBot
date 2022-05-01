@@ -1,0 +1,11 @@
+*,
+*::after,
+*::backdrop,
+*::before,
+*::cue,
+/**::first-letter, crbug 830045 */
+/**::first-line, crbug 1186922, fixed in 93.0.4529.0 */
+*::marker,
+*::placeholder
+{ user-select: text!important; -webkit-user-select: text!important; }
+img, object, video, p, h1, h2, h3, h4, h5, h6 { pointer-events: auto!important; }

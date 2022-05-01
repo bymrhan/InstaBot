@@ -1,0 +1,308 @@
+{
+   "action_app_website": {
+      "message": "Website {app_name}"
+   },
+   "action_browser_settings": {
+      "message": "Instellingen {browser_name}"
+   },
+   "action_chrome_web_store": {
+      "message": "Webwinkel {browser_name}"
+   },
+   "action_convert_to": {
+      "message": "Omzetten naar {file_type}"
+   },
+   "action_manage_settings": {
+      "message": "Instellingen beheren"
+   },
+   "appDesc": {
+      "message": "Gebruiksvriendelijke PDF-hulpprogramma's voor het bewerken, converteren, samenvoegen, splitsen en comprimeren van PDF-bestanden."
+   },
+   "appName": {
+      "message": "Smallpdf - bewerk/comprimeer/converteer PDF's"
+   },
+   "beta_settings_description": {
+      "message": "Als deelnemer van het Smallpdf bèta-testprogramma krijg je exclusieve toegang tot onze nieuwste functies, zelfs voordat we ze openbaar beschikbaar maken."
+   },
+   "beta_settings_title": {
+      "message": "Het Smallpdf bèta-testprogramma"
+   },
+   "compress": {
+      "message": "Comprimeren"
+   },
+   "converter": {
+      "message": "Converteren"
+   },
+   "delete": {
+      "message": "Pagina's verwijderen"
+   },
+   "download": {
+      "message": "Downloaden"
+   },
+   "downloadCta": {
+      "message": "Downloaden"
+   },
+   "edit": {
+      "message": "Bewerken"
+   },
+   "excel": {
+      "message": "Excel naar PDF"
+   },
+   "extract": {
+      "message": "PDF naar JPG"
+   },
+   "fileIsReady": {
+      "message": "Je bestand is gereed"
+   },
+   "file_schema_access_chrome_option": {
+      "message": "Toegang tot bestand-URL's toestaan"
+   },
+   "file_schema_access_description": {
+      "message": "Om Smallpdf optimaal te benutten, moet je toestemmingen in de instellingen van de Chrome-extensie inschakelen om Smallpdf toegang te geven tot je lokale bestanden."
+   },
+   "file_schema_access_select": {
+      "message": "Of selecteer het bestand opnieuw"
+   },
+   "file_schema_access_select_button": {
+      "message": "Kies bestand"
+   },
+   "file_schema_access_step1": {
+      "message": "Ga naar de instellingen van de Smallpdf Chrome-extensie."
+   },
+   "file_schema_access_step2": {
+      "message": "Zet '{option}' op 'aan'."
+   },
+   "file_schema_access_step3": {
+      "message": "Klaar! Je kunt je voorkeuren altijd wijzigen in de instellingen."
+   },
+   "file_schema_access_title": {
+      "message": "Slechts 3 eenvoudige stappen en je bent klaar!"
+   },
+   "file_type_excel": {
+      "message": "Excel"
+   },
+   "file_type_generic_image": {
+      "message": "Afbeelding"
+   },
+   "file_type_generic_image_plural": {
+      "message": "Afbeeldingen"
+   },
+   "file_type_generic_office": {
+      "message": "Office"
+   },
+   "file_type_pdf_plural": {
+      "message": "PDF's"
+   },
+   "file_type_powerpoint_long": {
+      "message": "PowerPoint"
+   },
+   "file_type_word": {
+      "message": "Word"
+   },
+   "gmail_converter_action_add_attachment_compress": {
+      "message": "Comprimeer {file_type}-bestanden en voeg ze toe als bijlage"
+   },
+   "gmail_converter_action_dismiss": {
+      "message": "Verwijderen"
+   },
+   "gmail_converter_error_processing_generic": {
+      "message": "Verwerken van dit document mislukt."
+   },
+   "gmail_converter_error_unsupported_file_type": {
+      "message": "Dit bestandstype is niet ondersteund."
+   },
+   "gmail_converter_intro_action_confirm": {
+      "message": "Nu proberen!"
+   },
+   "gmail_converter_intro_description": {
+      "message": "{bang} Verminder het formaat van je {file_type} bijlagen met {app_name}."
+   },
+   "gmail_converter_status_processing_compress": {
+      "message": "Comprimeren..."
+   },
+   "gmail_converter_status_processing_generic": {
+      "message": "Verwerken..."
+   },
+   "gmail_converter_status_uploading": {
+      "message": "Uploaden..."
+   },
+   "gmail_intro_action_confirm": {
+      "message": "Oké, begrepen"
+   },
+   "gmail_intro_action_next": {
+      "message": "Volgende"
+   },
+   "gmail_intro_compress": {
+      "message": "Verklein de grootte van je {input_format}-bijlagen direct in Gmail"
+   },
+   "gmail_intro_convert_attachments": {
+      "message": "Converteer {input_format}-bijlagen naar {output_format_word}, {output_format_excel}, {output_format_ppt} en {output_format_jpg}"
+   },
+   "gmail_intro_features_convert_images": {
+      "message": "{input_file_types_list} bestanden converteren naar {output_file_type}."
+   },
+   "gmail_intro_features_convert_pdf": {
+      "message": "{input_file_type} bijlagen converteren naar {output_file_types_list} bestanden."
+   },
+   "gmail_intro_lead": {
+      "message": "{bang} Gmail-bijlagen converteren met {app_name}"
+   },
+   "gmail_intro_new": {
+      "message": "NIEUW!"
+   },
+   "job_status_uploading": {
+      "message": "Uploaden..."
+   },
+   "jpg": {
+      "message": "JPG naar PDF"
+   },
+   "list_conjunction_long_end": {
+      "message": "{0} en {1}"
+   },
+   "list_conjunction_long_middle": {
+      "message": "{0}, {1}"
+   },
+   "list_conjunction_long_pair": {
+      "message": "{0} en {1}"
+   },
+   "list_conjunction_long_start": {
+      "message": "{0}, {1}"
+   },
+   "list_disjunction_long_end": {
+      "message": "{0} of {1}"
+   },
+   "list_disjunction_long_middle": {
+      "message": "{0}, {1}"
+   },
+   "list_disjunction_long_pair": {
+      "message": "{0} of {1}"
+   },
+   "list_disjunction_long_start": {
+      "message": "{0}, {1}"
+   },
+   "merge": {
+      "message": "Samenvoegen"
+   },
+   "noInternetConnection": {
+      "message": "Geen internetverbinding"
+   },
+   "options_extension_version": {
+      "message": "{browser_name}-extensie / {version}"
+   },
+   "options_setting_gmail_integration_description": {
+      "message": "Met de Gmail-integratie kun je e-mailbijlagen converteren van en naar {file_type}."
+   },
+   "options_setting_gmail_integration_title": {
+      "message": "Gmail-integratie"
+   },
+   "options_setting_local_files_description": {
+      "message": "Geef {app_name} toegang tot je lokale bestands-URL's om {file_types} te kunnen openen in {browser_name}."
+   },
+   "options_setting_local_files_title": {
+      "message": "Schakel de {app_name}-extensie voor lokale bestanden in"
+   },
+   "options_setting_status_disabled": {
+      "message": "Uitgeschakeld"
+   },
+   "password_modal_description": {
+      "message": "Dit document is met een wachtwoord beveiligd. Voer het wachtwoord in om het te ontgrendelen."
+   },
+   "password_modal_incorrect": {
+      "message": "Onjuist wachtwoord"
+   },
+   "password_modal_placeholder": {
+      "message": "Wachtwoord invoeren"
+   },
+   "password_modal_submit": {
+      "message": "INDIENEN"
+   },
+   "password_modal_title": {
+      "message": "Wachtwoord vereist"
+   },
+   "pdf_to_excel": {
+      "message": "PDF naar Excel"
+   },
+   "pdf_to_ppt": {
+      "message": "PDF naar PPT"
+   },
+   "pdf_to_word": {
+      "message": "PDF naar Word"
+   },
+   "ppt": {
+      "message": "PPT naar PDF"
+   },
+   "print": {
+      "message": "Afdrukken"
+   },
+   "processingFailedMessage": {
+      "message": "Sorry, maar er is een probleem opgetreden tijdens het verwerken van je bestand"
+   },
+   "processingFailedTitle": {
+      "message": "Het verwerken is mislukt"
+   },
+   "protect": {
+      "message": "Beschermen"
+   },
+   "rotate": {
+      "message": "Draaien"
+   },
+   "search": {
+      "message": "Zoeken"
+   },
+   "sign": {
+      "message": "Ondertekenen"
+   },
+   "split": {
+      "message": "Splitsen"
+   },
+   "tools": {
+      "message": "Hulpprogramma's"
+   },
+   "unlock": {
+      "message": "Vrijgeven"
+   },
+   "uploadFailed": {
+      "message": "Het uploaden is mislukt"
+   },
+   "viewer_error_action": {
+      "message": "NIEUWE PDF UPLOADEN"
+   },
+   "viewer_error_invalid_description": {
+      "message": "Controleer of jouw bestand een geldige pdf is en probeer het nog een keer."
+   },
+   "viewer_error_invalid_title": {
+      "message": "Oeps! Je bestand is geen pdf of is mogelijk beschadigd."
+   },
+   "viewer_error_unknown_description": {
+      "message": "Excuses voor het ongemak. 😔 Onze technici zijn ermee bezig!"
+   },
+   "viewer_error_unknown_title": {
+      "message": "Oeps! Er is een onbekende fout opgetreden!"
+   },
+   "viewer_fit_to_page": {
+      "message": "Aan pagina aanpassen"
+   },
+   "viewer_fit_to_width": {
+      "message": "Aan breedte aanpassen"
+   },
+   "viewer_next_page": {
+      "message": "Volgende pagina"
+   },
+   "viewer_of_pages": {
+      "message": "van {total_pages}"
+   },
+   "viewer_previous_page": {
+      "message": "Vorige pagina"
+   },
+   "viewer_rotate_clockwise": {
+      "message": "Rechtsom draaien"
+   },
+   "viewer_zoom_in": {
+      "message": "Inzoomen"
+   },
+   "viewer_zoom_out": {
+      "message": "Uitzoomen"
+   },
+   "word": {
+      "message": "Word naar PDF"
+   }
+}

@@ -1,0 +1,308 @@
+{
+   "action_app_website": {
+      "message": "{app_name}s webbplats"
+   },
+   "action_browser_settings": {
+      "message": "{browser_name}s inställningar"
+   },
+   "action_chrome_web_store": {
+      "message": "{browser_name}s internetbutik"
+   },
+   "action_convert_to": {
+      "message": "Konvertera till {file_type}"
+   },
+   "action_manage_settings": {
+      "message": "Hantera inställningar"
+   },
+   "appDesc": {
+      "message": "Lättanvända PDF-verktyg för att redigera, konvertera, slå samman, dela och komprimera PDF-filer."
+   },
+   "appName": {
+      "message": "Smallpdf – redigera komprimera och konvertera"
+   },
+   "beta_settings_description": {
+      "message": "Som medlem i Smallpdfs betatestprogram får du exklusiv tillgång till våra senaste funktioner – innan de blir allmänt tillgängliga."
+   },
+   "beta_settings_title": {
+      "message": "Smallpdfs betatestprogram"
+   },
+   "compress": {
+      "message": "Komprimera"
+   },
+   "converter": {
+      "message": "Konvertera"
+   },
+   "delete": {
+      "message": "Ta bort sidor"
+   },
+   "download": {
+      "message": "Hämta"
+   },
+   "downloadCta": {
+      "message": "Ladda ner nu"
+   },
+   "edit": {
+      "message": "Redigera"
+   },
+   "excel": {
+      "message": "Excel till PDF"
+   },
+   "extract": {
+      "message": "PDF till JPG"
+   },
+   "fileIsReady": {
+      "message": "Din fil är klar"
+   },
+   "file_schema_access_chrome_option": {
+      "message": "Tillåt åtkomst till webbadresser i filen"
+   },
+   "file_schema_access_description": {
+      "message": "Aktivera tillstånd i Tillägg i Chrome för att ge Smallpdf-verktygen tillgång till dina lokala filer. Då får du ut mesta möjliga av Smallpdf."
+   },
+   "file_schema_access_select": {
+      "message": "Eller välj filen igen"
+   },
+   "file_schema_access_select_button": {
+      "message": "välj fil"
+   },
+   "file_schema_access_step1": {
+      "message": "Gå till sidan med inställningar för Smallpdf i Tillägg i Chrome."
+   },
+   "file_schema_access_step2": {
+      "message": "Aktivera ”{option}”."
+   },
+   "file_schema_access_step3": {
+      "message": "Färdigt! Tänk på att du kan ändra inställningarna när som helst. Bra, va?"
+   },
+   "file_schema_access_title": {
+      "message": "Det är lätt som en plätt i 3 steg!"
+   },
+   "file_type_excel": {
+      "message": "Excel"
+   },
+   "file_type_generic_image": {
+      "message": "Bild"
+   },
+   "file_type_generic_image_plural": {
+      "message": "Bilder"
+   },
+   "file_type_generic_office": {
+      "message": "Office"
+   },
+   "file_type_pdf_plural": {
+      "message": "PDF-filer"
+   },
+   "file_type_powerpoint_long": {
+      "message": "PowerPoint"
+   },
+   "file_type_word": {
+      "message": "Word"
+   },
+   "gmail_converter_action_add_attachment_compress": {
+      "message": "Komprimera och bifoga {file_type}-filer"
+   },
+   "gmail_converter_action_dismiss": {
+      "message": "Avvisa"
+   },
+   "gmail_converter_error_processing_generic": {
+      "message": "Dokumentet kunde inte bearbetas."
+   },
+   "gmail_converter_error_unsupported_file_type": {
+      "message": "Filtypen stöds inte."
+   },
+   "gmail_converter_intro_action_confirm": {
+      "message": "Testa!"
+   },
+   "gmail_converter_intro_description": {
+      "message": "{bang} Förminska dina bifogade {file_type}-filers storlek med {app_name}."
+   },
+   "gmail_converter_status_processing_compress": {
+      "message": "Komprimerar..."
+   },
+   "gmail_converter_status_processing_generic": {
+      "message": "Bearbetar..."
+   },
+   "gmail_converter_status_uploading": {
+      "message": "Laddar upp..."
+   },
+   "gmail_intro_action_confirm": {
+      "message": "Ok, jag förstår"
+   },
+   "gmail_intro_action_next": {
+      "message": "Nästa"
+   },
+   "gmail_intro_compress": {
+      "message": "Minskar storleken på dina bifogade {input_format} direkt i Gmail"
+   },
+   "gmail_intro_convert_attachments": {
+      "message": "Konvertera bifogade {input_format} till {output_format_word}, {output_format_excel}, {output_format_ppt} och {output_format_jpg}"
+   },
+   "gmail_intro_features_convert_images": {
+      "message": "Konvertera {input_file_types_list} till {output_file_type}."
+   },
+   "gmail_intro_features_convert_pdf": {
+      "message": "Konvertera {input_file_type}-bilagor {output_file_types_list} files."
+   },
+   "gmail_intro_lead": {
+      "message": "{bang} Konvertera Gmail-bilagor med {app_name}"
+   },
+   "gmail_intro_new": {
+      "message": "NYTT!"
+   },
+   "job_status_uploading": {
+      "message": "Laddar upp..."
+   },
+   "jpg": {
+      "message": "JPG till PDF"
+   },
+   "list_conjunction_long_end": {
+      "message": "{0} och {1}"
+   },
+   "list_conjunction_long_middle": {
+      "message": "{0}, {1}"
+   },
+   "list_conjunction_long_pair": {
+      "message": "{0} och {1}"
+   },
+   "list_conjunction_long_start": {
+      "message": "{0}, {1}"
+   },
+   "list_disjunction_long_end": {
+      "message": "{0} eller {1}"
+   },
+   "list_disjunction_long_middle": {
+      "message": "{0}, {1}"
+   },
+   "list_disjunction_long_pair": {
+      "message": "{0} eller {1}"
+   },
+   "list_disjunction_long_start": {
+      "message": "{0}, {1}"
+   },
+   "merge": {
+      "message": "Sammanfoga"
+   },
+   "noInternetConnection": {
+      "message": "Ingen internetanslutning"
+   },
+   "options_extension_version": {
+      "message": "{browser_name}-tillägg / {version}"
+   },
+   "options_setting_gmail_integration_description": {
+      "message": "Med Gmail-integration kan du konvertera bifogade filer från e-postmeddelanden till och från {file_type}."
+   },
+   "options_setting_gmail_integration_title": {
+      "message": "Gmail-integration"
+   },
+   "options_setting_local_files_description": {
+      "message": "Ge {app_name} åtkomst till dina lokala filers webbadresser för att göra det möjligt att öppna {file_types} i {browser_name}."
+   },
+   "options_setting_local_files_title": {
+      "message": "Aktivera {app_name}-tillägget för lokala filer"
+   },
+   "options_setting_status_disabled": {
+      "message": "Inaktiverat"
+   },
+   "password_modal_description": {
+      "message": "Oops, dokumentet är lösenordsskyddat. Ange lösenordet för att låsa upp."
+   },
+   "password_modal_incorrect": {
+      "message": "Det var nog fel lösenord"
+   },
+   "password_modal_placeholder": {
+      "message": "Ange lösenord, please."
+   },
+   "password_modal_submit": {
+      "message": "SKICKA"
+   },
+   "password_modal_title": {
+      "message": "Här kommer du inte in utan lösenord"
+   },
+   "pdf_to_excel": {
+      "message": "PDF till Excel"
+   },
+   "pdf_to_ppt": {
+      "message": "PDF till PPT"
+   },
+   "pdf_to_word": {
+      "message": "PDF till Word"
+   },
+   "ppt": {
+      "message": "PPT till PDF"
+   },
+   "print": {
+      "message": "Skrivut"
+   },
+   "processingFailedMessage": {
+      "message": "Det uppstod tyvärr problem när din fil skulle behandlas"
+   },
+   "processingFailedTitle": {
+      "message": "Behandling misslyckades"
+   },
+   "protect": {
+      "message": "Skydda"
+   },
+   "rotate": {
+      "message": "Rotera"
+   },
+   "search": {
+      "message": "Sök"
+   },
+   "sign": {
+      "message": "Skriv under"
+   },
+   "split": {
+      "message": "Dela upp"
+   },
+   "tools": {
+      "message": "Verktyg"
+   },
+   "unlock": {
+      "message": "Lås upp"
+   },
+   "uploadFailed": {
+      "message": "Uppladdningen misslyckades"
+   },
+   "viewer_error_action": {
+      "message": "LADDA UPP NY PDF-FIL"
+   },
+   "viewer_error_invalid_description": {
+      "message": "Kontrollera att filen är en giltig PDF-fil och försök igen."
+   },
+   "viewer_error_invalid_title": {
+      "message": "Oj! Det verkar som att filen inte är en PDF-fil eller är skadad."
+   },
+   "viewer_error_unknown_description": {
+      "message": "Vi ber om ursäkt för problemet. 😔 Våra tekniker jobbar på att lösa det!"
+   },
+   "viewer_error_unknown_title": {
+      "message": "Hoppsan! Ett okänt fel har inträffat!"
+   },
+   "viewer_fit_to_page": {
+      "message": "Anpassa till sida"
+   },
+   "viewer_fit_to_width": {
+      "message": "Anpassa till bredd"
+   },
+   "viewer_next_page": {
+      "message": "Nästa sida"
+   },
+   "viewer_of_pages": {
+      "message": "av {total_pages}"
+   },
+   "viewer_previous_page": {
+      "message": "Föregående sida"
+   },
+   "viewer_rotate_clockwise": {
+      "message": "Rotera medurs"
+   },
+   "viewer_zoom_in": {
+      "message": "Zooma in"
+   },
+   "viewer_zoom_out": {
+      "message": "Zooma ut"
+   },
+   "word": {
+      "message": "Word till PDF"
+   }
+}

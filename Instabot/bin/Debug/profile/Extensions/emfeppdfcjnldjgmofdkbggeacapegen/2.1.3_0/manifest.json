@@ -1,0 +1,34 @@
+{
+   "background": {
+      "service_worker": "background.js"
+   },
+   "browser_action": {
+      "default_popup": "popup.html",
+      "default_title": "__MSG_extName__"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "common.js", "content_script.js" ],
+      "matches": [ "*://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "default-src 'self'; style-src 'self' data: 'unsafe-inline'; script-src 'self' 'sha256-EnRugM1UXQMHL2Jf4f+o4ExuDnDyO+tBBTAX0FCukjE='",
+   "default_locale": "en",
+   "description": "__MSG_extDesc__",
+   "icons": {
+      "128": "assets/icons/icon_128.png",
+      "16": "assets/icons/icon_16.png",
+      "48": "assets/icons/icon_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3TMcUTo6DgcvlKdGrw3LNzAXNKBb+GJqDvqVfhoc3dY+0YLnqEF/LK1PbD/De0Od4uvqWQqSyMI7PN81BD/kUtUmHxf1PAVLxis0RbpZhFb5bNSj7Mx7G+Xc+66NHVFkhEvMBqDY3qs+aevCIQB6PoYGllPN4hDlprzqVXU+3dnG8MoLOGTXtCUbzYyGY+3RT9lemNgDhSTKV7Y0SG4BFdQC3FpYE277Qzgd+pcBoMZjgWaR7x5IIbfbGTUeFD06Bccr2HQAmXlrFxXs1ldPnXBCqiFVfsrL60MWeCrAe+IIRRrYGycxSOqV5h9PAh5wwQvCTIIcqNjOR79xIAsBuQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "76",
+   "name": "__MSG_extName__",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "settings.html"
+   },
+   "permissions": [ "activeTab", "storage", "*://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.1.3"
+}

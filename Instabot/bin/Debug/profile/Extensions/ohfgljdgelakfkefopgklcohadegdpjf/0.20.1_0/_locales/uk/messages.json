@@ -1,0 +1,308 @@
+{
+   "action_app_website": {
+      "message": "Вебсайт {app_name}"
+   },
+   "action_browser_settings": {
+      "message": "Параметри {browser_name}"
+   },
+   "action_chrome_web_store": {
+      "message": "Веб-магазин {browser_name}"
+   },
+   "action_convert_to": {
+      "message": "Перетворити на {file_type}"
+   },
+   "action_manage_settings": {
+      "message": "Керування параметрами"
+   },
+   "appDesc": {
+      "message": "Прості інструменти PDF для редагування, перетворення, злиття, розділення та стискання PDF-файлів."
+   },
+   "appName": {
+      "message": "Smallpdf: редагування й перетворення PDF"
+   },
+   "beta_settings_description": {
+      "message": "Оскільки ви берете участь в тестуванні бета-версії Smallpdf, вам буде надано ексклюзивний доступ до найновіших функцій, перш ніж вони стануть загальнодоступними."
+   },
+   "beta_settings_title": {
+      "message": "Бета-версія програми Smallpdf"
+   },
+   "compress": {
+      "message": "Стиснути"
+   },
+   "converter": {
+      "message": "Перетворити"
+   },
+   "delete": {
+      "message": "Видалити сторінки"
+   },
+   "download": {
+      "message": "Завантажити"
+   },
+   "downloadCta": {
+      "message": "Завантажити зараз"
+   },
+   "edit": {
+      "message": "Редагувати"
+   },
+   "excel": {
+      "message": "Excel у PDF"
+   },
+   "extract": {
+      "message": "PDF у JPG"
+   },
+   "fileIsReady": {
+      "message": "Файл готовий"
+   },
+   "file_schema_access_chrome_option": {
+      "message": "Надавати доступ до URL-адрес файлу"
+   },
+   "file_schema_access_description": {
+      "message": "Для отримання максимальної користі від використання інструментів Smallpdf, увімкніть дозволи в налаштуваннях розширення для Chrome та надайте інструментам Smallpdf доступ до локальних файлів."
+   },
+   "file_schema_access_select": {
+      "message": "Або виберіть файл знову"
+   },
+   "file_schema_access_select_button": {
+      "message": "виберіть файл"
+   },
+   "file_schema_access_step1": {
+      "message": "Перейдіть на сторінку налаштувань розширення Smallpdf для Chrome."
+   },
+   "file_schema_access_step2": {
+      "message": "Натисніть «Увімкн.» у полі «{option}»."
+   },
+   "file_schema_access_step3": {
+      "message": "Готово! Ви можете змінити налаштування у будь-який час."
+   },
+   "file_schema_access_title": {
+      "message": "Лише 3 простих кроки, і все готово!"
+   },
+   "file_type_excel": {
+      "message": "Excel"
+   },
+   "file_type_generic_image": {
+      "message": "Зображення"
+   },
+   "file_type_generic_image_plural": {
+      "message": "Зображення"
+   },
+   "file_type_generic_office": {
+      "message": "Office"
+   },
+   "file_type_pdf_plural": {
+      "message": "PDF"
+   },
+   "file_type_powerpoint_long": {
+      "message": "PowerPoint"
+   },
+   "file_type_word": {
+      "message": "Word"
+   },
+   "gmail_converter_action_add_attachment_compress": {
+      "message": "Стискайте та вкладайте {file_type}-файли"
+   },
+   "gmail_converter_action_dismiss": {
+      "message": "Закрити"
+   },
+   "gmail_converter_error_processing_generic": {
+      "message": "Не вдалося обробити цей документ."
+   },
+   "gmail_converter_error_unsupported_file_type": {
+      "message": "Цей тип файла не підтримується."
+   },
+   "gmail_converter_intro_action_confirm": {
+      "message": "Спробуймо!"
+   },
+   "gmail_converter_intro_description": {
+      "message": "{bang} Зменшуйте розмір своїх вкладень {file_type} за допомогою {app_name}."
+   },
+   "gmail_converter_status_processing_compress": {
+      "message": "Стискання..."
+   },
+   "gmail_converter_status_processing_generic": {
+      "message": "Оброблення..."
+   },
+   "gmail_converter_status_uploading": {
+      "message": "Передавання..."
+   },
+   "gmail_intro_action_confirm": {
+      "message": "Зрозуміло"
+   },
+   "gmail_intro_action_next": {
+      "message": "Далі"
+   },
+   "gmail_intro_compress": {
+      "message": "Зменшуйте розмір своїх вкладень у форматі {input_format} прямо в Gmail"
+   },
+   "gmail_intro_convert_attachments": {
+      "message": "Перетворюйте вкладення у форматі {input_format} на {output_format_word}, {output_format_excel}, {output_format_ppt} і {output_format_jpg}"
+   },
+   "gmail_intro_features_convert_images": {
+      "message": "Перетворити файли {input_file_types_list} у {output_file_type}."
+   },
+   "gmail_intro_features_convert_pdf": {
+      "message": "Перетворити вкладення {input_file_type} у файли {output_file_types_list}."
+   },
+   "gmail_intro_lead": {
+      "message": "{bang} Перетворити вкладення Gmail у {app_name}"
+   },
+   "gmail_intro_new": {
+      "message": "НОВЕ!"
+   },
+   "job_status_uploading": {
+      "message": "Завантаження..."
+   },
+   "jpg": {
+      "message": "JPG у PDF"
+   },
+   "list_conjunction_long_end": {
+      "message": "{0} та {1}"
+   },
+   "list_conjunction_long_middle": {
+      "message": "{0}, {1}"
+   },
+   "list_conjunction_long_pair": {
+      "message": "{0} та {1}"
+   },
+   "list_conjunction_long_start": {
+      "message": "{0}, {1}"
+   },
+   "list_disjunction_long_end": {
+      "message": "{0} або {1}"
+   },
+   "list_disjunction_long_middle": {
+      "message": "{0}, {1}"
+   },
+   "list_disjunction_long_pair": {
+      "message": "{0} або {1}"
+   },
+   "list_disjunction_long_start": {
+      "message": "{0}, {1}"
+   },
+   "merge": {
+      "message": "Об'єднати"
+   },
+   "noInternetConnection": {
+      "message": "Немає Інтернет-з'єднання"
+   },
+   "options_extension_version": {
+      "message": "Розширення {browser_name} / {version}"
+   },
+   "options_setting_gmail_integration_description": {
+      "message": "Інтеграція з Gmail дає змогу перетворювати вкладення електронної пошти в типи та з типів файлів {file_type}."
+   },
+   "options_setting_gmail_integration_title": {
+      "message": "Інтеграція з Gmail"
+   },
+   "options_setting_local_files_description": {
+      "message": "Надайте {app_name} доступ до URL-адрес свого локального файлу, щоб відкривати файли {file_types} у {browser_name}."
+   },
+   "options_setting_local_files_title": {
+      "message": "Увімкнути розширення {app_name} для локальних файлів"
+   },
+   "options_setting_status_disabled": {
+      "message": "Вимкнуто"
+   },
+   "password_modal_description": {
+      "message": "Цей документ захищено паролем. Щоб відкрити, введіть пароль."
+   },
+   "password_modal_incorrect": {
+      "message": "Пароль невірний"
+   },
+   "password_modal_placeholder": {
+      "message": "Введіть пароль"
+   },
+   "password_modal_submit": {
+      "message": "ОК"
+   },
+   "password_modal_title": {
+      "message": "Необхідно ввести пароль"
+   },
+   "pdf_to_excel": {
+      "message": "PDF у Excel"
+   },
+   "pdf_to_ppt": {
+      "message": "PDF у PPT"
+   },
+   "pdf_to_word": {
+      "message": "PDF у Word"
+   },
+   "ppt": {
+      "message": "PPT у PDF"
+   },
+   "print": {
+      "message": "Друк"
+   },
+   "processingFailedMessage": {
+      "message": "Під час обробки вашого файлу сталася помилка"
+   },
+   "processingFailedTitle": {
+      "message": "Збій обробки"
+   },
+   "protect": {
+      "message": "Захистити"
+   },
+   "rotate": {
+      "message": "Обернути"
+   },
+   "search": {
+      "message": "Пошук"
+   },
+   "sign": {
+      "message": "Підписати"
+   },
+   "split": {
+      "message": "Розділити"
+   },
+   "tools": {
+      "message": "Інструменти"
+   },
+   "unlock": {
+      "message": "Розблокувати"
+   },
+   "uploadFailed": {
+      "message": "Не вдалося передати"
+   },
+   "viewer_error_action": {
+      "message": "ВИВАНТАЖИТИ НОВИЙ PDF"
+   },
+   "viewer_error_invalid_description": {
+      "message": "Переконайся в тому, що твій файл є дійсним PDF, і спробуй ще раз."
+   },
+   "viewer_error_invalid_title": {
+      "message": "Ой-ой! Здається, твій файл не є файлом PDF, або його пошкоджено."
+   },
+   "viewer_error_unknown_description": {
+      "message": "Перепрошуємо за незручності. 😔 Наші технічні фахівці вирішують її!"
+   },
+   "viewer_error_unknown_title": {
+      "message": "Ой! Сталася невідома помилка!"
+   },
+   "viewer_fit_to_page": {
+      "message": "Припасувати до сторінки"
+   },
+   "viewer_fit_to_width": {
+      "message": "Припасувати за шириною"
+   },
+   "viewer_next_page": {
+      "message": "Наступна сторінка"
+   },
+   "viewer_of_pages": {
+      "message": "із {total_pages}"
+   },
+   "viewer_previous_page": {
+      "message": "Попередня сторінка"
+   },
+   "viewer_rotate_clockwise": {
+      "message": "Повернути за годинниковою стрілкою"
+   },
+   "viewer_zoom_in": {
+      "message": "Наблизити"
+   },
+   "viewer_zoom_out": {
+      "message": "Віддалити"
+   },
+   "word": {
+      "message": "Word у PDF"
+   }
+}

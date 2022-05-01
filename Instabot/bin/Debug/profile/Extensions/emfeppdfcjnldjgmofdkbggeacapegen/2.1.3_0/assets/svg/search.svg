@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg enable-background="new 0 0 64 64" height="64px" version="1.1" viewBox="0 0 64 64" width="64px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g>
+        <circle cx="32" cy="25" fill="none" r="16" stroke="#222" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" />
+        <line fill="none" stroke="#222" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="40.9" x2="38.8" y1="44.1" y2="39.5" />
+        <line fill="none" stroke="#222" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4" x1="40.9" x2="46" y1="44.1" y2="55" />
+        <path d="M36.2,13.7   c2.7,1,4.9,2.9,6.3,5.3" fill="none" stroke="#222" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" />
+    </g>
+</svg>

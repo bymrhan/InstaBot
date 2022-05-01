@@ -1,0 +1,118 @@
+<!-- 
+  Created by sanjay kumar on 15/12/16.
+ -->
+
+
+<!doctype html>
+<html>
+<head>
+    <title>Development tool to edit, inspect and generate unique XPath queries and unique CSS selectors.</title>
+    <link rel="stylesheet" type="text/css" href="popup.css" />
+</head>
+<body>
+	<div class="content">
+		<div class="headerTop">
+			<img class="logo" src="../assets/chropathlogo.png">
+			<div class="headerContainer">
+				<button id='record' class="recorderButton">
+					<span class="cpStudio toolTip">Click to open ChroPath Studio.</span>
+				</button>			
+		
+				<a class="videoLink" target="_blank" href="https://youtu.be/8jgTADyJDR0">
+					<button class='videoIcon'>
+						<span class="tutorial toolTip">Click to watch video tutorial.</span>
+					</button>
+				</a>
+				<a class="supportLink" target="_blank" class="bold-link" href="https://join.slack.com/t/chropath/shared_invite/enQtNTk2NzQwMDE2Nzc1LWZjZGZiODc2NTNhYTVlMGQxNGNlMWM3MzRjNDNkODc2YjcxZWU2NTAxOGIwYzdmYzY2MDExZjdjMWEwMTcxZTI">
+					<button class="supportIcon">
+						<span class="slack toolTip">Click to join ChroPath slack channel.</span>
+					</button>
+				</a>
+			</div>
+			<br>
+		</div>
+		<div class="reviewRequest">
+			<span>Please add your review <a target="_blank" class="review-link" href="https://chrome.google.com/webstore/detail/chropath/ljngjbnaijcbncmcnjfhigebomdlkcjo/reviews/?scrollchropath=true">here</a> for ChroPath and help others.</span>
+			<p behavior="scroll" direction="left" id="newFeatureBanner"><a target="_blank" class="review-link" href="https://autonomiq.io/chropath/chropath-changelog/">Changelog</a></p>
+		</div>
+		<br>
+		<ul>
+			<li>After adding ChroPath, restart Chrome browser.</li>
+			<li>Open devtools panel by pressing <b>F12</b> or. 
+				<ul class="subMenu">
+					<li>Right-click anywhere on the webpage.</li>
+					<li>Click on <strong>Inspect</strong>.</li>
+				</ul>
+			</li>
+			<li>On right side of Elements tab, click on ChroPath tab. It will be the last tab, if not visible then expand sidebar.</li>
+			<li>If xpath not generating or any issue, 
+				<ul class="subMenu">
+					<li>Close the current tab and try different website.</li>
+					<li>Make sure there is a url in address bar as it might not support on blank new tab.</li>
+					<li>Chrome extensions won't support on chrome store.</li>
+				</ul>
+			</li>
+		</ul>
+		<br>
+		
+		<img class="supportGif" src="../assets/defaultTheme.jpeg">
+		<br>
+		
+		<br>
+		<a class="formLink" target="_blank" title="Join ChroPath Community" href="https://autonomiq.io/community-design-program/">Please click to join ChroPath Community Design Team</a>
+		<br>
+		<br>
+		<div class="team-container">
+			<button class='team'></button>
+			<ul class="teamName">
+				<h4>Active members of ChroPath Community Design Team</h4>
+				<li class="member-name">Sanjay Kumar | ChroPath Creator<span class="company-name">, AutonomIQ</span></li>
+				<li class="member-name">Raj Rao<span class="company-name">, AutonomIQ</span></li>
+				<li class="member-name">Mohsin Khalid<span class="company-name">, AutonomIQ</span></li>
+				<li class="member-name">Anupama H <span class="company-name"></span></li>
+				<li class="member-name">Raghunandan Gupta<span class="company-name"></span></li>
+				<li class="member-name">Sang Bui<span class="company-name"></span></li>
+				<li class="member-name">Mahesh Joshi<span class="company-name"></span></li>
+				<li class="member-name">Abhishek Kumar Roy<span class="company-name"></span></li>
+				<li class="member-name">Pallavi Sharma<span class="company-name"></span></li>
+				<li class="member-name">Victor Jimenez<span class="company-name"></span></li>
+				<li class="member-name">Manoj Singh<span class="company-name"></span></li>
+				<li class="member-name">Charlie Pradeep<span class="company-name"></span></li>
+				<li class="member-name">Srikanta Kumar Sahoo<span class="company-name"></span></li>
+				<li class="member-name">Sudhindra D Deshpande<span class="company-name"></span></li>
+				<li class="member-name">Kaushik Maitra<span class="company-name"></span></li>
+				<li class="member-name">Shahul Hameed<span class="company-name"></span></li>
+				<li class="member-name">Pavan Shanthakumar<span class="company-name"></span></li>
+				<li class="member-name">Jnanesh CM<span class="company-name"></span></li>
+				<li class="member-name">Kanchan Katare<span class="company-name"></span></li>
+				<li class="member-name">Nagesh C<span class="company-name"></span></li>
+				<li class="member-name">Chandra Shekar Reddy<span class="company-name"></span></li>
+				<li class="member-name">Rajendra Mohanti<span class="company-name"></span></li>
+				<li class="member-name">Hanumantha Reddy G S<span class="company-name"></span></li>
+				<li class="member-name">Pandu Damera<span class="company-name"></span></li>
+				<li class="member-name">Praveen Kanakam<span class="company-name"></span></li>
+				<li class="member-name">Aparna Singh<span class="company-name"></span></li>
+				<li class="member-name">Saurabh Bhandari<span class="company-name"></span></li>
+				<li class="member-name">Updesh Jain<span class="company-name"></span></li>
+				<li class="member-name">Anil Kumar<span class="company-name"></span></li>
+				<p>Want to add your name here:</p>
+				
+				<span class="communityRules">1. Add review for ChroPath <a target="_blank" class="review-link" href="https://chrome.google.com/webstore/detail/chropath/ljngjbnaijcbncmcnjfhigebomdlkcjo/reviews">here</a>.</span>
+				<span class="communityRules">2. Share ChroPath in your linkedin/twitter/facebook/quora etc.</span>
+				<span class="communityRules">3. Send the screenshot for above steps to chropath@autonomiq.io and you will get your name here in next release.</span>
+				
+				<p>Note: The members list will be updated in each release. Your name will be here for the release you supports. If you will not support in next release, name will be removed. Sorting of name is done as per the support.</p>
+			</ul>
+		</div>
+		
+	</div>
+	<div class="autonomiq"> 
+		<a target="_blank" href="https://autonomiq.io/"><img src="../assets/autonomiq_logo.png" class="autonomiqLogo"></a>
+		<!-- update version number here in every release -->
+		<span class="version">v 6.1.11</span>
+	</div>
+	<script src="./popup.js"></script>
+    <script src='../content-script/browser-polyfill.min.js'></script>
+</body>
+
+</html>

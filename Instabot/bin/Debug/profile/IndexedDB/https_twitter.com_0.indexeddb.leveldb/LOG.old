@@ -1,0 +1,6 @@
+2022/02/14-04:59:12.989 6a8 Creating DB C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Profile 1\IndexedDB\https_twitter.com_0.indexeddb.leveldb since it was missing.
+2022/02/14-04:59:12.994 6a8 Reusing MANIFEST C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Profile 1\IndexedDB\https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/14-05:03:42.730 2ef4 Level-0 table #5: started
+2022/02/14-05:03:42.732 2ef4 Level-0 table #5: 1278 bytes OK
+2022/02/14-05:03:42.734 2ef4 Delete type=0 #3
+2022/02/14-05:03:42.734 2ef4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

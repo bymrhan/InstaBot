@@ -1,0 +1,308 @@
+{
+   "action_app_website": {
+      "message": "Site web de {app_name}"
+   },
+   "action_browser_settings": {
+      "message": "Paramètres de {browser_name}"
+   },
+   "action_chrome_web_store": {
+      "message": "Boutique web de {browser_name}"
+   },
+   "action_convert_to": {
+      "message": "Convertir en {file_type}"
+   },
+   "action_manage_settings": {
+      "message": "Gérer les paramètres"
+   },
+   "appDesc": {
+      "message": "Outils PDF faciles à utiliser afin d'éditer, de convertir, de fusionner, de diviser et de compresser des fichiers PDF."
+   },
+   "appName": {
+      "message": "Smallpdf - Éditez et convertissez des PDF"
+   },
+   "beta_settings_description": {
+      "message": "Vous faites partie du programme de bêta test de Smallpdf. À ce titre, vous pouvez accéder en exclusivité à nos dernières fonctionnalités, avant même qu’elles soient disponibles publiquement."
+   },
+   "beta_settings_title": {
+      "message": "Le programme de bêta test de Smallpdf"
+   },
+   "compress": {
+      "message": "Compresser"
+   },
+   "converter": {
+      "message": "Convertir"
+   },
+   "delete": {
+      "message": "Supprimer des pages"
+   },
+   "download": {
+      "message": "Télécharger"
+   },
+   "downloadCta": {
+      "message": "Le télécharger maintenant"
+   },
+   "edit": {
+      "message": "Modifier"
+   },
+   "excel": {
+      "message": "Excel en PDF"
+   },
+   "extract": {
+      "message": "PDF en JPG"
+   },
+   "fileIsReady": {
+      "message": "Votre fichier est prêt"
+   },
+   "file_schema_access_chrome_option": {
+      "message": "Autoriser l'accès aux URL de fichier"
+   },
+   "file_schema_access_description": {
+      "message": "Pour profiter au maximum des outils Smallpdf, veuillez activer les autorisations depuis les paramètres de l’extension Chrome, afin d’accorder aux outils Smallpdf l’accès à vos fichiers stockés localement."
+   },
+   "file_schema_access_select": {
+      "message": "Ou choisissez à nouveau le fichier"
+   },
+   "file_schema_access_select_button": {
+      "message": "choisir un fichier"
+   },
+   "file_schema_access_step1": {
+      "message": "Accédez à la page des paramètres de l’extension Chrome Smallpdf."
+   },
+   "file_schema_access_step2": {
+      "message": "Positionnez l’interrupteur de l’option « {option} » sur la position « Activé »."
+   },
+   "file_schema_access_step3": {
+      "message": "C’est tout ! N’oubliez pas : vous pouvez modifier vos préférences dans les paramètres à tout moment."
+   },
+   "file_schema_access_title": {
+      "message": "Trois étapes simples suffisent !"
+   },
+   "file_type_excel": {
+      "message": "Excel"
+   },
+   "file_type_generic_image": {
+      "message": "Image"
+   },
+   "file_type_generic_image_plural": {
+      "message": "Images"
+   },
+   "file_type_generic_office": {
+      "message": "Office"
+   },
+   "file_type_pdf_plural": {
+      "message": "PDF"
+   },
+   "file_type_powerpoint_long": {
+      "message": "PowerPoint"
+   },
+   "file_type_word": {
+      "message": "Word"
+   },
+   "gmail_converter_action_add_attachment_compress": {
+      "message": "Compressez et joignez des documents {file_type}"
+   },
+   "gmail_converter_action_dismiss": {
+      "message": "Ignorer"
+   },
+   "gmail_converter_error_processing_generic": {
+      "message": "Le traitement de ce document a échoué."
+   },
+   "gmail_converter_error_unsupported_file_type": {
+      "message": "Ce type de fichier n'est pas compatible."
+   },
+   "gmail_converter_intro_action_confirm": {
+      "message": "Essayez !"
+   },
+   "gmail_converter_intro_description": {
+      "message": "{bang} Réduisez la taille de vos documents {file_type} en pièces jointes avec {app_name}."
+   },
+   "gmail_converter_status_processing_compress": {
+      "message": "Compression..."
+   },
+   "gmail_converter_status_processing_generic": {
+      "message": "Traitement..."
+   },
+   "gmail_converter_status_uploading": {
+      "message": "Téléchargement..."
+   },
+   "gmail_intro_action_confirm": {
+      "message": "Ok, compris"
+   },
+   "gmail_intro_action_next": {
+      "message": "Suivant"
+   },
+   "gmail_intro_compress": {
+      "message": "Réduisez la taille de vos {input_format} pièces jointes directement dans Gmail"
+   },
+   "gmail_intro_convert_attachments": {
+      "message": "Convertissez {input_format} les pièces jointes en {output_format_word}, {output_format_excel}, {output_format_ppt}, et {output_format_jpg}"
+   },
+   "gmail_intro_features_convert_images": {
+      "message": "Convertissez des fichiers {input_file_types_list} en {output_file_type}."
+   },
+   "gmail_intro_features_convert_pdf": {
+      "message": "Convertissez des pièces jointes {input_file_type} en fichiers {output_file_types_list}."
+   },
+   "gmail_intro_lead": {
+      "message": "{bang} Convertissez des pièces jointes Gmail avec {app_name}"
+   },
+   "gmail_intro_new": {
+      "message": "NOUVEAU !"
+   },
+   "job_status_uploading": {
+      "message": "Chargement..."
+   },
+   "jpg": {
+      "message": "JPG en PDF"
+   },
+   "list_conjunction_long_end": {
+      "message": "{0}, et {1}"
+   },
+   "list_conjunction_long_middle": {
+      "message": "{0}, {1}"
+   },
+   "list_conjunction_long_pair": {
+      "message": "{0} et {1}"
+   },
+   "list_conjunction_long_start": {
+      "message": "{0}, {1}"
+   },
+   "list_disjunction_long_end": {
+      "message": "{0}, ou {1}"
+   },
+   "list_disjunction_long_middle": {
+      "message": "{0}, {1}"
+   },
+   "list_disjunction_long_pair": {
+      "message": "{0} ou {1}"
+   },
+   "list_disjunction_long_start": {
+      "message": "{0}, {1}"
+   },
+   "merge": {
+      "message": "Fusionner"
+   },
+   "noInternetConnection": {
+      "message": "Aucune connexion Internet"
+   },
+   "options_extension_version": {
+      "message": "Extension {browser_name} / {version}"
+   },
+   "options_setting_gmail_integration_description": {
+      "message": "L'intégration Gmail vous permet de convertir des pièces jointes d'e-mail en {file_type} et inversement."
+   },
+   "options_setting_gmail_integration_title": {
+      "message": "Intégration Gmail"
+   },
+   "options_setting_local_files_description": {
+      "message": "Accordez à {app_name} l'accès à l'URL de vos fichier locaux pour permettre l'ouverture des {file_types} dans {browser_name}."
+   },
+   "options_setting_local_files_title": {
+      "message": "Activer l'extension {app_name} sur les fichiers locaux"
+   },
+   "options_setting_status_disabled": {
+      "message": "Désactivé"
+   },
+   "password_modal_description": {
+      "message": "Ce document est protégé par un mot de passe. Veuillez saisir le mot de passe pour le déverrouiller."
+   },
+   "password_modal_incorrect": {
+      "message": "Mot de passe erroné"
+   },
+   "password_modal_placeholder": {
+      "message": "Saisir le mot de passe"
+   },
+   "password_modal_submit": {
+      "message": "ENVOYER"
+   },
+   "password_modal_title": {
+      "message": "Mot de passe obligatoire"
+   },
+   "pdf_to_excel": {
+      "message": "PDF en Excel"
+   },
+   "pdf_to_ppt": {
+      "message": "PDF en PPT"
+   },
+   "pdf_to_word": {
+      "message": "PDF en Word"
+   },
+   "ppt": {
+      "message": "PPT en PDF"
+   },
+   "print": {
+      "message": "Imprimer"
+   },
+   "processingFailedMessage": {
+      "message": "Malheureusement, un problème est survenu lors du traitement de votre fichier"
+   },
+   "processingFailedTitle": {
+      "message": "Échec du traitement"
+   },
+   "protect": {
+      "message": "Protéger"
+   },
+   "rotate": {
+      "message": "Pivoter"
+   },
+   "search": {
+      "message": "Recherche"
+   },
+   "sign": {
+      "message": "Signer"
+   },
+   "split": {
+      "message": "Diviser"
+   },
+   "tools": {
+      "message": "Outils"
+   },
+   "unlock": {
+      "message": "Déverrouiller"
+   },
+   "uploadFailed": {
+      "message": "Malheureusement, votre chargement a échoué"
+   },
+   "viewer_error_action": {
+      "message": "IMPORTER UN AUTRE PDF"
+   },
+   "viewer_error_invalid_description": {
+      "message": "Vérifie que ton document est bien un PDF valide, puis réessaye."
+   },
+   "viewer_error_invalid_title": {
+      "message": "Mince ! Il semble que ton fichier ne soit pas un PDF ou qu’il ait été corrompu."
+   },
+   "viewer_error_unknown_description": {
+      "message": "Désolés pour le dérangement. 😔 Notre équipe technique est sur le pont !"
+   },
+   "viewer_error_unknown_title": {
+      "message": "Oups ! Une erreur inconnue s’est produite."
+   },
+   "viewer_fit_to_page": {
+      "message": "Ajuster à la page"
+   },
+   "viewer_fit_to_width": {
+      "message": "Ajuster à la largeur"
+   },
+   "viewer_next_page": {
+      "message": "Page suivante"
+   },
+   "viewer_of_pages": {
+      "message": "sur {total_pages}"
+   },
+   "viewer_previous_page": {
+      "message": "Page précédente"
+   },
+   "viewer_rotate_clockwise": {
+      "message": "Pivoter dans le sens des aiguilles d'une montre"
+   },
+   "viewer_zoom_in": {
+      "message": "Zoom avant"
+   },
+   "viewer_zoom_out": {
+      "message": "Zoom arrière"
+   },
+   "word": {
+      "message": "Word en PDF"
+   }
+}

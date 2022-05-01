@@ -1,0 +1,34 @@
+{
+   "author": "Sanjay Kumar",
+   "background": {
+      "persistent": false,
+      "scripts": [ "content-script/browser-polyfill.min.js", "extension/background.js" ]
+   },
+   "browser_action": {
+      "default_popup": "extension/popup.html",
+      "default_title": "ChroPath"
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "css": [ "content-script/contentScript.css" ],
+      "js": [ "content-script/browser-polyfill.min.js", "content-script/contentScript.js", "content-script/web-page.js" ],
+      "match_about_blank": true,
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "description": "ChroPath helps to generate and validate selectors like relative xpath with iframe,svg support. It also generate english testcases.",
+   "devtools_page": "devtools-panel/devtools.html",
+   "homepage_url": "https://autonomiq.io/",
+   "icons": {
+      "128": "icons-128.png",
+      "48": "icons-48.png",
+      "96": "icons-96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnTBXRqmqlhJN3rNBWOdclL+tWz4+MV1m8jGSIdsk15LaG5q+cHfg4EzYzZDHNR5s2VfO6yqrVdxzSOA59ult3Th69V2PhkH1laW/gBz09bZXmrFn2VJgHPR3UgRSglMBGa12DLGNNfUdvbduM+zYO1G683/9FfyxY/PJN5RQorrNGotmRmtp7VbRp49u8IS6tGZwPkEN+EgjdF6MgOUDfzGfVcNB+jc+YO11bC2N3wxjqzC82EJhRucIufPkX96hGI4d11ghXjuQFEpW78mxs3uMZlqQ1o/z07h7omCsJw4zuerBxBoxLowzA3kWt0o3DHSCyuEBLSGFl0lrWi8MXwIDAQAB",
+   "manifest_version": 2,
+   "name": "ChroPath",
+   "offline_enabled": true,
+   "permissions": [ "notifications", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "6.1.12"
+}

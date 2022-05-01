@@ -1,0 +1,59 @@
+{
+   "cannot_run": {
+      "message": "残障人士"
+   },
+   "css_label_font_size": {
+      "message": "14px"
+   },
+   "css_letter_spacing": {
+      "message": "0px"
+   },
+   "default": {
+      "message": "默认设置"
+   },
+   "disabled": {
+      "message": "已暂停"
+   },
+   "enabled": {
+      "message": "运作中"
+   },
+   "enter_domain": {
+      "message": "在此处输入域.."
+   },
+   "extDesc": {
+      "message": "防止網站禁用右鍵單擊，文本選擇和復制。"
+   },
+   "extName": {
+      "message": "最终启用右键单击"
+   },
+   "extShortName": {
+      "message": "最终启用右键单击"
+   },
+   "help": {
+      "message": "帮助"
+   },
+   "pending_refresh": {
+      "message": "待定重新加载"
+   },
+   "per_site_settings": {
+      "message": "每站点设置"
+   },
+   "popup_title_context_menu": {
+      "message": "防止右键单击阻止"
+   },
+   "popup_title_css_block_selection": {
+      "message": "启用文本选择 (CSS)"
+   },
+   "rate": {
+      "message": "星级"
+   },
+   "temp_disabled": {
+      "message": "在本次会议中暂停"
+   },
+   "temp_enabled": {
+      "message": "在本届会议上工作"
+   },
+   "version": {
+      "message": "版本 2.1.3"
+   }
+}

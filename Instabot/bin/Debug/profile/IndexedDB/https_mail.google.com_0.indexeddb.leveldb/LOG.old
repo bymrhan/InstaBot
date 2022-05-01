@@ -1,0 +1,7 @@
+2022/02/13-13:42:22.029 301c Reusing MANIFEST C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Profile 1\IndexedDB\https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/13-13:42:22.029 301c Recovering log #3
+2022/02/13-13:42:22.029 301c Reusing old log C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Profile 1\IndexedDB\https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2022/02/13-13:43:14.648 2f68 Level-0 table #5: started
+2022/02/13-13:43:14.656 2f68 Level-0 table #5: 626223 bytes OK
+2022/02/13-13:43:14.658 2f68 Delete type=0 #3
+2022/02/13-13:43:14.658 2f68 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
