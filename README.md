@@ -17,6 +17,10 @@ description: >-
 ✨ İnstagram takip ettiklerim ve takipçi listelerini çekerek takip etmeyenleri bulur,beyaz liste sayesinde takipten çıkarılmayacakları beyaz listeye eklenebilir. Saatlik veya anlık olarak takipten çıkarma işlemlerini kullanarak takip etmeyenler listesindeki kişileri selenium ve chromedriver yardımıyla takipten çıkarma işlemini gerçekleştirir.
 
 
+## <img src="https://avatars.githubusercontent.com/u/968310?s=200&v=4" align="center" width="3%"> Kullanılan Nuget Paketleri 
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
+<a href="https://chromedriver.chromium.org/" target="_blank" rel="noreferrer"> <img src="https://www.pngmart.com/files/16/official-Google-Chrome-Logo-PNG-Photos.png" alt="chromedriver" width="7%"/> </a>
+
 
 ## 👁‍🗨 Uygulamaya Genel Bakış
 
